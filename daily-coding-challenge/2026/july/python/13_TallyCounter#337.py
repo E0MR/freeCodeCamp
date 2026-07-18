@@ -3,10 +3,9 @@
 Tally Counter
 
 Given a string of tally marks, return the total count represented.
-
-Each pipe "|" represents one count.
-Every fifth mark is represented as a forward slash "/", completing a group of five ("||||/").
-Groups are separated by a space.
+  Each pipe "|" represents one count.
+  Every fifth mark is represented as a forward slash "/", completing a group of five ("||||/").
+  Groups are separated by a space.
 
 Tests:
   get_tally_count("||||") should return 4.

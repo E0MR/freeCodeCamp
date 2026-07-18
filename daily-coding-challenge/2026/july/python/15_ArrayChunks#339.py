@@ -3,8 +3,7 @@
 Array Chunks
 
 Given an array and a chunk size, return the array split into sub-arrays of that size.
-
-The last chunk may be smaller if the array doesn't divide evenly.
+  The last chunk may be smaller if the array doesn't divide evenly.
 
 Tests:
   chunk_array([1, 2, 3, 4, 5, 6], 3) should return [[1, 2, 3], [4, 5, 6]].
@@ -19,8 +18,8 @@ Tests:
 def chunk_array(arr, size):
     result = []
     start = 0
-    while (start < len(arr)):
-        result.append(arr[start:start+size])
+    while start < len(arr):
+        result.append(arr[start : start + size])
         start += size
 
     return result
