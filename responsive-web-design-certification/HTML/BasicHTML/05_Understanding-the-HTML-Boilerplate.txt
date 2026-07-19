@@ -1,0 +1,122 @@
+1] What Is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets?
+
+    #Questions
+
+        1) What is the role of the link element in HTML?
+
+            It specifies the content type of the linked resource.
+
+            It determines the visibility of the linked resource on the webpage.
+
+            It defines the font size of the linked resource when displayed.
+
+            It is used to link to external resources like stylesheets and site icons.
+            Correct!
+
+
+        2) What is the role of the rel attribute inside the link element?
+
+            It is used to indicate the language of the linked document.
+
+            It is used to specify the relationship between the linked resource and the HTML document.
+            Correct!
+
+            It is used to define the media type of the linked document.
+
+            It is used to determine the size of the linked document.
+
+
+        3) What is a favicon?
+
+            A type of JavaScript file used to enhance website functionality.
+
+            A type of font used to style text on a website.
+
+            A small icon typically displayed in the browser tab next to the site title.
+            Correct!
+
+            A security feature used to prevent cross-site scripting attacks.
+
+
+
+2] What Is an HTML Boilerplate, and Why Is It Important?
+
+    #Questions
+
+        1) Where would you set the character encoding for your page?
+
+            A meta element in the body.
+
+            A head element in the body.
+
+            A meta element in the head.
+            Correct!
+
+            In the DOCTYPE.
+
+
+        2) Where would you set the language for your page?
+
+            In the opening html tag.
+            Correct!
+
+            A meta element in the body.
+
+            A head element in the body.
+
+            A meta element in the head.
+
+
+        3) What purpose does a boilerplate serve?
+
+            Provides a starting structure for your websites.
+
+            Ensures you are not missing any essential elements.
+
+            Allows you to get started writing the content of your page faster.
+
+            All of the above.
+            Correct!
+
+
+
+3] What Is UTF-8 Character Encoding, and Why Is It Needed?
+
+    #Questions
+
+        1) Which attribute is used to set the UTF-8 character encoding for HTML documents?
+
+            pattern
+
+            content
+
+            charset
+            Correct!
+
+            lang
+
+
+        2) What is character encoding?
+
+            A method computers use to store characters as data.
+            Correct!
+
+            A way to compress text files.
+
+            It determines the font used to display text on a screen.
+
+            It refers to the process of converting spoken language into written text.
+
+
+        3) How many bits are in a byte?
+
+            1
+
+            33
+
+            7
+
+            8
+            Correct!
+
+
