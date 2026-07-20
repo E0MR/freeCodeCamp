@@ -8,7 +8,8 @@ Given a string of a person's first and last name, calculate their lucky number u
   Multiply the smaller vowel and consonant counts by each other and then by the length of the smaller name
   Do the same for the two larger counts and the larger name
   Subtract the smaller value from the larger one to get their lucky number
-  If the final value is zero (0), return 13.
+
+If the final value is zero (0), return 13.
 
 Tests:
   getLuckyNumber("John Doe") should return 21.
@@ -48,7 +49,6 @@ function getLuckyNumber(name) {
     shorterName,
     tallerName,
   } = numbers;
-
 
   let luckyNumber =
     Math.max(vowelsNum1, vowelsNum2) *
