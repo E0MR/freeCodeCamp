@@ -23,7 +23,7 @@ def pig_latin(str):
     strings = str.split(" ")
     result = []
     for string in strings:
-        isToUpperCase = string[0].upper() == string[0]
+        is_capitalized = string[0].upper() == string[0]
         if string[0] in vowels:
             result.append(string + "way")
         else:
@@ -32,7 +32,7 @@ def pig_latin(str):
                     string = (string + char)[1:]
             temp = (
                 (string[0].upper() + (string + "ay")[1:].lower())
-                if isToUpperCase
+                if is_capitalized
                 else (string + "ay")
             )
             result.append(temp)

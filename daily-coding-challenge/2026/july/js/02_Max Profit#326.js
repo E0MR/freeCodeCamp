@@ -8,7 +8,7 @@ Given an array of daily stock prices and a budget (in dollars), calculate the ma
   You can only buy whole shares.
   Return the maximum possible profit as a string, rounded down to the nearest cent and formatted to two decimal places.
 
-  Tests:
+Tests:
   getMaxProfit([5, 6], 50) should return "10.00".
   getMaxProfit([8, 2, 5, 10], 20) should return "80.00".
   getMaxProfit([4, 5, 3, 6], 20) should return "18.00".

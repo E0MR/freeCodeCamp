@@ -25,7 +25,7 @@ Tests:
 
 
 def pet_years(pet, age):
-    petsAgesInHumanYears = {
+    pets_ages_in_human_years = {
         "dog": 7,
         "cat": 6,
         "rabbit": 8,
@@ -34,7 +34,7 @@ def pet_years(pet, age):
         "goldfish": 6,
         "bird": 5,
     }
-    return petsAgesInHumanYears[pet] * age
+    return pets_ages_in_human_years[pet] * age
 
 
 print(pet_years("dog", 5))  # 35
