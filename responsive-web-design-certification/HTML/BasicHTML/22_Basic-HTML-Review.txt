@@ -1,0 +1,13 @@
+Outline
+    HTML Basics
+    Common HTML Elements
+    Identifiers and Grouping
+    Special Characters and Linking
+    Boilerplate and Encoding
+    SEO and Social Sharing
+    Media Elements and Optimization
+    Multimedia Integration
+    Target Attribute Types
+    Absolute vs. Relative Paths
+    Link States
+    Assignment

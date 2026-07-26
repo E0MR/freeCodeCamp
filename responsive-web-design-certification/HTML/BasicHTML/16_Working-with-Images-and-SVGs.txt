@@ -1,0 +1,122 @@
+1] What Are Common Ways to Optimize Media Assets?
+
+    #Questions
+
+        1) How should you scale, or size, your images?
+
+            Your images should be smaller than the rendered size on the page.
+
+            Your images should be larger than the rendered size on the page.
+
+            Your images should be the same scale as the rendered size on the page.
+            Correct!
+
+            It doesn't matter, use whatever size you'd like.
+
+
+        2) Which of the following is NOT a valid image file type?
+
+            TS
+            Correct!
+
+            PNG
+
+            JPG
+
+            WEBP
+
+
+        3) Which file format uses lossy compression, meaning re-saving or re-compressing it degrades image quality?
+
+            WEBP
+
+            PNG
+
+            JPG
+            Correct!
+
+            GIF
+
+
+
+2] What Are the Different Types of Image Licenses, and How Do They Work?
+
+    #Questions
+
+        1) What is the default license for images?
+
+            All rights reserved
+            Correct!
+
+            Permissive license
+
+            Public Domain
+
+            Creative Commons
+
+
+        2) Which license releases works to the public domain?
+
+            MIT
+
+            BSD
+
+            Creative Commons
+
+            Creative Commons 0
+            Correct!
+
+
+        3) How can you find images that you are allowed to use?
+
+            Search for images on Google and use them freely.
+
+            Use websites like Pixabay or Unsplash.
+            Correct!
+
+            Use any image from social media as long as you give credit.
+
+            You can use any image as long as it's not watermarked.
+
+
+
+3] What Are SVGs, and When Should You Use Them?
+
+    #Questions
+
+        1) What is a raster image?
+
+            An image which stores paths, lines, points, and curves.
+
+            An image which stores color data for each pixel.
+            Correct!
+
+            All images are raster images.
+
+            An image which is easily scalable.
+
+
+        2) What is a vector image?
+
+            An image which stores paths, lines, points, and curves.
+            Correct!
+
+            An image which stores color data for each pixel.
+
+            All images are vector images.
+
+            An image which is not easily scalable.
+
+
+        3) How does an SVG store data?
+
+            As pixels.
+
+            As binary.
+
+            As hexadecimal.
+
+            As XML.
+            Correct!
+
+

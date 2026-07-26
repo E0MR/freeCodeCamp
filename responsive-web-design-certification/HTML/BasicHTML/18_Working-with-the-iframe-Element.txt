@@ -1,0 +1,81 @@
+1] What Are Replaced Elements, and What Are Some Examples?
+
+    #Questions
+
+        1) What can you style in a replaced element?
+
+            The font size.
+
+            The layout or positioning.
+            Correct!
+
+            The color of specific text.
+
+            Everything.
+
+
+        2) What is a replaced element replaced with?
+
+            An external object.
+            Correct!
+
+            Another element.
+
+            Some CSS.
+
+            Assembly.
+
+
+        3) Which of these is a replaced element?
+
+            h1
+
+            p
+
+            iframe
+            Correct!
+
+            a
+
+
+
+2] How Do You Embed Videos onto Your Page Using the iframe Element?
+
+    #Questions
+
+        1) What does iframe mean?
+
+            International frame.
+
+            Inline form.
+
+            Inline frame.
+            Correct!
+
+            Inline form element.
+
+
+        2) Which attribute of the iframe element specifies the location of what you want to embed?
+
+            src
+            Correct!
+
+            url
+
+            frameborder
+
+            cross-origin
+
+
+        3) Which attribute of the iframe element do you use instead of src if you want to embed direct HTML?
+
+            html
+
+            document
+
+            srcweb
+
+            srcdoc
+            Correct!
+
+

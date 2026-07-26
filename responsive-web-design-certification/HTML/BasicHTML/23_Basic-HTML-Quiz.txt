@@ -1,0 +1,251 @@
+1.Which of the following is NOT a correct statement about absolute and relative paths?
+
+    Absolute paths start from the root directory, while relative paths depend on the location of the current file.
+    
+    Relative paths are shorter and more flexible for linking within a website, while absolute paths include the full URL.
+    
+    Both absolute and relative paths can be used to link to files within the same website.
+    
+    Relative paths cannot use .. to move up directories, but absolute paths can.
+    Correct!
+
+
+2.Which of the following is NOT a valid target attribute value in an a tag?
+
+    _top
+
+    _main
+    Correct!
+
+    _parent
+
+    _self
+
+
+3.What is the purpose of the controls attribute in the audio element?
+
+    It automatically starts the audio when the page loads.
+
+    It specifies the audio file's source URL.
+
+    It defines the audio file format for the browser to use.
+
+    It adds built-in playback controls like play, pause, and volume adjustment.
+    Correct!
+
+
+4.Which of the following elements improves SEO by providing a brief description of the web page?
+
+    <meta
+    name="desc"
+    content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden."
+    />
+
+    <meta
+    description="describe"
+    content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden."
+    />
+
+    <meta
+    name="description"
+    content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden."
+    />
+    Correct!
+
+    <meta
+    description="description"
+    content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden."
+    />
+
+
+5.What does <meta charset="utf-8" /> do?
+
+    Sets the language of the webpage to English.
+
+    Links an external CSS stylesheet.
+
+    Specifies the title of the webpage.
+
+    Defines the character encoding to ensure proper text display.
+    Correct!
+
+
+6.What is the difference between link and script elements in HTML?
+
+    link is used to add styles from an external CSS file, while script is used to run JavaScript code.
+    Correct!
+
+    script is for adding styles, and link is for running JavaScript.
+
+    link is for JavaScript files, and script is for CSS files.
+
+    Both link and script are used to style web pages.
+
+
+7.Which of the following statements about HTML classes and IDs is incorrect?
+
+    ID names cannot contain underscores and must be unique.
+    Correct!
+
+    The rel attribute defines the relationship between the linked resource and the HTML document.
+
+    The og:image property is used to specify the image displayed in social media posts.
+
+    A class name can be used multiple times throughout an HTML document.
+
+
+8.Which of the following statements about HTML heading elements is true?
+
+    The text size remains the same for all heading elements.
+
+    h3 is larger than h2.
+
+    The text size decreases from h1 to h6.
+    Correct!
+
+    The text size increases from h1 to h6.
+
+
+9.Which statement is incorrect about HTML elements?
+
+    A boolean attribute is one that works simply by being present or absent in a tag.
+
+    Void elements contain content and only have a start tag.
+    Correct!
+
+    HTML elements are the basic building blocks of a webpage.
+
+    Some codebases include a forward slash (/) inside void elements.
+
+
+10.Which of the following statements about void elements in HTML is true?
+
+    Both <img> and <img/> are acceptable in modern HTML.
+    Correct!
+
+    The forward slash / is mandatory for self-closing void elements in all versions of HTML.
+
+    A void element should never include a forward slash /.
+
+    A void element must always include a forward slash / before closing.
+
+
+11.What is the primary purpose of comments in programming?
+
+    To store temporary data within the code.
+
+    To leave notes for yourself and other developers in the code.
+    Correct!
+
+    To make the code run faster.
+
+    To change how the browser displays content.
+
+12.Which target attribute opens a link in the same browsing context as the current one?
+
+    _parent
+
+    _blank
+
+    _top
+
+    _self
+    Correct!
+
+
+13.What is the purpose of the em element in HTML?
+
+    To make text bigger.
+
+    To convey stress emphasis by making text italic.
+    Correct!
+
+    To change the text color.
+
+    To underline words for emphasis.
+
+
+14.What does the strong element do in HTML?
+
+    Increases the font size.
+
+    Underlines the text.
+
+    Changes the text color.
+
+    Makes text bold to show importance.
+    Correct!
+
+
+15.What is the main difference between the figure and figcaption elements in HTML?
+
+    figure groups related content like images or diagrams, while figcaption provides a caption for that content.
+    Correct!
+
+    There is no difference; both are used for the same purpose.
+
+    figcaption must always be placed outside the figure element.
+
+    figure is used for captions, while figcaption is used to group related content like images or diagrams.
+
+
+16.Why are HTML entities used?
+
+    To add styling to text.
+
+    To increase the font size of special characters.
+
+    To create hyperlinks in a webpage.
+
+    To represent reserved characters like < and & in HTML.
+    Correct!
+
+
+17.Which of the following statements about Open Graph tags is correct?
+
+    Open Graph tags are used to style a webpage with CSS.
+
+    The og:title property sets the title that appears when content is shared on social media.
+    Correct!
+
+    Open Graph tags are only used for SEO and have no effect on social media.
+
+    Open Graph tags must be placed inside the body section of HTML.
+
+
+18.Which of the following statements about image formats is incorrect?
+
+    Compression helps reduce image file sizes.
+
+    PNG and JPG are the best formats for optimized images today.
+    Correct!
+
+    SVG images can scale without losing quality.
+
+    WEBP and AVIF are better for modern image optimization.
+
+
+19.What does the loop attribute do in the audio element?
+
+    Repeats the audio continuously.
+    Correct!
+
+    Slows down the audio playback.
+
+    Stops the audio after one play.
+
+    Plays the audio once.
+
+
+20.Which of the following best describes an HTML boilerplate?
+
+    A browser plugin that speeds up webpage loading.
+
+    A predefined template containing essential HTML structure for web development.
+    Correct!
+
+    A coding framework exclusively for animations in HTML.
+
+    A special tool used by web developers to add watermarks to documents.
+
+    

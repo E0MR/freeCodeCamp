@@ -1,0 +1,163 @@
+1] What Are the Different Target Attribute Types, and How Do They Work?
+
+    #Questions
+
+        1) How many current target values are there to choose from?
+
+            2
+
+            4
+            Correct!
+
+            3
+
+            1
+
+
+        2) Where will a link with target="_blank" open?
+
+            In a new window or tab.
+            Correct!
+
+            In the same window or tab.
+
+            On your second monitor.
+
+            On Camperchan's computer.
+
+
+        3) What is the default behavior when you do not set a target?
+
+            Opens in a new window or tab.
+
+            Opens in the parent context.
+
+            Opens in the same window or tab.
+            Correct!
+
+            Does not open.
+
+
+
+2] What Is the Difference Between Absolute and Relative Paths?
+
+    #Questions
+
+        1) What are the two types of paths?
+
+            Resolute and absolute paths.
+
+            Absolute and ultimate paths.
+
+            Relative and unique paths.
+
+            Absolute and relative paths.
+            Correct!
+
+
+        2) How do you link to a resource available only on the internet?
+
+            Absolute URL.
+            Correct!
+
+            Absolute path.
+
+            Relative path.
+
+            Both relative and absolute paths.
+
+
+        3) Which protocol is used for an absolute URL on a local machine?
+
+            http://
+
+            https://
+
+            file://
+            Correct!
+
+            localhost
+
+
+
+3] What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
+
+    #Questions
+
+        1) Which option is an absolute path?
+
+            /public/styles.css
+            Correct!
+
+            ./script.js
+
+            ../src/nav.html
+
+            https://freecodecamp.org
+
+
+        2) Which option is a relative path to the current directory?
+
+            /public/styles.css
+
+            ./script.js
+            Correct!
+
+            ../src/nav.html
+
+            https://freecodecamp.org
+
+
+        3) Which option is a relative path to the parent directory?
+
+            /public/styles.css
+
+            ./script.js
+
+            ../src/nav.html
+            Correct!
+
+            https://freecodecamp.org
+
+
+
+4] What Are the Different Link States, and Why Are They Important?
+
+    #Questions
+
+        1) What is the default state of a link?
+
+            :link
+            Correct!
+
+            :visited
+
+            :hover
+
+            :active
+
+
+        2) Which state applies while a user is clicking the link?
+
+            :link
+
+            :visited
+
+            :hover
+
+            :active
+            Correct!
+
+
+        3) In what order should you style your links?
+
+            visited, link, active, focus, hover.
+
+            link, active, hover, focus, visited.
+
+            hover, active, link, focus, visited.
+
+            link, visited, hover, focus, active.
+            Correct!
+
+
