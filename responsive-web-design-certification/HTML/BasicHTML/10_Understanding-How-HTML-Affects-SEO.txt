@@ -1,0 +1,81 @@
+1] What Is the Role of the Meta Description, and How Does It Affect SEO?
+
+    #Questions
+
+        1) Which element is used to set the description for a web page?
+
+            img
+
+            meta
+            Correct!
+
+            slot
+
+            figure
+
+
+        2) What does SEO stand for?
+
+            Slot Engine Optimization
+
+            Site Enhancement Outreach
+
+            Social Engagement Optimization
+
+            Search Engine Optimization
+            Correct!
+
+
+        3) Where does the page's description typically show up?
+
+            Inside the figure element.
+
+            Inside the footer element.
+
+            In the search engine results page.
+            Correct!
+
+            In a popup alert message.
+
+
+
+2] What Is the Role of Open Graph Tags, and How Do They Affect SEO?
+
+    #Questions
+
+        1) What are open graph properties used for?
+
+            For embedding interactive multimedia content directly into web pages.
+
+            To set how your website's content will be seen on different social media platforms.
+            Correct!
+
+            For generating dynamic pop-up advertisements on websites.
+
+            For encrypting sensitive data transmitted between web servers and users' browsers.
+
+
+        2) What does the property="og:title" do in the meta element?
+
+            It automatically adjusts the font size and style of the webpage title based on user preferences.
+
+            It directs the browser to display a specific emoticon or emoji as the title of the webpage.
+
+            It causes the webpage to play a specific audio file when the title is displayed in the browser tab.
+
+            It specifies the title of your web page content when it is shared on social media platforms.
+            Correct!
+
+
+        3) What does the property="og:type" do in the meta element?
+
+            It selects the page's default font style.
+
+            It triggers a pop-up advertisement when the webpage is loaded.
+
+            It specifies the type of content used for your web page when it is shared on social media platforms.
+            Correct!
+
+            It changes the webpage's background color based on the user's time zone.
+
+

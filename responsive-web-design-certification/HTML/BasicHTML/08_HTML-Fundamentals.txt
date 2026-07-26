@@ -1,0 +1,163 @@
+1] What Are Div Elements and When Should You Use Them?
+
+    #Questions
+
+        1) What semantic meaning does a div element have?
+
+            The div element represents a container for introductory content or a set of navigational links.
+
+            The div element defines a footer for a document or section.
+
+            The div specifies the main page content and should be unique.
+
+            The div element has no semantic meaning.
+            Correct!
+
+
+        2) When is it most appropriate to use a div element in your HTML?
+
+            When dividing content into separate sections of a page.
+
+            When grouping related content for styling purposes.
+            Correct!
+
+            When marking up the main heading of a page.
+
+            When embedding media such as images or videos.
+
+
+        3) Which of the following HTML elements is commonly used to group content into distinct sections?
+
+            section
+            Correct!
+
+            aside
+
+            nav
+
+            h1
+
+
+
+2] What Are IDs and Classes, and When Should You Use Them?
+
+    #Questions
+
+        1) When should you use an id versus a class?
+
+            Use a class when you want a unique identifier that should only apply to one element.
+
+            Use an id when you need a unique identifier for a specific element, and use a class when you want to apply styles or behavior to multiple elements.
+            Correct!
+
+            Use an id when you want to style multiple elements consistently across different parts of your webpage.
+
+            Use an id when you want to apply styles that can be easily overridden by other styles in your CSS.
+
+
+        2) What happens if you use the same id more than once in your HTML?
+
+            It can lead to unwanted results and issues when trying to apply styles or targeting an element in JavaScript.
+            Correct!
+
+            The program will crash.
+
+            Nothing will happen.
+
+            There will be a popup alert message in the browser window.
+
+
+        3) Which of the following is NOT a correct value for the id attribute?
+
+
+            id="heading"
+
+            id="main-heading"
+
+            id="main"
+
+            id="main heading"
+            Correct!
+
+
+3] What Are HTML Entities, and What Are Some Common Examples?
+
+    #Questions
+
+        1) What is an HTML entity (character reference)?
+
+            A set of Google fonts.
+
+            A group of images and captions.
+
+            A set of characters used to represent JavaScript code.
+
+            A set of characters used to represent a reserved character in HTML.
+            Correct!
+
+
+        2) What are the three types of character references?
+
+            Named, Roman and Hexadecimal numeric character references.
+
+            Octal, Named and Binary character references.
+
+            Named, Decimal numeric, and Hexadecimal numeric character references.
+            Correct!
+
+            Asymmetric, Decimal numeric, and Hexadecimal numeric character references.
+
+
+        3) Which of the following is the correct syntax for a named character reference?
+
+            &amp;
+            Correct!
+
+            ;amp;
+
+            &amp>>
+
+            &amp&
+
+
+
+4] What Is the Role of the Script Element in HTML, and How Can It Be Used to Link to External JavaScript Files?
+
+    #Questions
+
+        1) Which attribute is used to link to an external JavaScript file?
+
+            The div attribute.
+
+            The defer attribute.
+
+            The async attribute.
+
+            The src attribute.
+            Correct!
+
+
+        2) What is separation of concerns?
+
+            It's about making sure everyone on the team has their own clear responsibilities.
+
+            A design principle where you separate your programs into distinct sections and have each section address a separate concern.
+            Correct!
+
+            The act of combining all aspects of a program into a single module for simplicity.
+
+            It involves dividing up tasks among team members without considering how they might overlap or affect each other.
+
+
+        3) Which of the following is the correct syntax for linking to an external JavaScript file?
+
+            <script div="path-to-javascript-file.js"></script>
+
+            <script alt="path-to-javascript-file.js"></script>
+
+            <script src="path-to-javascript-file.js"></script>
+            Correct!
+
+            <script defer="path-to-javascript-file.js"></script>
+
+
