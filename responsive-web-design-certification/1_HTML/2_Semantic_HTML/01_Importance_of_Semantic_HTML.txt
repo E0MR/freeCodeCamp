@@ -1,0 +1,122 @@
+1] Why Should You Care About Semantic HTML?
+
+    # Questions
+
+        1) What does semantic refer to?
+
+            Nitpicking the code.
+
+            The meaning and structure of words/phrases in a language.
+            Correct!
+
+            It's a grammar term unrelated to programming.
+
+            Dictionary definitions.
+
+
+        2) Which element does not have semantic meaning?
+
+            div
+            Correct!
+
+            h1
+
+            p
+
+            img
+
+
+        3) Why should you care about semantic HTML?
+
+            It improves SEO.
+
+            It improves accessibility.
+
+            It improves developer experience.
+
+            All of the above
+            Correct!
+
+
+
+2] Why Is It Important to Have Good Structural Hierarchy?
+
+    # Questions
+
+        1) Why is structural hierarchy important?
+
+            Accessibility
+
+            SEO
+
+            So browsers know what we mean
+
+            All of the above
+            Correct!
+
+
+        2) Which heading element must precede an h3 element?
+
+            h5
+
+            h2
+            Correct!
+
+            h6
+
+            h4
+
+
+        3) How should you create larger text on your page?
+
+            Use any element you want, and style it with CSS.
+
+            Use an h1 because it already has large text.
+
+            Use a span element.
+
+            Use the correct structural element, and style it with CSS.
+            Correct!
+
+
+
+3] What Is the Difference Between Presentational and Semantic HTML?
+
+    # Questions
+
+        1) Which of the following best describes the difference between presentational and semantic HTML?
+
+            Presentational HTML focuses on content structure, while semantic HTML focuses on appearance.
+
+            Semantic HTML focuses on content structure, while presentational HTML focuses on appearance.
+            Correct!
+
+            There is no difference between presentational and semantic HTML.
+
+            Both focus on style, but presentational HTML is more modern.
+
+
+        2) Which of the following is an example of presentational HTML?
+
+            Using the header element to define a header.
+
+            Using the nav element to define a navigation section.
+
+            Using the article element to define independent content.
+
+            Using the center element to center the content.
+            Correct!
+
+
+        3) Which of the following is an example of semantic HTML?
+
+            Using <font color="red"> to make text red.
+
+            Using the center element to center the content.
+
+            Using the nav element to represent a navigation section.
+            Correct!
+
+            Using the big element to make text bigger.
+
+

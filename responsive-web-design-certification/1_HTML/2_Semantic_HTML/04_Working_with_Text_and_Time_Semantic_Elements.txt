@@ -1,0 +1,163 @@
+1] How Do Block and Inline Quotes Work in HTML?
+
+    # Questions
+
+        1) Which HTML element is used for displaying extended quotations from other sources?
+
+            q
+
+            blockquote
+            Correct!
+
+            cite
+
+            p
+
+
+        2) What is the purpose of the cite element in HTML?
+
+            To display inline quotations.
+
+            To specify the source URL of a quotation.
+
+            To mark up the title of a referenced creative work.
+            Correct!
+
+            To display extended quotations.
+
+
+        3) Which HTML attribute is used to specify the source of a quotation in a block or inline quotation element?
+
+            href
+
+            src
+
+            title
+
+            cite
+            Correct!
+
+
+
+2] How Do You Display Abbreviations in HTML?
+
+    # Questions
+
+        1) Which HTML element is used to indicate an abbreviation or acronym?
+
+            abbr
+            Correct!
+
+            acronym
+
+            abbrev
+
+            acron
+
+
+        2) What is the primary purpose of the abbr element?
+
+            To style text as an abbreviation.
+
+            To indicate an abbreviation or acronym and provide additional information.
+            Correct!
+
+            To shorten the content of a webpage.
+
+            To improve search engine rankings.
+
+
+        3) What attribute can be used within the abbr element to provide the full form of an acronym or abbreviation?
+
+            explain
+
+            description
+
+            title
+            Correct!
+
+            fullform
+
+
+
+3] How Do You Display Addresses in HTML?
+
+    # Questions
+
+        1) What is the purpose of the address element?
+
+            It's used to define a section for navigation links.
+
+            It's used to represent contact information for a section on a web page.
+            Correct!
+
+            It's used to set the font style for a section of the page.
+
+            It's used to group content for styling with CSS.
+
+
+        2) What is the mailto link used for?
+
+            It's used to link to a webpage.
+
+            It's used to create a file download link.
+
+            It's used to redirect to another website.
+
+            It's used to allow users to open a new email within their preferred email client.
+            Correct!
+
+
+        3) What is a downside to using mailto links?
+
+            These links are a target for spammers to send emails to users.
+            Correct!
+
+            These links automatically create a webpage.
+
+            These links enhance website SEO.
+
+            These links improve website loading speed.
+
+
+
+4] How Do You Display Times and Dates in HTML?
+
+    # Questions
+
+        1) What does the datetime attribute in the time element help with?
+
+            It formats text in bold.
+
+            It translates dates and times into a machine-readable format.
+            Correct!
+
+            It adds color to the text.
+
+            It creates hyperlinks to other pages.
+
+
+        2) What is the correct format for the datetime attribute value according to ISO 8601?
+
+            YYYY-MM-DDTHH:MM:SS
+            Correct!
+
+            DD-MM-YYYY HH:MM
+
+            MM-DD-YYYY HH:MM AM/PM
+
+            YYYY/MM/DD HH:MM:SS
+
+
+        3) What does the capital 'T' in the ISO 8601 datetime value represent?
+
+            The time zone.
+
+            The separator between date and time.
+            Correct!
+
+            The title of the document.
+
+            The temperature.
+
+

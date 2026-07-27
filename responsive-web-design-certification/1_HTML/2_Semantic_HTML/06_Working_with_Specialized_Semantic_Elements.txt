@@ -1,0 +1,122 @@
+1] How Do You Display Mathematical Equations and Chemical Formulas in HTML?
+
+    # Questions
+
+        1) What is the primary use of the superscript element in HTML?
+
+            To display text in a different color.
+
+            To show text in a smaller font size.
+
+            To display text as a superscript above the normal line of text.
+            Correct!
+
+            To underline text.
+
+
+        2) Which of the following is an example of using the superscript element correctly?
+
+            <p>2<sub>2</sub> (2 squared) is 4.</p>
+
+            <p>2<sup>2</sup> (2 squared) is 4.</p>
+            Correct!
+
+            <p>2<sul>2</sul> (2 squared) is 4.</p>
+
+            <p>2<sutp>2</sutp> (2 subscript) is 4.</p>
+
+
+        3) What should be used instead of the sup element when text is raised purely for visual or styling purposes?
+
+            The sub element.
+
+            CSS
+            Correct!
+
+            The strong element.
+
+            The em element.
+
+
+
+2] How Do You Represent Computer Code in HTML?
+
+    # Questions
+
+        1) What is the code element used for?
+
+            It's used to create hyperlinks to other web pages.
+
+            It's used to format text with bold or italic styles.
+
+            It's used to represent short snippets of code inside text.
+            Correct!
+
+            It's used to embed images and multimedia files.
+
+
+        2) What is the preformatted text (pre) element used for?
+
+            It's used to apply CSS styles to text.
+
+            It's used to create tables and structured layouts.
+
+            It's used to represent preformatted text.
+            Correct!
+
+            It's used to insert hyperlinks and email addresses.
+
+
+        3) What is the default styling for the code element?
+
+            Monospaced font.
+            Correct!
+
+            Italic text with a colored background.
+
+            Bold text with a larger font size.
+
+            Underlined text with a fixed-width font.
+
+
+
+3] What Are the U, S, and Ruby Elements Used For, and How Do They Work?
+
+    # Questions
+
+        1) What is the u element used for?
+
+            It's used to display subscripts in chemical formulas.
+
+            It's used to represent user input in HTML forms.
+
+            It's used to represent inline text that has non-textual annotation applied.
+            Correct!
+
+            It's used to italicize text in HTML.
+
+
+        2) What is the s element used for?
+
+            It's used to represent when text is no longer accurate or relevant.
+            Correct!
+
+            It's used to create navigational aids on websites.
+
+            It's used to represent copyright information on pages.
+
+            It's used to represent captions for images.
+
+
+        3) What is the ruby element typically used for?
+
+            It's used to write ruby applications.
+
+            It's used to create list items on a page.
+
+            It's used to apply an underline for text.
+
+            It's used to show the pronunciation of East Asian characters.
+            Correct!
+
+

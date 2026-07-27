@@ -1,0 +1,4 @@
+Outline
+    Importance of Semantic HTML
+    Semantic HTML Elements
+    Assignment

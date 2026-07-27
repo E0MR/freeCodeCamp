@@ -1,0 +1,122 @@
+1] When Should You Use the Emphasis Element Over the Idiomatic Text Element?
+
+    # Questions
+
+        1) Which HTML element is used to differentiate text from its surrounding content without conveying specific importance?
+
+            em
+
+            strong
+
+            i
+            Correct!
+
+            mark
+
+
+        2) When should you use CSS instead of the i or em elements?
+
+            When the text has a special purpose or meaning in the paragraph.
+
+            When you want to display text in italics for presentational purposes only.
+            Correct!
+
+            When the text is an idiomatic expression.
+
+            When the text needs to be emphasized for importance.
+
+
+        3) What is the primary difference between i and em?
+
+            There is no difference; they both emphasize text.
+
+            i indicates that the text differs from the surrounding content, while em emphasizes important text.
+            Correct!
+
+            i is for emphasis, while em is for styling.
+
+            They both emphasize text the same way, but em conveys more importance.
+
+
+
+2] When Should You Use the Strong Element Over the Bring Attention To Element?
+
+    # Questions
+
+        1) Which HTML element is used to draw attention to a specific part of the text without conveying specific importance?
+
+            strong
+
+            mark
+
+            em
+
+            b
+            Correct!
+
+
+        2) Which HTML element is used to indicate text that is specially important or urgent?
+
+            strong
+            Correct!
+
+            b
+
+            em
+
+            mark
+
+
+        3) What is the primary difference between b and strong?
+
+            There is no difference; they both make the text bold.
+
+            b is for visual emphasis, while strong is for emphasizing importance.
+            Correct!
+
+            strong is for styling, while b is for emphasizing importance.
+
+            They are both used for presentational purposes only.
+
+
+
+3] What Are Description Lists, and When Should You Use Them?
+
+    # Questions
+
+        1) Which HTML tag is used to define an entire description list?
+
+            dt
+
+            dd
+
+            dl
+            Correct!
+
+            li
+
+
+        2) Which HTML tag is used to represent a term in a description list?
+
+            dl
+
+            dt
+            Correct!
+
+            dd
+
+            li
+
+
+        3) Which HTML tag is used to define or provide more details about a term in a description list?
+
+            dl
+
+            dt
+
+            dd
+            Correct!
+
+            li
+
+

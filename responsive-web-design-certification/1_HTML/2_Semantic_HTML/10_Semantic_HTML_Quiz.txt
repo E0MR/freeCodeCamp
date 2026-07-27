@@ -1,0 +1,254 @@
+1.Which of the following is NOT an example of a presentational HTML element?
+
+    article
+    Correct!
+
+    font
+
+    big
+
+    center
+
+
+2.Which of the following elements is used to represent a single line of code in HTML?
+
+    codes
+
+    coding
+
+    code
+    Correct!
+
+    codecs
+
+
+3.What is the difference between the strong and b elements?
+
+    The strong element is commonly used to highlight keywords in summaries while the b element emphasizes text that is crucial, or urgent.
+
+    The b element is commonly used to highlight keywords in summaries while the strong element emphasizes text that is crucial, or urgent.
+    Correct!
+
+    The b element is used to emphasize the importance of the text while the strong is used to highlight alternative voice or mood.
+
+    The strong element is used to highlight alternative voice or mood while the b element emphasizes text that is crucial, or urgent.
+
+
+4.Which of the following is the correct way to use to emphasize a piece of text?
+
+    <p>
+    Never give up on <emphasize>your</emphasize> dreams.
+    </p>
+
+    <p>
+    Never give up on <emphasis>your</emphasis> dreams.
+    </p>
+
+    <p>
+    Never give up on <em>your</em> dreams.
+    </p>
+    Correct!
+
+    <p>
+    Never give up on <e>your</e> dreams.
+    </p>
+
+
+5.Which of the following elements is used to bring attention to text that is not important for the meaning of the content?
+
+    b
+    Correct!
+
+    em
+
+    small
+
+    strong
+
+
+6.When should you use CSS instead of the i or em elements?
+
+    When the text needs to be emphasized for importance.
+
+    When the text is an idiomatic expression.
+
+    When the text has a special purpose or meaning in the paragraph.
+
+    When you want to display text in italics for presentational purposes only.
+    Correct!
+
+7.Which of the following elements is used to represent a span of inline text which should be rendered in a way that indicates that it has a non-textual annotation?
+
+    s
+
+    u
+    Correct!
+
+    sub
+
+    span
+
+
+8.Which of the following is the correct way to represent a section quoted from another source?
+
+    <quotes cite="https://www.freecodecamp.org/news/learn-to-code-book/">
+    "Can you imagine what it would be like to be a successful developer? To have built software systems that people rely upon?"
+    </quotes>
+
+    <blockquote cite="https://www.freecodecamp.org/news/learn-to-code-book/">
+    "Can you imagine what it would be like to be a successful developer? To have built software systems that people rely upon?"
+    </blockquote>
+    Correct!
+
+    <block cite="https://www.freecodecamp.org/news/learn-to-code-book/">
+    "Can you imagine what it would be like to be a successful developer? To have built software systems that people rely upon?"
+    </block>
+
+    <cite cite="https://www.freecodecamp.org/news/learn-to-code-book/">
+    "Can you imagine what it would be like to be a successful developer? To have built software systems that people rely upon?"
+    </cite>
+
+
+9.Which of the following elements is used to mark up the title of a referenced creative work like a book?
+
+    figure
+
+    article
+
+    cite
+    Correct!
+
+    div
+
+
+10.What is the role of the q element?
+
+    It represents a date and/or time.
+
+    It represents superscript text.
+
+    It represents a short inline quotation.
+    Correct!
+
+    It represents a fragment of computer code.
+
+
+11.Which of the following is used to display abbreviations and acronyms in HTML?
+
+    <p><abbr>HTML</abbr> is the foundation of the web.</p>
+    Correct!
+
+    <p><abbreviation>HTML</abbreviation> is the foundation of the web.</p>
+
+    <p><acr>HTML</acr> is the foundation of the web.</p>
+
+    <p><acronym>HTML</acronym> is the foundation of the web.</p>
+
+
+12.What is the role of the title attribute inside of the abbreviation element?
+
+    It is used to annotate text with pronunciation or meaning explanations.
+
+    It is used to represent a span of inline text which should be rendered in a way that indicates that it has a non-textual annotation.
+
+    It is used to represent subscript text.
+
+    It is used to help users understand what this acronym means.
+    Correct!
+
+
+13.Which of the following elements is used to represent contact information on the web page?
+
+    location
+
+    residence
+
+    address
+    Correct!
+
+    contact
+
+
+14.What is the role of the datetime attribute in the time element?
+
+    It is used to set the time to military format.
+
+    It is used to represent dates and times in a machine-readable format.
+    Correct!
+
+    It is used to set the time to a 12-hour clock format.
+
+    It is used to display an alert to show the current date and time.
+
+
+15.Which of the following is used to display a piece of text as a superscript?
+
+    <p>2<s>2</s> (2 squared) is 4.</p>
+
+    <p>2<superscript>2</superscript> (2 squared) is 4.</p>
+
+    <p>2<sup>2</sup> (2 squared) is 4.</p>
+    Correct!
+
+    <p>2<super>2</super> (2 squared) is 4.</p>
+
+
+16.Which of the following is NOT a common use case for using the subscript (sub) element?
+
+    variable subscripts
+
+    displaying dates
+    Correct!
+
+    chemical formulas
+
+    footnotes
+
+
+17.What is the role of the s element?
+
+    It is used to represent inline text that has non-textual annotation applied.
+
+    It is used to indicate text for the ruby annotation.
+
+    It is used to represent when text is no longer accurate or relevant.
+    Correct!
+
+    It is used to style a piece of text with a raised baseline.
+
+
+18.Which of the following is NOT a common use case for using the superscript element?
+
+    chemical formulas
+    Correct!
+
+    superior lettering
+
+    ordinal numbers
+
+    exponents
+
+
+19.What is the role of the ruby element?
+
+    It represents the term being defined in a description list.
+
+    It represents a list of term-description groupings.
+
+    It represents small text shown above or below the main text.
+    Correct!
+
+    It represents preformatted text for code examples.
+
+
+20.Which of the following elements is used as a fallback for browsers lacking support for displaying ruby annotations?
+
+    rp
+    Correct!
+
+    r
+
+    pr
+
+    rub
+
