@@ -1,0 +1,88 @@
+0] HTML Validator
+
+    https://validator.w3.org/
+
+    https://jsonformatter.org/
+
+
+1] What Is an HTML Validator, and How Can It Help You Debug Your Code?
+
+    # Questions
+
+        1) Why does the browser render tags correctly even when there's an error like forgetting to close a tag?
+
+            HTML does not care about closing a tag.
+
+            The browser's parsing algorithm figures out the errors and tries to render the tags as intended.
+            Correct!
+
+            The code editor's diffing algorithm knows what the author wants to render.
+
+            HTML is smart enough to know what the author wants to show.
+
+
+        2) What is an HTML validator?
+
+            A tool for writing HTML.
+
+            A tool for arranging HTML code.
+
+            A tool for making HTML code work across browsers.
+
+            A tool that checks the validity of HTML.
+            Correct!
+
+
+        3) Which of these is an example of an HTML validator?
+
+            W3.org HTML validator
+            Correct!
+
+            CSS Lint
+
+            JavaScript Debugger
+
+            Photoshop
+
+
+
+2] How to Use the DOM Inspector and DevTools to Debug and Build Your Projects
+
+    # Questions
+
+        1) What is the process of finding and fixing bugs in your code called?
+
+            Scanning
+
+            Building
+
+            Debugging
+            Correct!
+
+            Scripting
+
+
+        2) What is the tree-like structure that represents the elements on a page called?
+
+            BOM
+
+            DOM
+            Correct!
+
+            Python
+
+            CSS
+
+
+        3) What is the role of the "elements" tab in the developer tools?
+
+            It shows you the HTML structure of the page you are on.
+            Correct!
+
+            It shows you the CSS structure of the page you are on.
+
+            It shows you the JavaScript structure of the page you are on.
+
+            It shows you the PHP structure of the page you are on.
+
+

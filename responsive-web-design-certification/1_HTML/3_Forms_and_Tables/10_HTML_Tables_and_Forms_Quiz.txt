@@ -1,0 +1,283 @@
+1.Which of the following attributes is used to specify the URL where the form data should be sent?
+
+    accept
+
+    capture
+
+    action
+    Correct!
+
+    lang
+
+
+2.Which two elements are used to specify a row and a row header in a table?
+
+    The tr element is used for rows and the head element is used for the header.
+
+    The r element is used for rows and the thead element is used for the header.
+
+    The tr element is used for rows and the th element is used for the header.
+    Correct!
+
+    The row element is used for rows and the th element is used for the header.
+
+
+3.What is the td element used for?
+
+    It is used to merge two rows.
+
+    It is used to define a table cell.
+    Correct!
+
+    It is used to define a table data type.
+
+    It is used to merge two columns.
+
+
+4.What is the function of the colspan attribute?
+
+    It's used to define the number of columns.
+
+    It defines the number of columns a table cell should span.
+    Correct!
+
+    It removes the breakline between text in a column.
+
+    It defines the length of a column in a table.
+
+
+5.What is the role of the placeholder attribute?
+
+    It's used to specify that an input field is read-only to the user.
+
+    It's used to associate a label element with an input element.
+
+    It's used to provide a hint for an input field.
+    Correct!
+
+    It's used to send data to the server when the form is submitted.
+
+
+6.What is the purpose of the thead element?
+
+    It's used to group the footer content in an HTML table.
+
+    It's used to group the body content in an HTML table.
+
+    It's used to group the header content in an HTML table.
+    Correct!
+
+    It's used to group the description of an HTML table.
+
+
+7.Which of the following is an example of explicit form association between labels and inputs?
+
+    <label connect="age">Age:</label>
+    <input type="number" id="age" name="age">
+
+    <label for="age">Age:</label>
+    <input type="number" id="age" name="age">
+    Correct!
+
+    <label explicit="age">Age:</label>
+    <input type="number" id="age" name="age">
+
+    <label associate="age">Age:</label>
+    <input type="number" id="age" name="age">
+
+
+8.What is an HTML validator used for?
+
+    A validator is a tool that applies styles to your HTML.
+
+    A validator is a tool that makes your HTML code run faster.
+
+    A validator is a tool that automatically formats your HTML code.
+
+    A validator is a tool that checks the syntax of HTML code to ensure it is valid.
+    Correct!
+
+
+9.Which element is used to define a cell in a table?
+
+    tc
+
+    tcol
+
+    td
+    Correct!
+
+    th
+
+
+10.Which of the following is a tool that allows you to inspect and modify the HTML structure of a web page?
+
+    DOM removal.
+
+    DOM validation.
+
+    DOM tester.
+
+    DOM inspector.
+    Correct!
+
+
+11.Which of the following is the correct way to group related input fields?
+
+    <form>
+        <fieldset>
+            <caption>User information</caption>
+
+            <label for="name">Name: </label>
+            <input type="text" id="name" />
+
+            <label for="email">Email: </label>
+            <input type="email" id="email" />
+        </fieldset>
+    </form>
+
+    <form>
+        <fieldset>
+            <title>User information</title>
+
+            <label for="name">Name: </label>
+            <input type="text" id="name" />
+
+            <label for="email">Email: </label>
+            <input type="email" id="email" />
+        </fieldset>
+    </form>
+
+    <form>
+        <fieldset>
+            <legend>User information</legend>
+
+            <label for="name">Name: </label>
+            <input type="text" id="name" />
+
+            <label for="email">Email: </label>
+            <input type="email" id="email" />
+        </fieldset>
+    </form>
+    Correct!
+
+    <form>
+        <span>
+            <p>User information</p>
+
+            <label for="name">Name: </label>
+            <input type="text" id="name" />
+
+            <label for="email">Email: </label>
+            <input type="email" id="email" />
+        </span>
+    </form>
+
+
+12.Which of the following is used to specify that an input field is read-only?
+
+    read-only
+
+    readonly
+    Correct!
+
+    only-read
+
+    readInputOnly
+
+
+13.Which attribute specifies that an input must be filled out before submitting the form?
+
+    essential
+
+    required
+    Correct!
+
+    necessary
+
+    obligatory
+
+
+14.What are Devtools used for?
+
+    These tools are built directly into the browser and are used to help you debug, profile, and analyze web pages.
+    Correct!
+
+    These tools are built directly into the browser and are used to help you ensure 100% test coverage for your code.
+
+    These tools are built directly into the browser and they are used to spot any linting issues in your code.
+
+    These tools are built directly into the browser and are used to automatically format your code.
+
+
+15.Which of the following is the correct way to disable an input?
+
+    <input type="checkbox" inputDisabled />
+
+    <input type="checkbox" disabled />
+    Correct!
+
+    <input type="checkbox" disabledInput />
+
+    <input type="checkbox" disabling />
+
+
+16.Which of the following is a valid value for the type attribute?
+
+    <input type="time" />
+
+    <input type="email" />
+    Correct!
+
+    <input type="capture" />
+
+    <input type="action" />
+
+
+17.Which of the following is the correct use of the size attribute?
+
+    <input id="fullName" type="text" size="10" />
+    Correct!
+
+    <input id="fullName" type="text" size="10vh" />
+
+    <input id="fullName" type="text" size="large" />
+
+    <input id="fullName" type="text" size=".001" />
+
+
+18.Which of the following attributes are used to specify the minimum and maximum number of characters required in an input field?
+
+    minlen and maxlen
+
+    minimumLen and maximumLen
+
+    min and max
+
+    minlength and maxlength
+    Correct!
+
+
+19.Which of the following button examples does NOT use a correct value for the type attribute?
+
+    <button type="submit">Submit</button>
+
+    <button type="button">Example Button</button>
+
+    <button type="reset">Reset</button>
+
+    <button type="btn">Example Btn</button>
+    Correct!
+
+
+20.Which of the following attributes is used to specify the value for a button?
+
+    value
+    Correct!
+
+    buttonValue
+
+    val
+
+    btnVal
+

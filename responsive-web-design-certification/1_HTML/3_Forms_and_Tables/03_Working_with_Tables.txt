@@ -1,0 +1,40 @@
+1] What Are HTML Tables Used For, and What Should They Not Be Used For?
+
+    # Questions
+
+        1) In an HTML table, which elements are contained within a tr element?
+
+            thead and tfoot.
+
+            td and th.
+            Correct!
+
+            table and tbody.
+
+            div and span.
+
+
+        2) Which of the following are the main sections of an HTML table?
+
+            table, div, and span.
+
+            header, section, and footer.
+
+            thead, tbody, and tfoot.
+            Correct!
+
+            article, aside, and nav.
+
+
+        3) What is the main recommended use of HTML tables today?
+
+            Creating page layouts.
+
+            Displaying tabular data.
+            Correct!
+
+            Styling with CSS.
+
+            Embedding images.
+
+

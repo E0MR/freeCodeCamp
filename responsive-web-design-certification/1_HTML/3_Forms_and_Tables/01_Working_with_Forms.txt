@@ -1,0 +1,163 @@
+1] How Do Forms, Labels, and Inputs Work in HTML?
+
+    # Questions
+
+        1) What is the role of the for attribute inside the label element?
+
+            It indicates the color of the label text.
+
+            It's used to explicitly associate a label with an input.
+            Correct!
+
+            It specifies the alignment of the label within its container.
+
+            It defines a JavaScript function to execute when the label is clicked.
+
+
+        2) Which of the following is a correct value for the type attribute used inside inputs?
+
+            choice
+
+            text-box
+
+            numberinput
+
+            text
+            Correct!
+
+
+        3) What is the role of the placeholder attribute inside the input element?
+
+            It is used to provide a hint or example text within an input field.
+            Correct!
+
+            It specifies the type of input field.
+
+            It defines the initial value displayed in the input field.
+
+            It indicates the maximum length of characters allowed in the input field.
+
+
+
+2] What Are the Different Types of Buttons, and When Should You Use Them?
+
+    # Questions
+
+        1) Which of the following is NOT a valid value for the type attribute inside buttons?
+
+            src
+            Correct!
+
+            button
+
+            reset
+
+            submit
+
+
+        2) What is the role of type="reset" inside the button element?
+
+            It submits the form data.
+
+            It only resets textarea elements.
+
+            It resets the form.
+            Correct!
+
+            There is no behavior for the reset type.
+
+
+        3) What is another element you can use to represent a button?
+
+            img
+
+            form
+
+            header
+
+            input
+            Correct!
+
+
+
+3] What Is Client-Side Form Validation in HTML Forms, and What Are Some Examples?
+
+    # Questions
+
+        1) What is the purpose of the minlength and maxlength attributes inside inputs?
+
+            They're used to control the font size of the text inside the input field.
+
+            They're used to set the minimum and maximum length in characters for the input.
+            Correct!
+
+            They're used to define the width of the input field on the page.
+
+            They're used to specify the maximum number of characters that can be typed in a textarea.
+
+
+        2) Which attribute is used to ensure that an input field is marked as required?
+
+            required
+            Correct!
+
+            size
+
+            minlength
+
+            autoplay
+
+
+        3) What happens if you try to submit a value without an @ sign for the email input?
+
+            The program will crash.
+
+            The form will submit just fine.
+
+            Nothing will happen.
+
+            The browser will show an alert message that the input is missing the @ sign.
+            Correct!
+
+
+
+4] What Are the Different Form States, and Why Are They Important?
+
+    # Questions
+
+        1) Which attribute is used to disable an input?
+
+            readonly
+
+            required
+
+            checked
+
+            disabled
+            Correct!
+
+
+        2) Which attribute is used to mark an input read only?
+
+            checked
+
+            readonly
+            Correct!
+
+            size
+
+            capture
+
+
+        3) When does the focus state occur?
+
+            When an input field is disabled and cannot be interacted with.
+
+            When an input field is validated and shows an error message.
+
+            When the user clicks on an input or selects it using the tab key to focus it.
+            Correct!
+
+            When an input field has been pre-filled with default values by the browser.
+
+
