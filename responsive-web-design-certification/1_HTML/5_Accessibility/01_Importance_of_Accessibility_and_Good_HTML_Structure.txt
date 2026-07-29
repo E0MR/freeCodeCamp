@@ -1,0 +1,327 @@
+1] What Is Accessibility?
+
+    # Questions
+
+        1) What is the primary goal of web accessibility?
+
+            To make websites look better.
+
+            To ensure websites are usable by everyone.
+            Correct!
+
+            To improve website performance.
+
+            To increase website traffic.
+
+
+        2) What are the Web Content Accessibility Guidelines (WCAG)?
+
+            A programming language for web development.
+
+            A set of guidelines for making websites accessible to everyone.
+            Correct!
+
+            A new design trend for websites.
+
+            A tool for testing website performance.
+
+
+        3) Which of the following is NOT a core principle of the Web Content Accessibility Guidelines (WCAG)?
+
+            Perceivable.
+
+            Operable.
+
+            Understandable.
+
+            Compatible.
+            Correct!
+
+
+
+2] What Are Screen Readers, and Who Uses Them?
+
+    # Questions
+
+        1) Which of the following is the screen reader built into macOS and iOS devices?
+
+            Ella
+
+            Speakup
+
+            VoiceBox
+
+            VoiceOver
+            Correct!
+
+
+        2) Which of the following are screen readers not made for?
+
+            The blind
+
+            Visually impaired people
+
+            The deaf
+            Correct!
+
+            Dyslexic people
+
+
+        3) Which of these is not a feature of screen readers?
+
+            Speech-to-text
+            Correct!
+
+            Text-to-speech
+
+            Braille output
+
+            Web browsing support
+
+
+
+3] What Are Large Text or Braille Keyboards, and Who Uses Them?
+
+    # Questions
+
+        1) What is one benefit of using large text keyboards?
+
+            Improved typing speed.
+
+            Enhanced performance.
+
+            Improved readability of the keys.
+            Correct!
+
+            Reduced noise levels.
+
+
+        2) Who primarily benefits from the use of large text and braille keyboards?
+
+            People with hearing disabilities.
+
+            People with cognitive disabilities.
+
+            People with visual disabilities.
+            Correct!
+
+            People with motor disabilities.
+
+
+        3) How do people identify letters, numbers, and symbols in braille keyboards?
+
+            By feeling patterns of raised dots with their fingers.
+            Correct!
+
+            By speaking into the keyboard.
+
+            By using a stylus.
+
+            By reading the keys.
+
+
+
+4] What Are Alternative Pointing Devices Such as Trackballs, Joysticks, and Touchpads Used For?
+
+    # Questions
+
+        1) What kind of device are trackball, joystick, and touchpad?
+
+            Output devices
+
+            Input/output devices
+
+            Pointing devices
+            Correct!
+
+            VDU devices
+
+
+        2) Which device supports multi-touch gestures like pinch-to-zoom, two-finger scrolling, tap-to-click, and three-finger swipes?
+
+            The traditional mouse
+
+            Touchpad
+            Correct!
+
+            Joystick
+
+            Trackballs
+
+
+        3) Which pointing device is primarily designed for games and specific industrial applications?
+
+            Joystick
+            Correct!
+
+            Trackball
+
+            Mouse
+
+            Trackpad or touchpad
+
+
+
+5] What Are Screen Magnifiers Used For?
+
+    # Questions
+
+        1) How do most screen magnifiers work?
+
+            By providing text-to-speech functionality.
+
+            By enlarging the texts, graphics, and other elements on a computer or mobile device screen.
+            Correct!
+
+            By providing a ruler around every element on the page.
+
+            By enlarging only the texts on a screen for better visibility.
+
+
+        2) Which of these should a developer do to make their digital products friendly to screen magnifiers?
+
+            Use big fonts only.
+
+            Disable zooming to keep the layout intact.
+
+            Rely only on images to convey information.
+
+            Make their pages respond to different screen sizes.
+            Correct!
+
+
+        3) Which of the following is a third-party screen magnifier?
+
+            Zoom
+
+            Loops
+
+            ZoomText
+            Correct!
+
+            Loup
+
+
+
+6] What Is Voice Recognition Software Used For?
+
+    # Questions
+
+        1) What are the main input devices that voice recognition software replaces?
+
+            Fingerprint readers.
+
+            Image scanners.
+
+            Keyboards and mice.
+            Correct!
+
+            Webcams.
+
+
+        2) Which of the following would be the least likely to benefit from voice recognition software?
+
+            Elderly people.
+
+            People with mobility impairments.
+
+            People with low leg movement.
+            Correct!
+
+            People with visual impairments.
+
+
+        3) Which of the following is not voice recognition software?
+
+            Dragon.
+
+            Audacity.
+            Correct!
+
+            Voice Control.
+
+            Voice Access.
+
+
+
+7] What Are Some Common Accessibility Auditing Tools to Use?
+
+    # Questions
+
+        1) Which of these best describes an accessibility auditing tool?
+
+            It automatically fixes all accessibility issues.
+
+            It evaluates how accessible your digital content is.
+            Correct!
+
+            It only checks mobile apps.
+
+            It requires no manual input.
+
+
+        2) Which of these describes how you can use the IBM Equal Access Accessibility Checker?
+
+            It can be used only as a desktop application.
+
+            It can be used without any development integration.
+
+            It's exclusively for mobile apps.
+
+            It can be used as a Chrome extension, Firefox add-on, or NPM package.
+            Correct!
+
+
+        3) Which of these is a limitation of using the web version of the tool on Google Lighthouse?
+
+            It provides unreliable metrics.
+
+            It can only test local websites.
+
+            It cannot test local websites.
+            Correct!
+
+            It doesn't support mobile testing.
+
+
+
+8] How Does Proper Heading Level Structure Affect Accessibility?
+
+    # Questions
+
+        1) How does proper heading structure help those using screen readers?
+
+            It provides visual styling for the content.
+
+            It helps screen readers generate a summary of the content.
+
+            It allows screen readers to navigate and skip to different sections easily.
+            Correct!
+
+            It improves the loading speed of the webpage.
+
+
+        2) Why is it important to use headings properly for users who rely on keyboards?
+
+            It improves the visual appeal of the webpage.
+
+            It allows users to print the webpage more easily.
+
+            It lets users jump between sections without the need to tab through every link.
+            Correct!
+
+            It helps users download the webpage faster.
+
+
+        3) Which of these is one of the best practices for using headings on a web page?
+
+            Skipping from h1 to h3 to save time.
+
+            Using clear and descriptive texts that summarize the following content.
+            Correct!
+
+            Using any heading level in isolation without any following content.
+
+            Using multiple h1 tags on a single page for emphasis.
+
+
