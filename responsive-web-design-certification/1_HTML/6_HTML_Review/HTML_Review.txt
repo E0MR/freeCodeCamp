@@ -1,0 +1,21 @@
+Outline
+    HTML Basics
+    Identifiers and Grouping
+    Special Characters and Linking
+    Boilerplate and Encoding
+    SEO and Social Sharing
+    Media Elements and Optimization
+    Multimedia Integration
+    Paths and Link Behavior
+    Importance of Semantic HTML
+    Semantic HTML Elements
+    HTML Form Elements and Attributes
+        Forms
+    Working with HTML Table Elements and Attributes
+    HTML Tools
+    Introduction to Accessibility
+    Assistive Technology for Accessibility
+    Accessibility Auditing Tools
+    Accessibility Best Practices
+    WAI-ARIA, Roles, and Attributes
+    Assignment
