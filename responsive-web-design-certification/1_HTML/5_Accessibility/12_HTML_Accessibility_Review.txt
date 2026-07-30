@@ -1,0 +1,7 @@
+Outline
+    Introduction to Accessibility
+    Assistive Technology for Accessibility
+    Accessibility Auditing Tools
+    Accessibility Best Practices
+    WAI-ARIA, Roles, and Attributes
+    Assignment

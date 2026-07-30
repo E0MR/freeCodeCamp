@@ -1,0 +1,223 @@
+1] What Is the Purpose of WAI-ARIA, and How Does It Work?
+
+    # Questions
+
+        1) What is the primary purpose of WAI-ARIA attributes in HTML?
+
+            To change the visual appearance of elements.
+
+            To provide additional semantic information for accessibility.
+            Correct!
+
+            To display tooltips on elements.
+
+            To add animations to elements.
+
+
+        2) How does WAI-ARIA work to enhance web accessibility?
+
+            By improving page load speed.
+
+            By introducing attributes that provide additional semantic information.
+            Correct!
+
+            By encrypting data.
+
+            By creating visual effects for elements.
+
+
+        3) What does WAI-ARIA stand for?
+
+            Web Accessibility Initiative - Advanced Responsive Internet Applications
+
+            Web Accessibility Interface - Accessible Resource Internet Applications
+
+            Web Accessibility Initiative - Accessible Rich Internet Applications
+            Correct!
+
+            Web Application Interface - Accessibility and Richness
+
+
+
+2] What Are ARIA Roles?
+
+    # Questions
+
+        1) What is the primary purpose of ARIA roles?
+
+            To define the visual appearance of elements.
+
+            To improve website performance.
+
+            To provide semantic information about the purpose of elements.
+            Correct!
+
+            To enhance browser compatibility.
+
+
+        2) Which category of ARIA roles is used to define the purpose and behavior of sub-windows, like pop-up modal dialogs?
+
+            Widget roles.
+
+            Document structure roles.
+
+            Landmark roles.
+
+            Window roles.
+            Correct!
+
+
+        3) Which category of ARIA roles is used to indicate dynamic content that must be announced to users?
+
+            Widget roles.
+
+            Document structure roles.
+
+            Landmark roles.
+
+            Live region roles.
+            Correct!
+
+
+
+3] What Are the Roles of the aria-label and aria-labelledby Attributes?
+
+    # Questions
+
+        1) What does ARIA stand for?
+
+            Accessible Rich Internet Applications.
+            Correct!
+
+            Advanced Resource Integration Accessibility.
+
+            Automated Rich Internet Access.
+
+            Accessible Responsive Interactive Applications.
+
+
+        2) What do both aria-label and aria-labelledby do?
+
+            They modify the visual appearance of elements.
+
+            They provide labels for elements to enhance accessibility for screen readers.
+            Correct!
+
+            They change the functionality of form inputs.
+
+            They add animation effects to elements.
+
+
+        3) When should you use aria-labelledby over aria-label?
+
+            When you need to provide a tooltip for an element.
+
+            When you want to change the color of an element.
+
+            When you need to hide an element from screen readers.
+
+            When there is existing visible text on the page that can be used as a label.
+            Correct!
+
+
+
+4] What Is the aria-hidden Attribute, and How Does It Work?
+
+    # Questions
+
+        1) What is the primary purpose of the aria-hidden attribute?
+
+            To define the visual appearance of an element.
+
+            To improve website performance.
+
+            To hide elements from assistive technologies.
+            Correct!
+
+            To enhance browser compatibility.
+
+
+        2) When should the aria-hidden attribute be used?
+
+            For all elements on a web page.
+
+            For elements that are visually hidden but still important for the user experience.
+
+            For decorative elements that do not contribute to the main content.
+            Correct!
+
+            For elements that are dynamically added or removed.
+
+
+        3) What are the potential risks of overusing the aria-hidden attribute?
+
+            Reduced website performance.
+
+            Incompatibility with older browsers.
+
+            Hindered accessibility for users with disabilities.
+            Correct!
+
+            Increased file size.
+
+
+
+5] What Is the aria-describedby Attribute, and How Does It Work?
+
+    # Questions
+
+        1) What is the purpose of the aria-describedby attribute in HTML?
+
+            To specify a unique identifier for an element.
+
+            To provide additional information about an element to assistive technologies.
+            Correct!
+
+            To define the language of an HTML document.
+
+            To control the visibility of an HTML element.
+
+
+        2) In the examples provided, how does the aria-describedby attribute enhance the user experience for form fields?
+
+            It changes the visual appearance of the form fields.
+
+            It associates additional descriptive text with form fields to provide more context or instructions.
+            Correct!
+
+            It validates the form fields' input values.
+
+            It automatically populates the form fields with default values.
+
+
+        3) Which of the following is the correct way to use the aria-describedby attribute inside of a form?
+
+            <form>
+                <label for="password">Password:</label>
+                <input type="password" id="password" aria-describedby="password-help" />
+                <p id="password-help">Your password must be at least 8 characters long.</p>
+            </form>
+            Correct!
+
+            <form>
+                <label for="password">Password:</label>
+                <input type="password" id="password" aria-describedby="password" />
+                <p id="password-help">Your password must be at least 8 characters long.</p>
+            </form>
+
+            <form>
+                <label for="password">Password:</label>
+                <input type="password" id="password" aria-describedby="password-help" />
+                <p>Your password must be at least 8 characters long.</p>
+            </form>
+
+            <form>
+                <label for="password">Password:</label>
+                <input
+                    type="password"
+                    id="password"
+                    aria-label="Your password must be at least 8 characters long."
+                />
+            </form>
+
+

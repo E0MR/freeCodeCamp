@@ -1,0 +1,82 @@
+1] What Are Best Practices for Tables and Accessibility?
+
+    # Questions
+
+        1) Which HTML element is used to specify the title of a table?
+
+            thead
+
+            caption
+            Correct!
+
+            tbody
+
+            tr
+
+
+        2) What is the purpose of the scope attribute in a table header cell (th)?
+
+            To specify the colspan and rowspan of the cell.
+
+            To indicate whether the header applies to a row or a column.
+            Correct!
+
+            To define the style of the header cell.
+
+            To add a tooltip to the header cell.
+
+
+        3) Which of the following is a best practice for creating accessible tables?
+
+            Using complex and long table headers.
+
+            Not providing alternative text for images within table cells.
+
+            Using simple table structures with row and column headers.
+            Correct!
+
+            Nesting tables within tables.
+
+
+
+2] Why Is It Important for Inputs to Have an Associated Label?
+
+    # Questions
+
+        1) Why is adding labels to input elements important for accessibility?
+
+            They provide visual styling to input fields.
+
+            They help screen readers describe the purpose of input fields.
+            Correct!
+
+            They increase the loading speed of web pages.
+
+            They enable input fields to accept multiple types of data.
+
+
+        2) What is the correct way to programmatically associate a label with an input in HTML?
+
+            Give both elements the same name attribute.
+
+            Set the label's for attribute to match the input's id.
+            Correct!
+
+            Place the <label> immediately after the <input> element in the DOM.
+
+            Use the input's placeholder text instead of a label.
+
+
+        3) Besides accessibility, what is another benefit of associating labels with inputs?
+
+            It makes the page load significantly faster.
+
+            It can help search engines better understand the page content.
+            Correct!
+
+            It allows inputs to accept multiple data types automatically.
+
+            It automatically translates labels for international users.
+
+
+     

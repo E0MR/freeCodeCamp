@@ -1,0 +1,163 @@
+1] When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text?
+
+    # Questions
+
+        1) What is the purpose of alt text in an image?
+
+            To improve the appearance of an image.
+
+            To provide a decorative element to the webpage.
+
+            To describe the image for people with visual disabilities.
+            Correct!
+
+            To increase website loading speed.
+
+
+        2) When is it appropriate to leave the alt text empty for an image?
+
+            When the image is purely decorative.
+            Correct!
+
+            When the image is important to understand the content.
+
+            When the image is small.
+
+            Always, to improve website performance.
+
+
+        3) What should be the primary focus of the alt text for an image that acts as a link?
+
+            Describing the image visually.
+
+            Indicating the link's destination.
+            Correct!
+
+            Combining both the image description and link destination.
+
+            The alt text is not important for images that are links.
+
+
+
+2] What Are the Accessibility Benefits for Good Link Text, and What Are Examples of Good Link Text?
+
+    # Questions
+
+        1) Why is clear and descriptive link text essential for those using screen readers?
+
+            It enhances the visual appeal of the website.
+
+            It helps users understand the purpose of the link when navigating with a screen reader.
+            Correct!
+
+            It speeds up the loading speed of the website.
+
+            It reduces the number of links on a page.
+
+
+        2) What's the first visible benefit of a good link text?
+
+            It helps users know where they're headed and what they'll access.
+            Correct!
+
+            It improves the aesthetics of the web page.
+
+            It increases the loading speed of the page.
+
+            It reduces the number of links on a page.
+
+
+        3) Which of the following is a best practice for writing link texts?
+
+            Use generic texts like "click here" to keep it simple.
+
+            Repeat the same link text for different destinations.
+
+            Make links visually distinct with underlining and other visual cues.
+            Correct!
+
+            Focus on the action rather than the destination, like "click here to read more".
+
+
+
+3] What Are Good Ways to Make Audio and Video Content Accessible?
+
+    # Questions
+
+        1) How are captions different from subtitles in video content?
+
+            Captions provide translations for non-native speakers.
+
+            Captions include spoken words and non-verbal sounds, while subtitles are for viewers who don't understand the language.
+            Correct!
+
+            Subtitles include both spoken words and non-verbal sounds, while captions are only for translations.
+
+            Subtitles are synchronized with the video, but captions are not.
+
+
+        2) How can you add captions or subtitles directly to your video or audio content in HTML?
+
+            By using the caption tag inside the video or audio element.
+
+            By using the track tag inside the video or audio element.
+            Correct!
+
+            By placing the subtitle tag within the video or audio element.
+
+            By embedding a text tag inside the video or audio element.
+
+
+        3) Why are transcripts important for audio and video content?
+
+            Transcripts are only useful for people who prefer watching videos.
+
+            Transcripts help make content accessible for deaf or hard-of-hearing individuals and allow for easy searching of specific content.
+            Correct!
+
+            Transcripts are solely for translating the spoken language into another language.
+
+            Transcripts are used to add non-verbal sounds like music and laughter to the content.
+
+
+
+4] What Are Some Ways to Make Web Applications Keyboard Accessible?
+
+    # Questions
+
+        1) Why is the tabindex property important when managing keyboard navigation on a webpage?
+
+            It makes the page load faster.
+
+            It allows you to control the order in which elements are focused when using the tab key.
+            Correct!
+
+            It adds animations to focusable elements.
+
+            It hides non-essential elements from keyboard navigation.
+
+
+        2) How does the accesskey attribute contribute to keyboard accessibility on a webpage?
+
+            It enhances the visual appearance of the webpage.
+
+            It speeds up the loading time of the website.
+
+            It allows you to define a specific key that focuses on or activates a particular element.
+            Correct!
+
+            It automatically generates shortcut keys for all elements.
+
+
+        3) Why exactly is it important to avoid keyboard traps in web applications?
+
+            It improves SEO.
+
+            It lets the developer work faster.
+
+            It ensures the page has fewer interactive elements.
+
+            It ensures users can move focus away from elements like modals and popups.
+            Correct!
+
+
