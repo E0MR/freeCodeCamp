@@ -1,0 +1,245 @@
+1] How Can You Use File Management Applications on Your Computer?
+
+    # Questions
+
+        1) What is the default file management application on a Windows computer?
+
+            Finder
+
+            Smart Folders
+
+            File Explorer
+            Correct!
+
+            Spotlight
+
+
+        2) How can you pin a folder in File Explorer on a Windows computer?
+
+            Right-click the folder and select "Pin to Start".
+            Correct!
+
+            Press "Ctrl + Pin".
+
+            There is no option to pin a folder.
+
+            Drag the folder to the taskbar.
+
+
+        3) On a Mac, how do you access the Finder?
+
+            Click on the Finder icon in the Dock.
+            Correct!
+
+            Press "Command + Find".
+
+            Go to the Start menu.
+
+            Open the Spotlight search.
+
+
+
+2] What Are Best Practices for Naming Files for Web Applications?
+
+    # Questions
+
+        1) Which of the following is a bad example for naming an HTML file?
+
+            index.html
+
+            about-us.html
+
+            file-1!@.html
+            Correct!
+
+            products.html
+
+
+        2) What does the index.html file represent?
+
+            The main page of a website.
+            Correct!
+
+            A database file used to store user information.
+
+            A configuration file for server settings.
+
+            A script file for running server-side code.
+
+
+        3) Why are special characters not recommended for file names?
+
+            They make files incompatible with all operating systems.
+
+            They make it difficult to understand what the file is about.
+            Correct!
+
+            They lead to frequent software crashes.
+
+            They make it impossible to transfer files between computers.
+
+
+
+3] What Are Best Practices for File/Folder Organization in Web Applications?
+
+    # Questions
+
+        1) What is the assets directory used for in a web application?
+
+            It's used to store server log files are kept to monitor web application performance.
+
+            It's used to store files such as images, fonts, and other resources.
+            Correct!
+
+            It's used to store scripts and tools for testing the web application.
+
+            It's used to hold third-party libraries and frameworks.
+
+
+        2) What is a README.md file commonly used for in a project?
+
+            It's used to store personal information and data collected from users.
+
+            It's used to define the structure and schema of the project's database.
+
+            It's used to provide useful information about the project.
+            Correct!
+
+            It's used to track and document issues and bugs found in the project.
+
+
+        3) What does the root directory represent in a file system?
+
+            It represents the default folder where downloaded files are saved.
+
+            It holds cached files and data to speed up system operations.
+
+            It contains logs and diagnostic information about system performance.
+
+            The starting point for all file paths and contains all other directories and files within it.
+            Correct!
+
+
+
+4] How Can You Create, Move, and Delete Files and Folders Using Explorer/Finder?
+
+    # Questions
+
+        1) Which of these actions permanently removes a file or folder from your computer?
+
+            Moving the file to a different folder.
+
+            Renaming the file or folder.
+
+            Emptying the Recycle Bin or Trash.
+            Correct!
+
+            Copying the file or folder to an external drive.
+
+
+        2) What is the primary difference between copying and moving a file?
+
+            Copying creates a duplicate of the file, while moving transfers the original file to a new location.
+            Correct!
+
+            Moving creates a duplicate of the file in a new location, while copying transfers the original file.
+
+            There is no difference between copying and moving a file.
+
+            Copying deletes the original file, while moving creates a new file.
+
+
+        3) Why are folders important for organizing your computer?
+
+            Folders make files more difficult to find.
+
+            Folders are only necessary for storing large files.
+
+            Folders help you categorize and find files efficiently.
+            Correct!
+
+            Folders slow down your computer if you have too many.
+
+
+
+5] How Can You Search for Files and Folders on Your Computer?
+
+    # Questions
+
+        1) If you need to perform a quick search on your Windows PC and cloud files, you should start your search from:
+
+            Home
+            Correct!
+
+            A specific folder
+
+            This PC
+
+            Desktop
+
+
+        2) What is the name of a powerful search tool built into macOS that helps you find files and folder in your entire system quickly?
+
+            Explorer
+
+            Control Center
+
+            Sidebar
+
+            Spotlight
+            Correct!
+
+
+        3) What is the name of the horizontal bar, typically located at the bottom of a Windows computer screen, where you can search for files and folder?
+
+            Sidebar
+
+            Taskbar
+            Correct!
+
+            Spotlight
+
+            Finder
+
+
+
+6] What Are Some Common File Types You Will Work With in Web Applications?
+
+    # Questions
+
+        1) Which file format is best suited for images with sharp edges and transparent backgrounds?
+
+            JPEG
+
+            PNG
+            Correct!
+
+            GIF
+
+            SVG
+
+
+        2) Which one of these options is an audio format known for its lossless compression?
+
+            MP3
+
+            WAV
+            Correct!
+
+            SVG
+
+            MP4
+
+
+        3) Which one of these options is a modern font format used for web development purposes?
+
+            TTF
+
+            WOFF
+            Correct!
+
+            GIF
+
+            ZIP
+
+

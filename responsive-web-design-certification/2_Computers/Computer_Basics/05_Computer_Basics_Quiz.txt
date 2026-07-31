@@ -1,0 +1,239 @@
+1.Which of the following is a basic part of the computer?
+
+    The central processing unit
+    Correct!
+
+    The memory manager
+
+    The task manager
+
+    The word processor
+
+
+2.What is a pointing device for a computer?
+
+    A retractable device used in PowerPoint presentations
+
+    A laser pointer
+
+    A stick for pointing at computers
+
+    A mouse or touchpad
+    Correct!
+
+
+3.What is a type of ISP?
+
+    Fiber optic
+
+    Dial-up
+
+    Satellite
+
+    Tier 1
+    Correct!
+
+
+4.What is a best practice when naming files for a web application?
+
+    Using generic words.
+
+    Using special characters.
+
+    Using spaces to separate the words.
+
+    Using hyphens instead of spaces.
+    Correct!
+
+
+5.Which of the following is a common file type when working with web applications?
+
+    .aud
+
+    .doc
+
+    .css
+    Correct!
+
+    .xls
+
+
+6.What is a common file type for a video file?
+
+    .wav
+
+    .mp3
+
+    .mp4
+    Correct!
+
+    .vid
+
+
+7.Which of the following types is commonly used for image files?
+
+    .gfi
+
+    .svg
+    Correct!
+
+    .pix
+
+    .ppg
+
+
+8.Microsoft Edge is the default web browser of which operating system?
+
+    Windows
+    Correct!
+
+    macOS
+
+    Unix
+
+    Linux
+
+
+9.What is a search engine?
+
+    A web-based tool for searching information on the internet.
+    Correct!
+
+    Advanced software that is only used by academic researchers.
+
+    A tool for finding web components.
+
+    A part of the hard drive of a computer.
+
+
+10.Which of the following is NOT a type of browser?
+
+    Microsoft Edge
+
+    Mozilla Firefox
+
+    Google Chrome
+
+    GitHub
+    Correct!
+
+
+11.Which of the following is NOT a cloud-based hosting service for repositories?
+
+    GitLab
+
+    Ona
+    Correct!
+
+    Bitbucket
+
+    GitHub
+
+
+12.Which of the following is NOT primarily a part of an integrated development environment?
+
+    A tool for writing.
+
+    A tool for storing code.
+    Correct!
+
+    A tool for testing code.
+
+    A tool for debugging code.
+
+
+13.What is a best practice for naming files?
+
+    Naming the main file with the same name as the folder it is in.
+
+    Using a descriptive name for each file.
+    Correct!
+
+    Creating a script that uses the same file names for all your projects.
+
+    Using a unique sequence of numbers at the end of the file name.
+
+
+14.What is the built-in way you can use to search for files on your computer?
+
+    GitHub
+
+    The file explorer
+    Correct!
+
+    Google or Firefox
+
+    A search engine
+
+
+15.What is a common search strategy to search for file types?
+
+    typeof:
+
+    site:
+
+    filetype:
+    Correct!
+
+    type:
+
+
+16.What is the default page for a website?
+
+    index.html
+    Correct!
+
+    main.html
+
+    home.html
+
+    styles.css
+
+
+17.Which file managers can you use to create, move, and delete files?
+
+    Windows or macOS
+
+    Explorer or Finder
+    Correct!
+
+    Findex or Firefox
+
+    Google or Bing
+
+
+18.What is Git?
+
+    A centralized storage location for code repositories.
+
+    A cloud-based hosting service for repositories.
+
+    A version control system for tracking changes and collaborating with others.
+    Correct!
+
+    A tool for adding, updating, and removing libraries and project dependencies.
+
+
+19.What is random access memory?
+
+    A volatile way to access data in a sequential manner.
+
+    A temporary storage location for the computer's central processing unit.
+    Correct!
+
+    A permanent storage location that is used to store data.
+
+    A processor used for generating passwords.
+
+
+20.Which file format is used to compress files?
+
+    ZAP
+
+    TTF
+    
+    MOV
+
+    ZIP
+    Correct!
+

@@ -1,0 +1,5 @@
+Outline
+    Understanding Computer, Internet, and Developer Tooling Basics
+    Working With Files, File Systems, and Media Formats
+    Browsing the Web Effectively
+    Assignment

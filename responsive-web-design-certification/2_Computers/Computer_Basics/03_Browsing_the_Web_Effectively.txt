@@ -1,0 +1,122 @@
+1] What Are Some of the Common Web Browsers Available Today and How Do You Install One?
+
+    # Questions
+
+        1) Which of the following is NOT one of the most popular web browsers as of 2024?
+
+            Microsoft Edge
+
+            Firefox
+
+            Google Chrome
+
+            Internet Explorer
+            Correct!
+
+
+        2) What is the default web browser that typically comes pre-installed on macOS?
+
+            Microsoft Edge
+
+            Firefox
+
+            Google Chrome
+
+            Safari
+            Correct!
+
+
+        3) Which of the following is a method for installing a web browser on a computer?
+
+            Using the operating system's package manager.
+
+            Downloading directly from the browser's website.
+
+            Both A and B.
+            Correct!
+
+            None of the above.
+
+
+
+2] What Is the Difference Between a Web Browser, a Website, and a Search Engine?
+
+    # Questions
+
+        1) What is the primary function of a web browser?
+
+            To create websites.
+
+            To index web pages.
+
+            To access and navigate the World Wide Web.
+            Correct!
+
+            To rank search results.
+
+
+        2) Which of the following is NOT a component of a website?
+
+            Domain name.
+
+            Web pages.
+
+            Multimedia content.
+
+            Rendering engine.
+            Correct!
+
+
+        3) What is the main purpose of a search engine's web crawler?
+
+            To systematically browse and index web content.
+            Correct!
+
+            To display web pages to users.
+
+            To block pop-up advertisements.
+
+            To create domain names for websites.
+
+
+
+3] How to Use a Search Engine Effectively to Achieve Optimal Results
+
+    # Questions
+
+        1) What is the purpose of using quotation marks around a search query?
+
+            To search for results containing any of the words.
+
+            To search for an exact phrase.
+            Correct!
+
+            To exclude certain words from the search.
+
+            To search within a specific website.
+
+
+        2) Which symbol is used to exclude a term from search results?
+
+            +
+
+            `
+
+            :
+
+            -
+            Correct!
+
+
+        3) What does the site: operator do in a search query?
+
+            Excludes a specific site from search results.
+
+            Searches for websites similar to the specified site.
+
+            Limits the search to a specific website or domain.
+            Correct!
+
+            Ranks the specified site higher in search results.
+
+

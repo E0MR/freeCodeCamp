@@ -1,0 +1,204 @@
+1] What Are the Basic Parts of a Computer?
+
+    # Questions
+
+        1) What is RAM?
+
+            Long term memory.
+
+            Short term memory.
+            Correct!
+
+            The main circuit board.
+
+            A video card.
+
+
+        2) What does CPU stand for?
+
+            Centered Protocol Unit.
+
+            City Processing Unit.
+
+            Central Processing Unit.
+            Correct!
+
+            Central Pixel Unit.
+
+
+        3) What is the network card responsible for?
+
+            Rendering visuals on the computer screen.
+
+            Playing sound on the computer speakers.
+
+            Connecting the computer to the internet.
+            Correct!
+
+            Storing short term memory.
+
+
+
+2] How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing Devices?
+
+    # Questions
+
+        1) What is one of the risks of gripping the mouse too tightly?
+
+            It can improve your accuracy in gaming.
+
+            It helps you complete tasks faster.
+
+            It can cause hand and wrist issues.
+            Correct!
+
+            It improves your overall performance.
+
+
+        2) What is the benefit of using an ergonomic keyboard and mouse?
+
+            They help you type faster.
+
+            They are designed for gaming performance.
+
+            They reduce wrist strain by keeping your hands in a more natural position.
+            Correct!
+
+            They increase screen resolution.
+
+
+        3) What is the recommendation for the height of your mouse in relation to your keyboard?
+
+            The mouse should be far above the keyboard.
+
+            The mouse should be at the same height as the keyboard.
+            Correct!
+
+            The mouse should be lower than the keyboard.
+
+            The mouse should be higher than the keyboard.
+
+
+
+3] What Are the Different Types of Internet Service Providers?
+
+    # Questions
+
+        1) Which of the following is NOT a tier of Internet Service Provider (ISP)?
+
+            Giant conglomerate companies with independent infrastructure.
+
+            Country-wide providers that may rent access to larger networks.
+
+            Small companies focusing on local markets.
+
+            International organizations overseeing global internet access.
+            Correct!
+
+
+        2) Which type of internet connection uses glass or plastic fibres to transmit data via light?
+
+            Cable connection.
+
+            DSL connection.
+
+            Fibre optic connection.
+            Correct!
+
+            Satellite connection.
+
+
+        3) What is a characteristic of dial-up internet connections?
+
+            They use the same infrastructure as cable television.
+
+            They require exclusive use of the phone line when connected.
+            Correct!
+
+            They use an array of satellites orbiting the earth.
+
+            They are the fastest type of internet connection available.
+
+
+
+4] What Are Safe Ways to Sign Into Your Computer?
+
+    # Questions
+
+        1) Which of the following is considered an unsafe password?
+
+            @dlkj(2***1
+
+            12345
+            Correct!
+
+            #sj1--
+
+            7!9@2
+
+
+        2) Why is two-factor authentication (2FA) important?
+
+            It stores your passwords securely.
+
+            It automatically fixes broken passwords.
+
+            It guarantees that your accounts can't be hacked.
+
+            It ensures the person trying to access the account is the authorized user.
+            Correct!
+
+
+        3) What are features like Touch ID and Windows Hello used for?
+
+            To automatically generate passwords for you.
+
+            To store your passwords securely.
+
+            To sign into your computer using your fingerprint or facial recognition.
+            Correct!
+
+            To guarantee that your accounts can't be hacked.
+
+
+
+5] What Are the Different Types of Tools Professional Developers Use?
+
+    # Questions
+
+        1) Why do developers go for computers with fast processing power?
+
+            To watch the computer do all the work for them.
+
+            To handle resource-intensive tasks.
+            Correct!
+
+            To play high-end games.
+
+            To watch movies without a glitch.
+
+
+        2) What provides code completion, debugging, and integrated terminal for developers?
+
+            Code editors and IDEs.
+            Correct!
+
+            Testing frameworks.
+
+            Package managers.
+
+            Git.
+
+
+        3) Which tools help developers test their code to ensure it works as intended?
+
+            Code editors and IDEs.
+
+            Operating systems.
+
+            Version control systems
+
+            Testing frameworks.
+            Correct!
+
+
