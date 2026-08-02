@@ -41,3 +41,43 @@
 - [jbelmu.py](./py/jbelmu.py)
 
 ---
+
+### `#006` &#8195; Anagram Checker
+
+- [areAnagrams.js](./js/areAnagrams.js)
+
+- [are_anagrams.py](./py/are_anagrams.py)
+
+---
+
+### `#007` &#8195; Targeted Sum
+
+- [findTarget.js](./js/findTarget.js)
+
+- [find_target.py](./py/find_target.py)
+
+---
+
+### `#008` &#8195; Factorializer
+
+- [factorial.js](./js/factorial.js)
+
+- [factorial.py](./py/factorial.py)
+
+---
+
+### `#009` &#8195; Sum of Squares
+
+- [sumOfSquares.js](./js/sumOfSquares.js)
+
+- [sum_of_squares.py](./py/sum_of_squares.py)
+
+---
+
+### `#010` &#8195; 3 Strikes
+
+- [squaresWithThree.js](./js/squaresWithThree.js)
+
+- [squares_with_three.py](./py/squares_with_three.py)
+
+---
