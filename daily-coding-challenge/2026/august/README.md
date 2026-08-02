@@ -1,1 +1,19 @@
-1. Magic Square Solver #356
+# ![freeCodeCamp](../../../freeCdoeCamp.svg)
+
+## Daily Coding Challenges
+
+### `#001` &#8195; Magic Square Solver
+
+- [isBalanced.js](./js/solveMagicSquare.js)
+
+- [is_balanced.py](./py/solve_magic_square.py)
+
+---
+
+### `#002` &#8195; Food Chain
+
+- [isValidNumber.js](./js/getFoodChain.js)
+
+- [is_balanced.py](./py/get_food_chain.py)
+
+---
