@@ -1,0 +1,9 @@
+Outline
+    CSS Basics
+    Inline, Internal, and External CSS
+    Working With the width and height Properties
+    Different Types of CSS Combinators
+    Inline, Block, and Inline-Block Level Elements
+    Margin and Padding
+    CSS Specificity
+    Assignment

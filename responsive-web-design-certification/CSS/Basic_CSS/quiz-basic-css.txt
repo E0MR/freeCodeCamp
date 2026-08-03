@@ -1,0 +1,247 @@
+1.What are the main parts of a CSS rule?
+
+    Style and sheets
+
+    Selectors and declaration blocks
+    Correct!
+
+    Elements and attributes
+
+    Scripts and values
+
+
+2.Which of the following is the correct syntax for a CSS rule?
+
+    body {
+        font-family: Arial;
+    }
+    Correct!
+
+    body {
+        font-family; Arial:
+    }
+
+    font-family {
+        body: Arial;
+    }
+
+    body [
+        font-family: Arial;
+    ]
+
+
+3.What are default browser styles?
+
+    The CSS rules that browsers apply automatically.
+    Correct!
+
+    HTML elements that have the same styling properties regardless of the browser.
+
+    They are mandatory styles that you must use for specific HTML elements.
+
+    They are the color themes for the various browsers.
+
+
+4.What is the default value for the width property?
+
+    none
+
+    auto
+    Correct!
+
+    0
+
+    100%
+
+
+5.What does the min-height property specify?
+
+    The maximum height for an element.
+
+    The starting height for an element.
+
+    The minimum height for an element.
+    Correct!
+
+    The height for an element.
+
+
+6.Which of the following is TRUE about the universal selector *?
+
+    It has the lowest specificity value of any selector.
+    Correct!
+
+    It contributes 1 to all parts of the specificity value.
+
+    It cannot reset styles across different browsers.
+
+    It has the highest specificity because it can style all the elements on a page.
+
+
+7.Which selector correctly targets li elements for an ordered list?
+
+    ul li {}
+
+    li {}
+
+    ol + li {}
+
+    ol li {}
+    Correct!
+
+
+8.Which selector targets the paragraph elements of a div element?
+
+    div p {}
+    Correct!
+
+    p div {}
+
+    div, p {}
+
+    p, div {}
+
+
+9.Where does the margin apply styling properties?
+
+    The space outside the element.
+    Correct!
+
+    Between the content and the border.
+
+    The space inside the element.
+
+    On the border of the element.
+
+
+10.Where does the padding property apply styling?
+
+    On the border of the element.
+
+    The space outside the element.
+
+    The space inside the element.
+    Correct!
+
+    Between the element's border and the surrounding elements.
+
+
+11.Which statement is FALSE about block-level elements?
+
+    Common block-level elements include div, p, and section.
+
+    They cannot take up the full width available as they are blocked from doing so.
+    Correct!
+
+    They can stretch to fit the width of their container.
+
+    Block-level elements start on a new line and take up the full width of their container.
+
+
+12.Which statement is FALSE when using the inline-block value?
+
+    They do not share properties with inline or block-level elements.
+    Correct!
+
+    Elements retain inline flow but allow setting width and height.
+
+    They can have width and height properties.
+
+    inline-block elements behave like inline elements.
+
+
+13.Which is TRUE about the !important keyword?
+
+    They override the specificity of other selectors.
+    Correct!
+
+    They make CSS rules easier to maintain.
+
+    They are used to make comments for an important CSS property.
+
+    They make sure a CSS property has the correct syntax.
+
+
+14.What character precedes a class selector name?
+
+    .
+    Correct!
+
+    #
+
+    $
+
+    *
+
+
+15.Which is FALSE about inline-level elements?
+
+    They do not start on a new line.
+
+    They take up only as much space as they need.
+
+    They always start on a new line.
+    Correct!
+
+    Common inline elements include span and img.
+
+
+16.Where are internal CSS styles accessed?
+
+    Since they form the core styling of the project, they are saved in the styles.css file so other web pages can access them.
+
+    They are stored inside the body element when there is only one web page to style.
+
+    They are written within the style section within the head element.
+    Correct!
+
+    They are styles that are important to the project, so are not shared externally.
+
+
+17.What is the order for applying the padding property when using the shorthand syntax?
+
+    top, bottom, left, right
+
+    top, right, bottom, left
+    Correct!
+
+    right, top, left, bottom
+
+    left, right, top, bottom
+
+
+18.What is the order for applying the margin property when using the shorthand syntax?
+
+    right, top, left, bottom
+
+    top, bottom, left, right
+
+    left, right, top, bottom
+
+    top, right, bottom, left
+    Correct!
+
+
+19.What are inline CSS styles used for?
+
+    They are used to style elements only when they all appear on the same line of the browser viewport.
+
+    They are used to directly style within the element, instead of using internal or external CSS.
+    Correct!
+
+    They are used to style inline elements only.
+
+    They are used to resolve the issue with separation of concerns.
+
+
+20.What symbol precedes the ID selector?
+
+    #
+    Correct!
+
+    $
+
+    *
+
+    .
+

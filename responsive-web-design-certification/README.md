@@ -28,47 +28,47 @@
 
 ## CSS
 
-### [Basic CSS]()
+### [Basic CSS](./CSS/Basic_CSS/)
 
-### [Design]()
+### [Design](./CSS/Design/)
 
-### [Absolute and Relative Units]()
+### [Absolute and Relative Units](./CSS/Absolute_and_Relative_Units/)
 
-### [Pseudo Classes and Elements]()
+### [Pseudo Classes and Elements](./CSS/Pseudo_Classes_and_Elements/)
 
-### [Colors]()
+### [Colors](./CSS/Colors/)
 
-### [Styling Forms]()
+### [Styling Forms](./CSS/Styling_Forms/)
 
-### [The Box Model]()
+### [The Box Model](./CSS/The_Box_Model/)
 
-### [Flexbox]()
+### [Flexbox](./CSS/Flexbox/)
 
-### [Build a Page of Playing Cards]() `Certification Project`
+### [Build a Page of Playing Cards](./CSS/build-a-page-of-playing-cards/) `Certification Project`
 
-### [Typography]()
+### [Typography](./CSS/Typography/)
 
-### [Accessibility]()
+### [Accessibility](./CSS/Accessibility/)
 
-### [Positioning]()
+### [Positioning](./CSS/Positioning/)
 
-### [Attribute Selectors]()
+### [Attribute Selectors](./CSS/Attribute_Selectors/)
 
-### [Build a Book Inventory App]() `Certification Project`
+### [Build a Book Inventory App](./CSS/build-a-book-inventory-app/) `Certification Project`
 
-### [Responsive Design]()
+### [Responsive Design](./CSS/Responsive_Design/)
 
-### [Build a Technical Documentation Page]() `Certification Project`
+### [Build a Technical Documentation Page](./CSS/build-a-technical-documentation-page/) `Certification Project`
 
-### [Variables]()
+### [Variables](./CSS/Variables/)
 
-### [Grid]()
+### [Grid](./CSS/Grid/)
 
-### [Build a Product Landing Page]() `Certification Project`
+### [Build a Product Landing Page](./CSS/build-a-product-landing-page/) `Certification Project`
 
-### [Animations]()
+### [Animations](./CSS/Animations/)
 
-### [CSS Review]() `Review`
+### [CSS Review](./CSS/CSS_Review/) `Review`
 
 ---
 

@@ -1,0 +1,255 @@
+1.Which CSS property is used to specify the image to be used as a list item marker?
+
+    content-image
+
+    background-image
+
+    list-style-image
+    Correct!
+
+    list-style-position
+
+
+2.Which property is used to control the position of the list item marker?
+
+    list-style-position
+    Correct!
+
+    list-position
+
+    list-style-type
+
+    position-marker
+
+
+3.What does the line-height property do?
+
+    It is used to set the background size for an element.
+
+    It is used to style links that have not been visited by the user.
+
+    It is used to create space between lines of text.
+    Correct!
+
+    It is used to create space to the right of list items.
+
+
+4.Which pseudo-class is used to style links when a user hovers over them?
+
+    :hasHovered
+
+    :hover
+    Correct!
+
+    :hovered
+
+    :hovering
+
+
+5.What is the default value for the background-repeat property?
+
+    repeat-x
+
+    no-repeat
+
+    repeat
+    Correct!
+
+    space
+
+
+6.Which CSS property can be used to control the size of a background image?
+
+    size-image
+
+    image-size
+
+    background-size
+    Correct!
+
+    background-fit
+
+
+7.Which of the following is the correct way to apply a solid red top border to an element?
+
+    border-top: apply 3px solid red;
+
+    top-border: 3px solid red;
+
+    set-top-border: 3px solid red;
+
+    border-top: 3px solid red;
+    Correct!
+
+
+8.Which of the following is NOT a valid border property?
+
+    border-bottom
+
+    border-side
+    Correct!
+
+    border-right
+
+    border-top
+
+
+9.Which of the following is a valid border-style value?
+
+    dotted
+    Correct!
+
+    wave
+
+    triple
+
+    zig zag
+
+
+10.Which of the following is the correct way to apply borders using the shorthand property?
+
+    .box {
+        borderShort: 1px solid black;
+    }
+
+    .box {
+        border-short: 1px solid black;
+    }
+
+    .box {
+        borders: 1px solid black;
+    }
+
+    .box {
+        border: 1px solid black;
+    }
+    Correct!
+
+
+11.What is the role of the linear-gradient function?
+
+    It is used to style an element that was activated by the user.
+
+    It is used to set the style of an element's border.
+
+    It is used to create a transition between multiple colors along a straight line.
+    Correct!
+
+    It is used to determine how background images should be repeated along the horizontal and vertical axes.
+
+
+12.Which value for the background-repeat property ensures the image repeats horizontally but not vertically?
+
+    repeat-x
+    Correct!
+
+    no-repeat
+
+    space
+
+    repeat-y
+
+
+13.What is the purpose of the border-radius property?
+
+    To change the width of the border.
+
+    To round the corners of an element.
+    Correct!
+
+    To make the border disappear.
+
+    To create shadows around the border.
+
+
+14.Which of the following is NOT a valid value for the background-position property?
+
+    center
+
+    top
+
+    bottom
+
+    side
+    Correct!
+
+
+15.Which of the following background-repeat values can be used to repeat a background image vertically?
+
+    repeat-x
+
+    repeat-y
+    Correct!
+
+    stretch
+
+    vertical-only
+
+
+16.What does background-position: center; do to a background image?
+
+    It scales the background image to fill the entire element.
+
+    It repeats the background image horizontally and vertically.
+
+    It positions the background image in the center of the element.
+    Correct!
+
+    It aligns the background image to the top of the element.
+
+
+17.Which of these is NOT a valid border value?
+
+    5px inverted green
+    Correct!
+
+    3px dotted blue
+
+    1px solid black
+
+    2px dashed red
+
+
+18.What does the radial-gradient function do?
+
+    It creates a background that transitions between multiple colors along a straight line.
+
+    It creates an image that radiates from a particular point and gradually transitions between multiple colors.
+    Correct!
+
+    It is used to style an element that was activated by the user.
+
+    It specifies whether the background image should scroll with the content or remain fixed in place.
+
+
+19.Which of the following is NOT a valid pseudo-class?
+
+    :link
+
+    :before
+    Correct!
+
+    :focus
+
+    :visited
+
+
+20.Which of the following shows the background shorthand property being used properly?
+
+    body {
+        background: set url("example-url-goes-here");
+    }
+
+    body {
+        background: 2px solid red url("example-url-goes-here");
+    }
+
+    body {
+        background: apply url("example-url-goes-here");
+    }
+
+    body {
+        background: no-repeat url("example-url-goes-here");
+    }
+    Correct!
+

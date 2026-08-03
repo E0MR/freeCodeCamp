@@ -1,0 +1,8 @@
+Outline
+    Styling Lists
+    Spacing list items using margin
+    Styling Links
+    Working with Backgrounds and Borders
+    Borders
+    Gradients
+    Assignment

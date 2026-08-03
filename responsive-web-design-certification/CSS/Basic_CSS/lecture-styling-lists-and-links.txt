@@ -1,0 +1,163 @@
+1] How Do You Space List Items Using margin or line-height?
+
+    # Questions
+
+        1) Which CSS property would you use to create space between list items by adjusting the space outside each li element?
+
+            padding
+
+            line-height
+
+            margin
+            Correct!
+
+            border
+
+
+        2) Given the CSS rule li { margin-bottom: 15px; }, what effect does this have on list items?
+
+            Adds 15px of space inside each list item.
+
+            Adds 15px of space between the content and border of each list item.
+
+            Adds 15px of space below each list item.
+            Correct!
+
+            Adds 15px of space above each list item.
+
+
+        3) What does the line-height property control in CSS?
+
+            The width of the content.
+
+            The space inside the border of an element.
+
+            The vertical spacing between lines of text within an element.
+            Correct!
+
+            The space outside the border of an element.
+
+
+
+2] How Do the Different list-style Properties Work?
+
+    # Questions
+
+        1) Which list-style property would you use to change the bullet points to circles in an unordered list?
+
+            list-style-image
+
+            list-style-position
+
+            list-style-type
+            Correct!
+
+            list-style
+
+
+        2) If you want the bullets of a list to align with the text content, which list-style-position value should you use?
+
+            outside
+
+            inside
+            Correct!
+
+            center
+
+            left
+
+
+        3) Which property allows you to replace the default bullet with a custom image?
+
+            list-style-type
+
+            list-style-position
+
+            list-style
+
+            list-style-image
+            Correct!
+
+
+
+3] Why Are Default Link Styles Important for Usability on the Web?
+
+    # Questions
+
+        1) Why is it important to have a distinct color for visited links?
+
+            It makes the website more colorful.
+
+            It helps users keep track of pages they've already visited.
+            Correct!
+
+            Visited links are more important than unvisited links.
+
+            It's a legal requirement for websites.
+
+
+        2) Which of the following is NOT typically a default style for links in most browsers?
+
+            Blue color for unvisited links.
+
+            Underline for all links.
+
+            Purple color for visited links.
+
+            Bold font weight for all links.
+            Correct!
+
+
+        3) When customizing link styles, what is an important principle to maintain?
+
+            All links must be blue.
+
+            Links should always be underlined.
+
+            Links should be clearly distinguishable from regular text.
+            Correct!
+
+            Visited and unvisited links must have the same style.
+
+
+
+4] How Do You Style the Different Link States?
+
+    # Questions
+
+        1) Which CSS pseudo-class is used to style links that have not been visited?
+
+            :visited
+
+            :link
+            Correct!
+
+            :hover
+
+            :active
+
+
+        2) What visual change does the hover state typically involve in CSS?
+
+            The link becomes larger.
+
+            The link text color changes.
+            Correct!
+
+            The link text becomes bold.
+
+            The link text is underlined.
+
+
+        3) Which CSS pseudo-class would you use to add a visible outline around a link when it is navigated to using the keyboard?
+
+            :link
+
+            :hover
+
+            :focus
+            Correct!
+
+            :active
+
+

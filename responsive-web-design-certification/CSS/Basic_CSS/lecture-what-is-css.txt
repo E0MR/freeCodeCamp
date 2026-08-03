@@ -1,0 +1,458 @@
+01] What Is CSS, and What Is Its Role on the Web?
+
+    # Questions
+
+        1) What is the primary purpose of CSS in web development?
+
+            To structure the content of web pages.
+
+            To handle server-side logic.
+
+            To separate the presentation of a document from its content.
+            Correct!
+
+            To manage database operations.
+
+
+        2) How does CSS contribute to responsive web design?
+
+            By handling user authentication.
+
+            By allowing adjustments to layout and styling based on device screen size.
+            Correct!
+
+            By improving server response time.
+
+            By compressing image files.
+
+
+        3) What is meant by the "cascading" nature of CSS?
+
+            It refers to the way water falls in a website background.
+
+            It means CSS files must be arranged in a specific order.
+
+            It allows styles to be inherited and overridden in a hierarchical manner.
+            Correct!
+
+            It describes how quickly CSS loads in a browser.
+
+
+
+02] What Is the Basic Anatomy of a CSS Rule?
+
+    # Questions
+
+        1) What is the purpose of a selector in a CSS rule?
+
+            To apply styles to HTML elements.
+
+            To determine which HTML elements the rule will apply to.
+            Correct!
+
+            To define the specific style properties and values.
+
+            To create new HTML elements.
+
+
+        2) Which of the following CSS rules correctly changes the text color of all paragraph elements to blue?
+
+            p {
+                background-color: blue;
+            }
+
+            p {
+                color: blue;
+            }
+            Correct!
+
+            .p {
+                color: blue;
+            }
+
+            #p {
+                color: blue;
+            }
+
+            
+        3) Given the following HTML, which CSS rule correctly sets h1 and h2 text color to green?
+            <link rel="stylesheet" href="styles.css">
+            <h1 id="title">Example heading</h1>
+            <h2 class="subheading">Example subheading</h2>
+            <p>Paragraph element</p>
+
+            #title
+            .subheading {
+                color: green;
+            }
+
+            #title,
+            .subheading {
+                color: green;
+            }
+            Correct!
+
+            .title,
+            #subheading {
+                color: green;
+            }
+
+            #title,
+            #subheading {
+                color: green;
+            }
+
+
+
+03] What Is the Meta Viewport Element Used For?
+
+    # Questions
+
+        1) What is the primary purpose of the <meta name="viewport"> tag?
+
+            To improve website loading speed.
+
+            To control page dimensions and scaling on different devices.
+            Correct!
+
+            To provide page descriptions for search engines.
+
+            To enable JavaScript functionality.
+
+
+        2) What does width=device-width in the <meta name="viewport"> tag do?
+
+            It sets the width of all images to match the device width.
+
+            It tells the browser to match the page width to the device's screen width.
+            Correct!
+
+            It adjusts the font size based on the device width.
+
+            It limits the maximum width of the webpage.
+
+
+        3) Why is it generally recommended to avoid using user-scalable=no in the <meta name="viewport"> tag?
+
+            It can cause the website to crash on certain devices.
+
+            It prevents the website from being indexed by search engines.
+
+            It can create accessibility issues for users who need to zoom.
+            Correct!
+
+            It makes the website load slower on mobile devices.
+
+
+
+04] What Are Some Default Browser Styles Applied to HTML?
+
+    # Questions
+
+        1) What is the default style applied to heading tags (h1 to h6) in most browsers?
+
+            They all have the same size and weight.
+
+            They have varying sizes and weights, with h1 being the largest and boldest.
+            Correct!
+
+            h1 is italicized, and h6 is underlined.
+
+            All heading tags are centered by default.
+
+
+        2) What does the hr element typically look like by default in most browsers?
+
+            A thin horizontal line with spacing above and below.
+            Correct!
+
+            A dashed line that spans the full width of the page.
+
+            A thick black line with no spacing.
+
+            A colored bar that separates sections.
+
+
+        3) How are anchor tags (a) typically styled by default in browsers?
+
+            bold and green.
+
+            underline and blue.
+            Correct!
+
+            italic and red.
+
+            underline and purple.
+
+
+
+05] What Are Inline, Internal, and External CSS, and When Should You Use Each One?
+
+    # Questions
+
+        1) When is it most appropriate to use inline CSS?
+
+            For styling all paragraphs in a document.
+
+            For overriding styles quickly on a single element.
+            Correct!
+
+            For styling an entire website.
+
+            For separating concerns in large projects.
+
+
+        2) Which type of CSS is best suited for applying styles to a single webpage only?
+
+            Inline CSS.
+
+            External CSS.
+
+            Internal CSS.
+            Correct!
+
+            Universal CSS.
+
+
+        3) Why is external CSS preferred in larger projects?
+
+            It allows for quick, one-time style changes.
+
+            It applies styles to only a specific element.
+
+            It promotes separation of concerns and reusability across multiple pages.
+            Correct!
+
+            It makes the HTML more complicated.
+
+
+
+06] How Do Width and Height Work?
+
+    # Questions
+
+        1) What will happen if you set width: 600px; and max-width: 500px; on a div element?
+
+            The element will be 600px wide.
+
+            The element will be 500px wide.
+            Correct!
+
+            The element will be 550px wide.
+
+            The element will be 100px wide.
+
+
+        2) If you set min-height: 200px and height: 150px on an element, what will be the height of the element?
+
+            150px
+
+            100px
+
+            200px
+            Correct!
+
+            250px
+
+
+        3) Which of the following is NOT a valid unit used with the width property?
+
+            hv
+            Correct!
+
+            px
+
+            %
+
+            vw
+
+
+
+07] What Are the Different Types of CSS Combinators?
+
+    # Questions
+
+        1) Which CSS rule will style all span elements that are inside div elements, regardless of how deeply they are nested?
+
+            div > span {
+                color: red;
+            }
+
+            div + span {
+                color: red;
+            }
+
+            div ~ span {
+                color: red;
+            }
+
+            div span {
+                color: red;
+            }
+            Correct!
+
+
+        2) Which CSS rule will style only the direct child li elements of ul elements?
+
+            ul > li {
+                font-weight: bold;
+            }
+            Correct!
+
+            ul li {
+                font-weight: bold;
+            }
+
+            ul + li {
+                font-weight: bold;
+            }
+
+            ul ~ li {
+                font-weight: bold;
+            }
+
+
+        3) Which CSS rule will style the first p element that immediately follows any h1 element?
+
+            h1 > p {
+                margin-top: 0;
+            }
+
+            h1 + p {
+                margin-top: 0;
+            }
+            Correct!
+
+
+            h1 ~ p {
+                margin-top: 0;
+            }
+
+            h1 p {
+                margin-top: 0;
+            }
+
+
+
+08] What Is the Difference Between Inline and Block-Level Elements in CSS?
+
+    # Questions
+
+        1) What is the default behavior of block-level elements in CSS?
+
+            They take up as much width as necessary and stay within the flow of content.
+
+            They take up the full width of their container and start on a new line.
+            Correct!
+
+            They are only used for images and links.
+
+            They are always aligned to the center of the page.
+
+
+        2) Which of the following is an example of an inline element?
+
+            div
+
+            p
+
+            span
+            Correct!
+
+            section
+
+
+        3) How can you change the behavior of a block-level element to behave like an inline element?
+
+            Apply display: inline-block;
+
+            Apply display: flex;
+
+            Apply display: inline;
+            Correct!
+
+            Apply display: none;
+
+
+
+09] How Does Inline-Block Work, and How Does It Differ from Inline and Block Elements?
+
+    # Questions
+
+        1) What is the key characteristic of an inline-block element that distinguishes it from an inline element?
+
+            Inline-block elements cannot be nested inside block elements.
+
+            Inline-block elements automatically span the full width of their container.
+
+            Inline-block elements allow setting of height and width, unlike inline elements.
+            Correct!
+
+            Inline-block elements always break onto a new line.
+
+
+        2) Which scenario is best suited for using inline-block elements over inline or block elements?
+
+            When you need an element to take up the entire width of its parent container.
+
+            When you want an element to remain inline but need to adjust its size.
+            Correct!
+
+            When you need an element to always start on a new line.
+
+            When you don't want an element to be affected by padding and margins.
+
+
+        3) In what situation would an element with display: inline-block; behave differently than one with display: block;?
+
+            When you need the element to take up the entire width of the container.
+
+            When you want the element to flow alongside text and other inline elements.
+            Correct!
+
+            When you need the element to start on a new line automatically.
+
+            When you don't want the element to have any height or width properties.
+
+
+
+10] What Are Margins and Padding, and How Do They Work?
+
+    # Questions
+
+        1) Which CSS property would you use to create space between the border of an element and its neighboring elements?
+
+            padding
+
+            border
+
+            margin
+            Correct!
+
+            width
+
+
+        2) Which CSS property would you use to create space between the content of an element and its border?
+
+            padding
+            Correct!
+
+            margin
+
+            border
+
+            height
+
+
+        3) What is the correct order of values when using the shorthand property for margin or padding with four values?
+
+            left, right, top, bottom.
+
+            top, left, bottom, right.
+
+            top, right, bottom, left.
+            Correct!
+
+            right, bottom, left, top.
+
+

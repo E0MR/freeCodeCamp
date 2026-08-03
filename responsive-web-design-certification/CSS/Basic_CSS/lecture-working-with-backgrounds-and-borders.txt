@@ -1,0 +1,171 @@
+1] How Do Background Image Size, Repeat, Position, and Attachment Work?
+
+    # Questions
+
+        1) Which background-size value would you use to ensure the entire background image is visible without any cropping, even if it doesn't cover the whole element?
+
+            cover
+
+            contain
+            Correct!
+
+            auto
+
+            100%
+
+
+        2) If you want a background image to repeat horizontally but not vertically, which background-repeat value would you use?
+
+            repeat
+
+            no-repeat
+
+            repeat-x
+            Correct!
+
+            repeat-y
+
+
+        3) Which background-attachment value would you use to make a background image stay in place when the user scrolls the page?
+
+            scroll
+
+            fixed
+            Correct!
+
+            local
+
+            static
+
+
+
+2] What Is a Background Gradient, and How Does It Work?
+
+    # Questions
+
+        1) What does the circle keyword specify in a radial-gradient() function?
+
+            The gradient will have a square shape.
+
+            The gradient will extend in a diagonal direction.
+
+            The gradient will have a circular shape.
+            Correct!
+
+            The gradient will be applied to the text.
+
+
+        2) What does the farthest-corner keyword do in the size parameter of a radial-gradient() function?
+
+            It makes the gradient extend to the nearest corner of the element.
+
+            It makes the gradient cover the entire element's width.
+
+            It makes the gradient extend to the farthest corner of the element.
+            Correct!
+
+            It makes the gradient only appear within the element's padding.
+
+
+        3) In the radial-gradient(circle at center, red, yellow 50%, green) function, where is the gradient's center located?
+
+            At the top right corner of the element.
+
+            At the bottom left corner of the element.
+
+            At the center of the element.
+            Correct!
+
+            At the outer edge of the element.
+
+
+
+3] What Are Some Accessibility Considerations for Backgrounds?
+
+    # Questions
+
+        1) Why is it important to maintain sufficient contrast between text and background?
+
+            To make the page look more colorful.
+
+            To make the text more readable for all users.
+            Correct!
+
+            To reduce loading times on the webpage.
+
+            To highlight text in different ways.
+
+
+        2) Which of the following should be avoided when placing text over a background?
+
+            Applying a high-contrast background.
+
+            Using a busy or complex background without any overlay.
+            Correct!
+
+            Using white text on a black background.
+
+            Using a solid background color behind text.
+
+
+        3) What is the issue with using color as the only indicator of information, such as showing an error message in red?
+
+            It makes the website look less colorful.
+
+            It doesn't affect users with visual impairments.
+
+            It can be problematic for users with color blindness.
+            Correct!
+
+            It requires more CSS code.
+
+
+
+4] What Are the Different Ways You Can Add Borders Around Images?
+
+    # Questions
+
+        1) Which CSS property allows you to create a border that doesn't affect the element's dimensions?
+
+            border
+
+            outline
+            Correct!
+
+            box-shadow
+
+            border-image
+
+
+        2) How would you create a 3-pixel wide, dashed, red border only on the left side of an image?
+
+            img {
+                border: 3px dashed red left;
+            }
+
+            img {
+                border-left: 3px dashed red;
+            }
+            Correct!
+
+            img {
+                left-border: 3px dashed red;
+            }
+
+            img {
+                border: left 3px dashed red;
+            }
+
+
+        3) Which CSS property would you use to round the corners of a border?
+
+            border-style
+
+            border-radius
+            Correct!
+
+            border-spacing
+
+            border-bottom
+
+

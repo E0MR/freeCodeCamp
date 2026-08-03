@@ -1,0 +1,427 @@
+1] What Is CSS Specificity, and the Specificity for Inline, Internal, and External CSS?
+
+    # Questions
+
+        1) Which CSS specificity is higher?
+
+            A class selector.
+
+            An inline style.
+            Correct!
+
+            An ID selector.
+
+            A type selector.
+
+
+        2) In the hierarchy of CSS specificity, which has the lowest priority?
+
+            Class selectors.
+
+            Inline styles.
+
+            Universal selectors.
+            Correct!
+
+            ID selectors.
+
+
+        2) What color will the text be in the following example?
+            <head>
+                <style>
+                    p {
+                    color: red;
+                    }
+                </style>
+            </head>
+            <body>
+                <p style="color: blue;">This text</p>
+            </body>
+
+            blue
+            Correct!
+
+            red
+
+            yellow
+
+            green
+
+
+
+2] What Is the Universal Selector, and What Is Its Specificity?
+
+    # Questions
+
+        1) What is the specificity value of the universal selector (*)?
+
+            (1, 0, 0, 0)
+
+            (0, 1, 0, 0)
+
+            (0, 0, 1, 0)
+
+            (0, 0, 0, 0)
+            Correct!
+
+
+        2) What is a common use case for the universal selector?
+
+            To apply styles to a specific element.
+
+            To reset or normalize styles across all elements.
+            Correct!
+
+            To target elements with a specific class.
+
+            To override inline styles.
+
+
+        3) Given the following CSS, what will be the color of the text?
+            <head>
+                <style>
+                    * {
+                    color: blue;
+                    }
+                    p {
+                    color: red;
+                    }
+                    .highlight {
+                    color: green;
+                    }
+                    #unique {
+                    color: purple;
+                    }
+                </style>
+            </head>
+            <body>
+                <p id="unique" class="highlight">This text</p>
+            </body>
+
+            blue
+
+            red
+
+            green
+
+            purple
+            Correct!
+
+
+
+3] What Is the Specificity for Type Selectors?
+
+    # Questions
+
+        1) What is the specificity value of a type selector (e.g., div)?
+
+            (1, 0, 0, 0)
+
+            (0, 1, 0, 0)
+
+            (0, 0, 1, 0)
+
+            (0, 0, 0, 1)
+            Correct!
+
+
+        2) Which of the following has a lower specificity than a type selector?
+
+            A class selector.
+
+            An ID selector.
+
+            An inline style.
+
+            A universal selector.
+            Correct!
+
+
+        3) Given the following CSS, what will be the color of the text?
+            <head>
+                <style>
+                    * {
+                    color: blue;
+                    }
+                    p {
+                    color: red;
+                    }
+                </style>
+            </head>
+            <body>
+                <p>This text</p>
+            </body>
+
+            blue
+
+            red
+            Correct!
+
+            green
+
+            purple
+
+
+
+4] What Is the Specificity for Class Selectors?
+
+    # Questions
+
+        1) What is the specificity value of a class selector (e.g., .example)?
+
+            (1, 0, 0, 0)
+
+            (0, 1, 0, 0)
+
+            (0, 0, 1, 0)
+            Correct!
+
+            (0, 0, 0, 1)
+
+
+        2) Which of the following selectors has a higher specificity than a class selector?
+
+            A type selector.
+
+            An ID selector.
+            Correct!
+
+            A universal selector.
+
+            A pseudo-element.
+
+
+        3) Given the following CSS, what will be the color of the text?
+            <head>
+                <style>
+                    .highlight {
+                    color: green;
+                    }
+                    p {
+                    color: blue;
+                    }
+                    p.highlight {
+                    color: red;
+                    }
+                </style>
+            </head>
+            <body>
+                <p class="highlight">This text</p>
+            </body>
+
+            green
+
+            blue
+
+            red
+            Correct!
+
+            purple
+
+
+
+5] What Is the Specificity for ID Selectors?
+
+    # Questions
+
+        1) What is the specificity value of an ID selector (e.g., #example)?
+
+            (1, 0, 0, 0)
+
+            (0, 1, 0, 0)
+            Correct!
+
+            (0, 0, 1, 0)
+
+            (0, 0, 0, 1)
+
+
+        2) Which of the following has a higher specificity than an ID selector?
+
+            A class selector.
+
+            An inline style.
+            Correct!
+
+            An attribute selector.
+
+            A type selector.
+
+
+        3) Given the following CSS, what will be the color of the text?
+            <head>
+                <style>
+                    #unique {
+                    color: purple;
+                    }
+                    .highlight {
+                    color: green;
+                    }
+                    p {
+                    color: blue;
+                    }
+                </style>
+            </head>
+            <body>
+                <p id="unique" class="highlight">This text</p>
+            </body>
+
+            green
+
+            blue
+
+            red
+
+            purple
+            Correct!
+
+
+
+6] What Is the important Keyword, and What Are the Best Practices for Using It?
+
+    # Questions
+
+        1) What does the !important keyword do in CSS?
+
+            It increases the specificity value of a selector.
+
+            It applies a style regardless of other rules' specificity.
+            Correct!
+
+            It decreases the specificity value of a selector.
+
+            It overrides only inline styles.
+
+            
+        2) When should the !important keyword be used?
+
+            As the primary method for styling elements.
+
+            To override third-party styles or as a temporary fix.
+            Correct!
+
+            In every CSS rule for consistency.
+
+            To increase specificity.
+
+            
+        3) Given the following CSS, what will be the color of the text?
+            <head>
+                <style>
+                    p {
+                    color: blue;
+                    }
+                    .highlight {
+                    color: green !important;
+                    }
+                    #unique {
+                    color: purple;
+                    }
+                </style>
+            </head>
+            <body>
+                <p id="unique" class="highlight">This text</p>
+            </body>
+
+            blue
+
+            green
+            Correct!
+
+            purple
+
+            red
+
+
+
+7] How Does the Cascade Algorithm Work at a High Level?
+
+    # Questions
+
+        1) What is the first step the Cascade Algorithm takes when determining which styles to apply?
+
+            It checks the specificity of the rules.
+
+            It filters the rules by relevance.
+            Correct!
+
+            It looks for !important declarations.
+
+            It applies the last rule in the CSS.
+
+
+        2) What will happen if you try to apply a conflicting set of styles to two paragraph rules?
+
+            Parts of the styles from each rule will apply.
+
+            The program will crash.
+
+            The last styles will be applied.
+            Correct!
+
+            None of the styles will apply.
+
+
+        3) Which of the following factors does not influence the Cascade Algorithm's decision on which CSS rule to apply?
+
+            The specificity of the selectors.
+
+            The order of appearance of the rules.
+
+            Whether the !important keyword is used.
+
+            The color property of the CSS rule.
+            Correct!
+
+
+
+8] How Does Inheritance Work with CSS at a High Level?
+
+    # Questions
+
+        1) Which of the following CSS properties is typically inherited by default?
+
+            padding
+
+            border
+
+            color
+            Correct!
+
+            background
+
+
+        2) What keyword can be used to force a child element to inherit a property from its parent?
+
+            default
+
+            inherit
+            Correct!
+
+            initial
+
+            none
+
+
+        3) Given the following CSS, what will be the color of the span text inside the p?
+            <head>
+                <style>
+                    p {
+                    color: blue;
+                    }
+                </style>
+            </head>
+            <body>
+                <p>This is a <span>test</span>.</p>
+            </body>
+
+            blue
+            Correct!
+
+            red
+
+            green
+
+            black
+
+
