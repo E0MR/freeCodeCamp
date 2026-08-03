@@ -17,3 +17,11 @@
 - [is_balanced.py](./py/get_food_chain.py)
 
 ---
+
+### `#003` &#8195; Emoji Translator
+
+- [getEmojiPhrase.js](./js/getEmojiPhrase.js)
+
+- [get_emoji_phrase.py](./py/get_emoji_phrase.py)
+
+---
