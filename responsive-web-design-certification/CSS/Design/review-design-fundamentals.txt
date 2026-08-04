@@ -1,0 +1,6 @@
+Outline
+    Design Terminology
+    UI Design Fundamentals
+    Design Best Practices
+    Common Design Tools
+    Assignment

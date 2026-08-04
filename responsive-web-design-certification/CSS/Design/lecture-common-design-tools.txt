@@ -1,0 +1,81 @@
+1] What Are Design Briefs and How Do Developers Work with Them?
+
+    # Questions
+
+        1) What is a design brief?
+
+            A timeline of past project milestones.
+
+            A schedule of meetings and deadlines for a project team.
+
+            A manual on how to use specific software tools.
+
+            A document that outlines the objectives, goals, and requirements of a project.
+            Correct!
+
+
+        2) Why is it important to define the scope for a project in a design brief?
+
+            To plan the project's social media marketing strategy.
+
+            To ensure that the project stays on track and within budget.
+            Correct!
+
+            To select the software tools for team collaboration.
+
+            To choose the best color palette for the project.
+
+
+        3) What is the role of the developer in a project?
+
+            To change the timeline and deliverables in the design brief.
+
+            To take the design brief and turn it into a working product.
+            Correct!
+
+            To change the design brief to meet the developer's preferences.
+
+            To change the project scope to include more features.
+
+
+
+2] What Are Some Common Tools Developers Should Know About That Are Used by Designers in the Industry?
+
+    # Questions
+
+        1) Which of these best describes Sketch?
+
+            It is difficult to learn and use.
+
+            It is primarily used for back-end development.
+
+            It is known for its intuitive interface and simplicity, ideal for quick prototypes.
+            Correct!
+
+            It is rarely used for creating UIs or web layouts.
+
+
+        2) Which of these is not a feature of Figma?
+
+            Vector-based design.
+
+            Automatic layout.
+
+            Real-time collaboration.
+
+            Coding environment.
+            Correct!
+
+
+        3) What is Adobe XD known for?
+
+            Complex video editing features.
+
+            Seamless integration with other Adobe apps like Photoshop and Illustrator.
+            Correct!
+
+            Being a raster-based image editor.
+
+            Specialized 3D modeling capabilities.
+
+

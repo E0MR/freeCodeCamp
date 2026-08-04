@@ -1,0 +1,450 @@
+01] What Is User-Centered Design?
+
+    # Questions
+
+        1) What is the main goal of user-centered design?
+
+            To make the website visually appealing.
+
+            To prioritize the developer's preferences.
+
+            To create a website that is intuitive and efficient for users.
+            Correct!
+
+            To reduce development costs.
+
+
+        2) Why is it important to consider target demographics in user-centered design?
+
+            To determine the website's color scheme.
+
+            To choose appropriate design elements for the intended audience.
+            Correct!
+
+            To decide on the website's content.
+
+            To set the price of products or services.
+
+
+        3) What is one way to gather information about user behavior on your website?
+
+            Conduct in-person interviews.
+
+            Use social media polls.
+
+            Implement analytics tools like Google Analytics.
+            Correct!
+
+            Ask friends and family for opinions.
+
+
+
+02] What Are User Requirements, User Research, and Testing?
+
+    # Questions
+
+        1) What is the primary purpose of user research?
+
+            To increase sales of a product.
+
+            To measure user needs, behaviors, and pain points.
+            Correct!
+
+            To develop new features for an application.
+
+            To conduct A/B testing on a website.
+
+
+        2) Which of the following is NOT a typical method of user research or testing?
+
+            Net Promoter Score (NPS).
+
+            Exit interviews.
+
+            A/B testing.
+
+            Version Control.
+            Correct!
+
+
+        3) What is the difference between functional and non-functional user requirements?
+
+            Functional requirements are important, while non-functional requirements are optional.
+
+            Functional requirements define how the application should work, while non-functional requirements define how it should behave.
+            Correct!
+
+            Functional requirements are set by stakeholders, while non-functional requirements come from user research.
+
+            Functional requirements are static, while non-functional requirements change over time.
+
+
+
+03] What Are Best Practices for Designing a Dark Mode Feature?
+
+    # Questions
+
+        1) What is dark mode?
+
+            A feature that changes the default light color scheme to a dark color scheme.
+            Correct!
+
+            A feature that changes the default dark color scheme to a light color scheme.
+
+            A feature that changes the default font size to a larger size.
+
+            A feature that changes the default layout of a web page.
+
+
+        2) Why is it not a good idea to use pure black backgrounds with white text in dark mode?
+
+            Pure black backgrounds can cause security issues.
+
+            Pure black backgrounds can cause performance issues.
+
+            Pure black backgrounds with white text are too subtle.
+
+            Pure black backgrounds with white text can be too harsh on the eyes.
+            Correct!
+
+
+        3) What types of colors are suggested to use in dark mode?
+
+            Red colors.
+
+            Desaturated colors.
+            Correct!
+
+            Bright colors.
+
+            Pastel colors.
+
+
+
+04] What Are Best Practices for Designing Breadcrumbs?
+
+    # Questions
+
+        1) What are breadcrumbs?
+
+            A navigation aid that shows the user where they are in the site's hierarchy.
+            Correct!
+
+            A type of container for images.
+
+            A navigation aid only found on mobile sites.
+
+            A type of container for text.
+
+
+        2) When should you use breadcrumbs on your site?
+
+            You should never use breadcrumbs.
+
+            If your site has a deep hierarchy for navigation.
+            Correct!
+
+            If your site is simple and has a shallow hierarchy.
+
+            You should only use them for mobile sites.
+
+
+        3) Which of the following is a common separator for breadcrumbs?
+
+            >>>>
+
+            ||||
+
+            /
+            Correct!
+
+            &&&
+
+
+
+05] What Are Best Practices for Designing Cards?
+
+    # Questions
+
+        1) Why is it important to have a simple card design?
+
+            You want users to have a good user experience and digest the information easily.
+            Correct!
+
+            You want users to be confused.
+
+            You want users to be overwhelmed.
+
+            You want users to be frustrated.
+
+
+        2) Why is it important to have good color hierarchy on your card design?
+
+            To make it difficult for users to understand the information.
+
+            To make the site perform better.
+
+            To highlight the most important information on the card.
+            Correct!
+
+            To make the card visually cluttered.
+
+
+        3) What are the advantages of using high quality media on your card design?
+
+            There are no advantages.
+
+            Users will leave the site immediately.
+
+            It will speed up the performance of the site.
+
+            Users will trust the quality of your products and services.
+            Correct!
+
+
+
+06] What Are Best Practices for Designing Infinite Scrolls?
+
+    # Questions
+
+        1) What is infinite scrolling?
+
+            A design pattern that changes the scrollbar on the page.
+
+            A design pattern that changes the size of the page.
+
+            A design pattern to change the background color of the page.
+
+            A design pattern that loads more content as the user scrolls down the page
+            Correct!
+
+
+        2) What is the role of a "load more" button in infinite scrolling?
+
+            It reloads the page.
+
+            To give users control over when they want to see more content.
+            Correct!
+
+            It allows users to go back to previously loaded content.
+
+            It restricts the amount of data that can be loaded.
+
+
+        3) Why is it important to keep the footer accessible while using an infinite scroll?
+
+            It helps make the colors stand out more on the page.
+
+            It helps make the page load faster.
+
+            It is not important to keep the footer accessible.
+
+            So the user can access the links and important information from the footer at all times.
+            Correct!
+
+
+
+07] What Are Best Practices for Designing Modal Dialogs?
+
+    # Questions
+
+        1) What is the purpose of dimming the content behind a modal dialog?
+
+            To save battery life on mobile devices.
+
+            To help users visually identify the area they should interact with.
+            Correct!
+
+            To make the website load faster.
+
+            To prevent users from seeing sensitive information.
+
+
+        2) What does CTA stand for in the context of modal design?
+
+            Click To Activate.
+
+            Complete The Action.
+
+            Call-to-Action.
+            Correct!
+
+            Close The Application.
+
+
+        3) Why is it important to include a close button in a modal dialog?
+
+            It's required by law in some countries.
+
+            To prevent the modal from crashing the browser.
+
+            To give users an option to exit the modal and resume their previous activity.
+            Correct!
+
+            To make the modal look more professional.
+
+
+
+08] What Are Best Practices for Progress Indication on Forms, Registration, and Setup?
+
+    # Questions
+
+        1) What is the primary goal of using a progress indication in forms or registration processes?
+
+            To entertain users while they complete the form.
+
+            To inform users about how far they are in the process and what is left to do.
+            Correct!
+
+            To reduce the number of steps in the process.
+
+            To speed up the form submission process.
+
+
+        2) Why is it important to allow users to go back to previous steps in a form or registration process?
+
+            To let users change their answers or review previous entries.
+            Correct!
+
+            To make the form more complex.
+
+            To limit the number of steps in the process.
+
+            To increase the time users spend on the site.
+
+
+        3) What should you consider when placing a progress indication section on a webpage?
+
+            It should be as small as possible to avoid distracting the user.
+
+            It should be easy to find and clearly labeled with context like section titles or percentages.
+            Correct!
+
+            It should be hidden until the user reaches the final step.
+
+            It should only include a visual progress bar with no text.
+
+
+
+09] What Are Best Practices for Designing Shopping Carts?
+
+    # Questions
+
+        1) What is a crucial aspect of designing a shopping cart that can impact the shopping experience and sales?
+
+            The color of the shopping cart icon.
+
+            The position of the shopping cart on the page.
+            Correct!
+
+            The number of items in the cart.
+
+            The brand of the e-commerce website.
+
+
+        2) How should users be able to update the quantity of items in their cart?
+
+            By contacting customer service.
+
+            By using a dropdown menu.
+
+            By entering a new number in a quantity input field.
+            Correct!
+
+            By adding a new item with the desired quantity.
+
+
+        3) What is an important feature to include in the shopping cart to help users proceed with their purchase?
+
+            A "Save for Later" option.
+
+            Multiple call-to-action buttons.
+
+            A clear and prominent checkout button.
+            Correct!
+
+            An option to chat with a sales representative.
+
+
+
+10] What Is Progressive Disclosure?
+
+    # Questions
+
+        1) What is the main purpose of using progressive disclosure in design?
+
+            To increase the number of features visible at all times.
+
+            To overwhelm users with all available options.
+
+            To only show users relevant content based on their current activity.
+            Correct!
+
+            To make the user interface more complex.
+
+
+        2) How does Google implement progressive disclosure on its search page?
+
+            By displaying all search options at once.
+
+            By offering an advanced search option that reveals more features when needed.
+            Correct!
+
+            By hiding the search bar behind a modal dialog.
+
+            By providing a new search page for each query.
+
+
+        3) What should be avoided to ensure a good user experience with progressive disclosure?
+
+            Providing a single, clear access point to additional information.
+
+            Using multiple access points to confuse users.
+            Correct!
+
+            Keeping important information visible at all times.
+
+            Ensuring that additional information is available when needed.
+
+
+
+11] What Is Deferred and Lazy Registration?
+
+    # Questions
+
+        1) How does lazy registration impact user interaction with an application?
+
+            It immediately limits user access until they complete a registration form.
+
+            It encourages users to engage with content before asking for their registration details.
+            Correct!
+
+            It requires users to provide payment information before accessing any features.
+
+            It makes the registration process mandatory before users can view any part of the application.
+
+
+        2) What is one of the main benefits of lazy registration in UI design?
+
+            Users can immediately make purchases without registering.
+
+            Users can see the value of the application before deciding to register.
+            Correct!
+
+            Users are required to register to view any content.
+
+            Users can bypass all security protocols during registration.
+
+
+        3) Which of the following is an example of a platform that uses lazy registration?
+
+            A banking app requiring users to register before browsing financial products.
+
+            An e-commerce site allowing users to browse products and add items to a cart before registering.
+            Correct!
+
+            An email service that asks users to register before reading any emails.
+
+            A health app that requires registration to access general health tips.
+
+

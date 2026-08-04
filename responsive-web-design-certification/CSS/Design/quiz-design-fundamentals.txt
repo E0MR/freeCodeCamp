@@ -1,0 +1,485 @@
+1.What are some reasons why whitespace is important for good design?
+
+    Focuses the viewer's attention by having elements placed close together.
+
+    Creates breathing space in the design to make users scroll for more information.
+
+    Creates visual hierarchy, improves readability, focuses the viewer's attention on different elements.
+    Correct!
+
+    Improves readability by placing many elements on the page.
+
+
+2.What is the design principle of carefully choosing the size of elements in relation to each other?
+
+    Balance
+
+    Scale
+    Correct!
+
+    Proportion
+    Incorrect.
+
+    Visual hierarchy.
+
+
+3.Which of the following sites would most likely benefit from using breadcrumbs?
+
+    An infinite scroll gallery site.
+
+    A complex e-commerce site with multiple categories and subcategories.
+    Correct!
+
+    A simple blog with only a few posts.
+
+    A single-page portfolio site.
+
+
+4.Which design pattern allows users to access and interact with elements and content on a website without requiring immediate registration?
+
+    Lazy loading.
+    Incorrect.
+
+    Progressive enhancement.
+
+    Captcha validation.
+
+    Deferred/lazy registration.
+    Correct!
+
+
+5.What are three types of text alignment?
+
+    Vertical, horizontal, equal.
+
+    Left, right, middle.
+
+    Left, right, center.
+    Correct!
+
+    Top, center, horizontal.
+
+
+6.Which interaction design pattern reduces the complexity of interaction by hiding parts of interfaces progressively so that content is only introduced to the user as they progress through the application?
+
+    Delayed implementation.
+
+    Progressive disclosure.
+    Correct!
+
+    Extended discoverability.
+
+    Gradual engagement.
+
+
+7.What is contrast in design?
+
+    The difference in saturation between two colors.
+
+    Elements that are strikingly different from each other visually.
+    Correct!
+
+    Matching elements on a page.
+
+    Elements that are visually similar.
+
+
+8.Which of the following is an example of visual hierarchy in design?
+
+    Making the headline of the page larger than other text that comprise the body or sub-headings
+    Correct!
+
+    The logo banner is smaller than all the minor images on the main landing page.
+
+    Headline and title text are a similar color to the background and other elements to blend in.
+
+    Text and images are all the same size on the page.
+
+
+9.What is a common goal of conducting exit interviews in user research?
+
+    To gather data for A/B testing.
+
+    To understand the factors causing user churn.
+    Correct!
+
+    To increase the number of new users.
+
+    To test new features with existing users.
+
+
+10.What is user centered design?
+
+    A design process focused on client requirements at every stage of the process.
+
+    A design process where once the design is completed, designers test the product by getting user feedback.
+
+    An iterative design process where designers design a product considering user requirements at every stage of the process.
+    Correct!
+
+    A design process where designers consider user accessibility requirements.
+
+
+11.What is the minimum required contrast ratio for regular text for accessibility according to WCAG guidelines?
+
+    1:1
+
+    3:1
+
+    7:1
+
+    4.5:1
+    Correct!
+
+
+12.What are some colors to consider when designing dark mode?
+
+    Dark colors and muted light colors for contrast in dim lighting conditions.
+    Correct!
+
+    Pure white.
+
+    Highly saturated colors.
+
+    Bright highly contrasting colors.
+
+
+13.How can user research impact user requirements?
+
+    It can help define and refine user requirements based on user feedback.
+    Correct!
+
+    It only affects non-functional requirements.
+
+    It has no impact on user requirements.
+
+    It only affects functional requirements.
+
+
+14.Why is it important for a design brief to be reviewed and approved by all stakeholders before the project begins?
+
+    To finalize the color palette and design elements.
+
+    To ensure everyone is aware of the project's social media strategy.
+
+    To determine the project's marketing budget.
+
+    To confirm that all stakeholders agree on the project's objectives and requirements.
+    Correct!
+
+
+15.What is considered bad practice when implementing infinite scroll?
+
+    Not adding alternative methods of navigating the page.
+    Correct!
+
+    Integrating a footer reveal at the bottom.
+
+    Adding a load more indicator or symbol after a certain point in the page along with the infinite scroll.
+
+    Allowing users to jump to a page or section through the navbar or a pagination drop down menu.
+
+
+16.Which of the following is a best practice when designing progress indicators for forms?
+
+    Breaking the progress indicator into labeled sections.
+    Correct!
+
+    Keeping the progress indicator small and discreet.
+
+    Requiring users to restart the form if they navigate away from the page.
+
+    Making sure the progress is just displayed visually without any text.
+
+
+17.What is one way to make shopping cart design intuitive and user friendly?
+
+    Use a new shopping cart icon that no other website has used before.
+
+    Do not allow users to add or remove items from the cart.
+
+    Include thumbnail images of products in the cart.
+    Correct!
+
+    Automatically add products to the cart without user interaction.
+
+
+18.Dark mode doesn't mean pure black. What is a good technique to create an effective dark mode color scheme?
+
+    Invert the color scheme.
+
+    Use dark gray or a dark shade of the brand color instead of pure black.
+    Correct!
+
+    Use many saturated colors.
+
+    Make images and elements darker and reduce contrast between different elements to have them blend in.
+
+
+19.What is one good design practice when creating modals?
+
+    Have multiple modals on the same screen.
+
+    Make the modal dismiss icon visible.
+    Correct!
+
+    Put a lot of important information inside a modal.
+
+    Ensure the modal draws the user's attention away from it.
+    Incorrect.
+
+
+20.What is a design brief?
+
+    A document with detailed information of icons, colors, and assets the designer should use.
+
+    A document outlining the programming and design standards of the project.
+
+    A document stating the goals and project scope, budget and design requirements.
+    Correct!
+
+    A document explaining how to replicate a design.
+
+
+########## ########## ########## ########## ##########
+
+
+1.Which design tool is especially known for real-time collaboration in the cloud?
+
+    Sketch
+
+    Canva
+
+    Figma
+    Correct!
+
+    Adobe XD
+
+
+2.Which tool is most suitable for beginners creating posters and presentations?
+
+    Figma
+
+    Sketch
+
+    Adobe XD
+
+    Canva
+    Correct!
+
+
+3.Why should breadcrumbs be designed to be easily readable but not oversized?
+
+    To keep them consistent across all screen sizes.
+
+    To match the font size of main headers.
+
+    To balance visibility without overwhelming the page layout.
+    Correct!
+
+    To make them blend into the background.
+
+
+4.What is a common mistake to avoid in card component design?
+
+    Keeping the card visually simple.
+
+    Using white space effectively.
+
+    Adding hover animations for feedback.
+
+    Displaying too much information at once.
+    Correct!
+
+
+5.What usability issue can arise with infinite scroll without a "back" option?
+
+    Users may lose their original context.
+    Correct!
+
+    Users may load duplicate content.
+
+    Users may exit the app accidentally.
+
+    Users may scroll too fast.
+
+
+6.Which of the following helps visually distinguish a modal from the page content behind it?
+
+    Using a dim overlay on the background content.
+    Correct!
+
+    Increasing modal font size significantly.
+
+    Adding a shadow to modal buttons.
+
+    Animating the modal with a fade-in effect.
+
+
+7.Why should a progress indicator in a registration form support backward navigation?
+
+    It reduces loading time.
+
+    It makes the form look shorter.
+
+    It improves usability.
+    Correct!
+
+    It avoids page refreshes.
+
+
+8.When using progressive enhancement, what's the primary benefit for users on older devices or browsers?
+
+    They see a basic version of animations.
+
+    They get alerted to upgrade their browser.
+
+    They can still access essential content and features.
+    Correct!
+
+    They are redirected to mobile-optimized sites.
+
+
+9.Why might deferred (lazy) registration improve conversion rates?
+
+    It lets users explore value before committing.
+    Correct!
+
+    It requires fewer third-party integrations.
+
+    It reduces back-end authentication load.
+
+    It hides premium features.
+
+
+10.What does a good responsive image setup accomplish on mobile devices?
+
+    It reduces color depth for performance.
+
+    It triggers a mobile-only animation.
+
+    It adapts image size without losing quality.
+    Correct!
+
+    It stretches images to fill available space.
+
+
+11.What is the purpose of establishing a strong visual hierarchy in UI design?
+
+    It ensures animations run smoothly on low-end devices.
+
+    It guides the user's eye through information in the intended order.
+    Correct!
+
+    It reduces the need for progressive disclosure.
+
+    It helps with color contrast and branding.
+
+
+12.Why is contrast more than just choosing black text on white?
+
+    Contrast ensures pixel-perfect accuracy.
+
+    It's mainly about marketing visibility.
+
+    It's about matching brand fonts.
+
+    Contrast must work across all lighting conditions and devices.
+    Correct!
+
+
+13.Why is user testing critical when refining an interface design?
+
+    It reduces the time spent on writing design briefs.
+
+    It helps finalize stakeholder preferences.
+
+    It reveals how users interact with the interface in practice.
+    Correct!
+
+    It determines how well colors follow contrast ratio guidelines.
+
+
+14.What is A/B testing based on standard UI design practices?
+
+    It only applies to mobile-first designs.
+
+    It uses exit interviews to gather feedback.
+
+    It requires smaller participant groups.
+
+    It tests a new feature with a random subset of users.
+    Correct!
+
+
+15.What does alignment help achieve in a visual layout?
+
+    It balances all colors equally across the design.
+
+    It increases contrast between unrelated elements.
+
+    It forces all elements into the same grid.
+
+    It makes the design look organized and visually clean.
+    Correct!
+
+
+16.Which of the following best describes the goal of composition in visual design?
+
+    Scaling up every element to fit the full canvas.
+
+    Arranging elements so they relate to each other in a harmonious way.
+    Correct!
+
+    Grouping all UI elements in one corner of the screen.
+
+    Using only symmetrical layouts for visual consistency.
+
+
+17.Which design principle is concerned with distributing visual weight to create a sense of equilibrium?
+
+    Balance
+    Correct!
+
+    Composition
+
+    Scale
+
+    Hierarchy
+
+
+18.What does hierarchy help users do when interacting with a visual design?
+
+    Zoom in on text for better readability.
+
+    Understand which elements are most important at a glance.
+    Correct!
+
+    Access navigation menus without scrolling.
+
+    Choose between symmetrical and asymmetrical layouts.
+
+
+19.Which of the following best defines white space in a design context?
+
+    A gap that must be filled with branding elements.
+
+    The padding used between interactive buttons.
+
+    The empty area around or between visual elements.
+    Correct!
+
+    The white background color used for body text.
+
+
+20.What is vector-based design?
+
+    Drawing with pixel-based tools for realistic detail.
+
+    Building mockups with photos and bitmap textures.
+
+    Creating art using formulas for lines, shapes, and colors.
+    Correct!
+
+    Editing scanned images using raster techniques.
+

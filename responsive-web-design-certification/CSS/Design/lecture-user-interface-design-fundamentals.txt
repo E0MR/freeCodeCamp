@@ -1,0 +1,327 @@
+1] What Are Common Design Terms to Help You Communicate with Designers?
+
+    # Questions
+
+        1) Which design principle refers to the visual weight distribution within a layout?
+
+            Alignment
+
+            Balance
+            Correct!
+
+            Hierarchy
+
+            Contrast
+
+
+        2) What is the term for the empty space around the elements in a design?
+
+            Layout
+
+            Hierarchy
+
+            White Space
+            Correct!
+
+            Contrast
+
+
+        3) Which design principle establishes the order of importance of the elements in a design?
+
+            Alignment
+
+            Contrast
+
+            Hierarchy
+            Correct!
+
+            Proximity
+
+
+
+2] How Do You Create Good Background and Foreground Contrast in Your Designs?
+
+    # Questions
+
+        1) What is contrast in the context of web design?
+
+            The brightness of colors on a webpage.
+
+            The difference between two colors and how easily they can be distinguished.
+            Correct!
+
+            The number of colors used on a webpage.
+
+            The sharpness of images on a webpage.
+
+
+        2) According to the Web Content Accessibility Guidelines (WCAG), what is the minimum contrast ratio for text to meet the AA standard?
+
+            3:1
+
+            4.5:1
+            Correct!
+
+            7:1
+
+            21:1
+
+
+        3) Which of the following is NOT mentioned as an aspect that impacts the contrast ratio?
+
+            Hue
+
+            Saturation
+
+            Lightness
+
+            Opacity
+            Correct!
+
+
+
+3] What Is the Importance of Good Visual Hierarchy in Design?
+
+    # Questions
+
+        1) What is the primary purpose of visual hierarchy in web design?
+
+            To make the website more colorful.
+
+            To guide the viewer's attention in a specific order.
+            Correct!
+
+            To reduce the amount of content on a page.
+
+            To increase the loading speed of a website.
+
+
+        2) Which of the following is NOT mentioned as a technique for creating visual hierarchy in the article?
+
+            Using different font sizes for headings.
+
+            Implementing a callout box for important information.
+
+            Applying animation effects to elements.
+            Correct!
+
+            Creating distinct sections for navigation and footer.
+
+
+        3) How can a strong visual hierarchy potentially impact user conversion?
+
+            By making the website more aesthetically pleasing.
+
+            By reducing the number of clicks required to navigate the site.
+
+            By drawing attention to important information and Call-to-Action (CTA) buttons.
+            Correct!
+
+            By increasing the website's search engine ranking.
+
+
+
+4] How Does Scale Work in Design?
+
+    # Questions
+
+        1) What is the primary purpose of using correct scale in web design?
+
+            To make everything the same size.
+
+            To guide users through content.
+            Correct!
+
+            To use as much space as possible.
+
+            To make text harder to read.
+
+
+        2) Why might a large banner image be problematic on a mobile layout?
+
+            It loads too slowly.
+
+            It's not visually appealing.
+
+            It takes up too much screen space.
+            Correct!
+
+            It's not interactive enough.
+
+
+        3) What is an important consideration for scaling navigation elements on mobile devices?
+
+            Making them as small as possible.
+
+            Ensuring they're easy to tap.
+            Correct!
+
+            Using bright colors.
+
+            Removing them entirely.
+
+
+
+5] How Does Alignment Work in Design?
+
+    # Questions
+
+        1) What is alignment in design?
+
+            The process of adding borders to elements on a page.
+
+            The process of arranging text and images in a way that creates a visual connection between elements.
+            Correct!
+
+            The process of adding color to a design.
+
+            The process of creating a layout for a web page.
+
+
+        2) What is left alignment commonly used for?
+
+            It's commonly used with videos.
+
+            It's commonly used with footer elements.
+
+            It's commonly used with text where each element is aligned to the left margin.
+            Correct!
+
+            It's commonly used with lists.
+
+
+        3) What is vertical alignment?
+
+            It's used to align elements along a vertical axis.
+            Correct!
+
+            It's used to align elements along a diagonal axis.
+
+            It's used to align elements along a horizontal axis.
+
+            It's used to align elements along a circular axis.
+
+
+
+6] What Is the Importance of Whitespace in Design?
+
+    # Questions
+
+        1) What is macro white space?
+
+            The space between individual characters in a line of text.
+
+            The space around images only.
+
+            The space around text only.
+
+            The space between larger elements like images, text blocks and buttons.
+            Correct!
+
+
+        2) What is active white space?
+
+            Space that is only for text elements on a page.
+
+            Space that is for figure elements on a page.
+
+            Space that is for list items on a page.
+
+            Space that is intentionally created to help guide the user's eye and draw attention to certain elements on the page.
+            Correct!
+
+
+        3) What is passive white space?
+
+            Space that is left over after all the elements on a page have been placed.
+            Correct!
+
+            Space that is only for text elements on a page.
+
+            Space that is for image elements on a page.
+
+            Space that is for nav elements on a page.
+
+
+
+7] What Are Best Practices for Working with Images in Your Designs?
+
+    # Questions
+
+        1) What is the importance of balance in design when placing images?
+
+            To ensure images are the right size.
+
+            To make images accessible to all users
+
+            To create a harmonious design by distributing visual weight.
+            Correct!
+
+            To improve the resolution of images.
+
+
+        2) What is the purpose of using high resolution images in your designs?
+
+            To make sure your images have the right color.
+
+            To ensure that your images look good on all devices.
+            Correct!
+
+            To make sure that your images are the right size.
+
+            To make sure that your images are accessible to all users.
+
+
+        3) What is PPI?
+
+            The number of pixels per one inch of an image.
+            Correct!
+
+            The number of points per one inch of an image.
+
+            The number of pixels per one centimeter of an image.
+
+            The number picas per one image.
+
+
+
+8] What Is Progressive Enhancement?
+
+    # Questions
+
+        1) What is the main goal of progressive enhancement?
+
+            To ensure that the application is heavily reliant on JavaScript.
+
+            To ensure all users, regardless of browser or device, can access the essential content and functionality of an application.
+            Correct!
+
+            To ensure that the latest complex features are available to all users.
+
+            To ensure that the application is only available to users with the latest browsers.
+
+
+        2) Which of the following is NOT a core principle of progressive enhancement?
+
+            A user's browser preferences should be respected.
+
+            All advanced layouts should be provided through external CSS stylesheets.
+
+            A user's browser preferences should be ignored.
+            Correct!
+
+            All advanced functionality should be provided through external JavaScript files.
+
+
+        3) What is a common criticism of the progressive enhancement approach?
+
+            It is not always realistic for applications that rely heavily on JavaScript for their functionality.
+            Correct!
+
+            It can result in a less engaging user experience on modern devices due to its focus on backward compatibility.
+
+            It leads to bloated web pages with excessive code and resources that are not needed by modern browsers.
+
+            It requires extensive browser testing on older, less capable browsers, which can be time-consuming and expensive.
+
+
