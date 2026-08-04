@@ -25,3 +25,11 @@
 - [get_emoji_phrase.py](./py/get_emoji_phrase.py)
 
 ---
+
+### `#004` &#8195; Golf Handicap Calculator
+
+- [calculateHandicap.js](./js/calculateHandicap.js)
+
+- [calculate_handicap.py](./py/calculate_handicap.py)
+
+---
