@@ -1,0 +1,247 @@
+1] What Is Color Theory in Design?
+
+    # Questions
+
+        1) Why is color theory important for web development?
+
+            It's not important because it has no impact on user experience.
+
+            It helps designers create visually appealing websites.
+            Correct!
+
+            It's only important for print design.
+
+            It's irrelevant to modern web design trends.
+
+
+        2) Which color scheme is most likely to create cohesive and soothing experiences?
+
+            Analogous
+            Correct!
+
+            Complementary
+
+            Monochromatic
+
+            Triadic
+
+
+        3) The concept of color harmony refers to:
+
+            Using only one color in a design.
+
+            Combining colors that clash with each other.
+
+            Creating visually effective color combinations.
+            Correct!
+
+            The brightness or darkness of a color.
+
+
+
+2] What Are Named Colors in CSS, and When to Use Them?
+
+    # Questions
+
+        1) What is a key benefit of using named colors in CSS?
+
+            Named colors allow you to create gradients.
+
+            Named colors are simpler to write and make code more readable.
+            Correct!
+
+            Named colors provide a wider range of color options than hex codes.
+
+            Named colors are the most precise way to define colors in web design.
+
+
+        2) In what scenario might named colors not be the best choice?
+
+            When you need to quickly prototype a design.
+
+            When your design requires very specific or nuanced shades of color.
+            Correct!
+
+            When your design involves only primary colors.
+
+            When collaborating with others on a simple project.
+
+
+        3) Which of the following is an example of a named color in CSS?
+
+            #ff5733
+
+            rgb(255, 99, 71)
+
+            tomato
+            Correct!
+
+            hsl(120, 100%, 50%)
+
+
+
+3] What Is the RGB Color Model, and How Does the RGB Function Work in CSS?
+
+    # Questions
+
+        1) What do the numbers in the rgb() function represent?
+
+            width, height, and depth of the element.
+
+            Amount of red, green, and blue light.
+            Correct!
+
+            padding, margin, and border sizes.
+
+            Amount of hue, saturation, and lightness.
+
+
+        2) Which CSS function would you use if you want to control the transparency of a color?
+
+            rgb()
+
+            rgba()
+            Correct!
+
+            hsl()
+
+            hex()
+
+
+        3) What is the maximum value for any individual color in the RGB model?
+
+            100
+
+            50
+
+            255
+            Correct!
+
+            360
+
+
+
+4] What Is the HSL Color Model, and How Does the HSL Function Work in CSS?
+
+    # Questions
+
+        1) What does the first value in the hsl() function represent?
+
+            Saturation
+
+            Lightness
+
+            Hue
+            Correct!
+
+            Opacity
+
+
+        2) Which percentage value for lightness would result in pure white when using the HSL model?
+
+            0%
+
+            50%
+
+            100%
+            Correct!
+
+            25%
+
+
+        3) How would you make a color semi-transparent using the HSL model?
+
+            By using hsl() with a / separator and an alpha value.
+            Correct!
+
+            By lowering the lightness value in the hsl() function.
+
+            By increasing the hue value above 360 degrees.
+
+            By setting the saturation value to 0%.
+
+
+
+5] What Are Hex Codes, and How Do They Work in CSS?
+
+    # Questions
+
+        1) What does each pair of characters in a hex code represent?
+
+            The amount of opacity in the color.
+
+            The intensity of red, green, or blue in the color.
+            Correct!
+
+            The amount of contrast between colors.
+
+            The lightness and saturation of the color.
+
+
+        2) How would you write the hex code for black using the shorthand format?
+
+            #000
+            Correct!
+
+            #000000
+
+            #FFF
+
+            #FFFFFF
+
+
+        3) Why might a designer choose to use hex codes in their CSS over named colors?
+
+            Hex codes allow for more precise color selection.
+            Correct!
+
+            Hex codes are easier to remember than named colors.
+
+            Hex codes automatically adjust for light and dark mode.
+
+            Hex codes do not require any formatting in CSS.
+
+
+
+6] What Are Linear and Radial Gradients, and How Do They Work in CSS?
+
+    # Questions
+
+        1) What is the difference between linear and radial gradients in CSS?
+
+            Linear gradients use only two colors, while radial gradients use multiple colors.
+
+            Linear gradients transition along a straight line, while radial gradients radiate from a central point.
+            Correct!
+
+            Linear gradients are only horizontal, while radial gradients can be any shape.
+
+            Linear gradients are smoother than radial gradients.
+
+        2) In the following CSS code, what does 45deg specify?
+            {
+                background: linear-gradient(45deg, red, blue);
+            }
+
+            The angle of rotation for the entire element.
+
+            The direction of the gradient line.
+            Correct!
+
+            The size of the gradient.
+
+            The distance between color stops.
+
+
+        3) Which of the following is NOT a valid way to specify direction in a linear gradient?
+
+            to right
+
+            to bottom left
+
+            90deg
+
+            diagonal
+            Correct!
+
+

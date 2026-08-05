@@ -1,0 +1,239 @@
+1.What are the 3 secondary colors in color theory?
+
+    Purple, Green, Yellow
+
+    Blue, Orange, Yellow
+
+    Green, Orange, Pink
+
+    Green, Orange, Purple
+    Correct!
+
+
+2.What feelings do warm colors evoke?
+
+    Subtlety, Isolation, Loneliness
+
+    Clarity, Freshness, Cleanliness
+
+    Comfort, Warmth, Coziness
+    Correct!
+
+    Melancholy, Nonchalance, Frostiness
+
+
+3.Which type of color scheme uses colors that are equidistant from each other on the color wheel?
+
+    Monochromatic
+
+    Analogous
+
+    Triadic
+    Correct!
+
+    Complementary
+
+
+4.Which type of color scheme uses colors that are derived from the same base color?
+
+    Analogous
+
+    Triadic
+
+    Complementary
+
+    Monochromatic
+    Correct!
+
+
+5.What is the name of a circular diagram that shows how colors relate to each other?
+
+    Shade Spiral
+
+    Color Wheel
+    Correct!
+
+    Color Picker
+
+    Swatch Wheel
+
+
+6.Which of these is not a tertiary color?
+
+    Yellow-Blue
+    Correct!
+
+    Blue-Violet
+
+    Yellow-Green
+
+    Blue-Green
+
+
+7.What are the three primary colors of light?
+
+    Red, Yellow, Blue
+
+    Red, Green, Blue
+    Correct!
+
+    Red, Green, Brown
+
+    Red, Green, Purple
+
+
+8.What does the alpha value control in rgba?
+
+    Transparency
+    Correct!
+
+    Intensity
+
+    Hue
+
+    Saturation
+
+
+9.Which of these functions is a valid hsl function?
+
+    hsl(0, 100%, 50)
+
+    hsl(0, 100%, 150%)
+
+    hsl(0, 100%, 50%)
+    Correct!
+
+    hsl(0%, 100%, 50%)
+
+
+10.Which of these hsl functions represents the color black?
+
+    hsl(0,0%,100%)
+
+    hsl(255,100%,0%)
+    Correct!
+
+    hsl(283,0%,75%)
+
+    hsl(255,100%,100%)
+
+
+11.What is "hex code" short for?
+
+    Hexadecimal code
+    Correct!
+
+    Hexagonal code
+
+    Hexabinary code
+
+    Hexaglyphic code
+
+
+12.Which letters can be used in a hex code?
+
+    A-E
+
+    A-G
+
+    A-H
+
+    A-F
+    Correct!
+
+
+13.Which digits can be used in a hex code?
+
+    1-9
+
+    0-9
+    Correct!
+
+    0-10
+
+    10-19
+
+
+14.What’s the maximum hue value in an hsl color?
+
+    360
+    Correct!
+
+    60
+
+    255
+
+    100
+
+
+15.What’s the fourth value in the hsla() function?
+
+    Absorption
+
+    Alpha
+    Correct!
+
+    Aperture
+
+    Aura
+
+
+16.Linear gradients create a gradual blend across what type of line?
+
+    Straight
+    Correct!
+
+    Perpendicular
+
+    Curved
+
+    Circular
+
+
+17.What types of color codes can be used in a gradient?
+
+    Any CSS color
+    Correct!
+
+    RGB and Hex code
+
+    HSL and RGB
+
+    Hex code and HSL
+
+
+18.How many color stops can you have in one gradient?
+
+    Up to 3
+
+    Unlimited
+    Correct!
+
+    Up to 2
+
+    Up to 5
+
+
+19.Which of these is NOT a valid radial gradient?
+
+    radial-gradient(45deg, red, blue)
+    Correct!
+
+    radial-gradient(circle, #bbb123, blue, rgb(255,0,255))
+
+    radial-gradient(circle, #33ff11, rgb(255,0,255))
+
+    radial-gradient(circle, red, blue)
+
+
+20.Which of these is NOT a valid gradient?
+
+    linear-gradient(30deg, blue, hsl(120%,100%,50%))
+    Correct!
+
+    radial-gradient(circle, red, #1168ff, rgba(200,255,0,0.5), hsl(120,100%,50%))
+
+    radial-gradient(circle, red, blue, green)
+
+    linear-gradient(80deg, red, #44bb23, rgba(200,255,0,0.5))
+

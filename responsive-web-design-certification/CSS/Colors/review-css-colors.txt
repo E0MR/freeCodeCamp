@@ -1,0 +1,7 @@
+Outline
+    Color Theory
+    Different Ways to Work with Colors in CSS
+    The box-shadow Property
+    Syntax
+    Linear and Radial Gradients
+    Assignment
