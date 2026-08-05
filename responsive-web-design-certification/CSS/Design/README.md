@@ -8,4 +8,4 @@
 
 - [Design Fundamentals Review](./review-design-fundamentals.txt) `Review`
 
-- [Design Fundamentals Quiz](./quiz-design-fundamentals.txx) `Quiz`
+- [Design Fundamentals Quiz](./quiz-design-fundamentals.txt) `Quiz`
