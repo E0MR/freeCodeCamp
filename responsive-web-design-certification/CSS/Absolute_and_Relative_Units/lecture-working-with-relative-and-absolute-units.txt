@@ -1,0 +1,207 @@
+1] What Are Absolute Units in CSS, and When Should You Use Them?
+
+    # Questions
+
+        1) What is a pixel?
+
+            An absolute fixed-size unit of measurement in CSS, providing precise control over dimensions.
+            Correct!
+
+            A relative unit of measurement in CSS.
+
+            A unit of measurement that is relative to the size of the screen.
+
+            A unit of measurement that is relative to the size of the parent element.
+
+
+        2) What are the two types of units you can use to define properties in CSS?
+
+            margins and padding.
+
+            cm and mm.
+
+            absolute and relative units.
+            Correct!
+
+            picas and points.
+
+
+        3) Which of the following is NOT an absolute unit of measurement in CSS?
+
+            pt
+
+            rem
+            Correct!
+
+            in
+
+            px
+
+
+
+2] What Are Percentages in CSS, and When Should You Use Them?
+
+    # Questions
+
+        1) What happens if you set width: 50% on an element whose parent has a width of 300px?
+
+            The element will be 150px wide.
+            Correct!
+
+            The element will be 50px wide.
+
+            The element will be 600px wide.
+
+            The element will have no width.
+
+
+        2) In the following CSS rule, what does the percentage value affect?
+            .box {
+                margin-top: 10%;
+            }
+
+            The width of the element.
+
+            The height of the element.
+
+            The top margin of the element.
+            Correct!
+
+            The font size of the element.
+
+
+        3) Which of the following is NOT a good use case for percentage values in CSS?
+
+            Setting the width of a responsive container.
+
+            Defining the border-radius of a circular element.
+
+            Scaling an image within its container.
+
+            Specifying the line-height of text.
+            Correct!
+
+
+
+3] What Are ems and rems in CSS, and When Should You Use Them?
+
+    # Questions
+
+        1) What is an em unit relative to?
+
+            The font size of the figure element.
+
+            The font-size of the element or the parent element.
+            Correct!
+
+            The font-size of the root element.
+
+            The font-size of the img element.
+
+
+        2) Why are rem units preferred over pixels for typography?
+
+            Pixels should always be used for typography.
+
+            They make your designs more colorful.
+
+            They scale proportionally with the user's browser settings.
+            Correct!
+
+            They increase website performance.
+
+
+        3) What are rem units relative to?
+
+            The fontsize of the figure element.
+
+            The font-size of the element or the parent element.
+
+            The fontsize of the img element.
+
+            The font-size of the root element
+            Correct!
+
+
+
+4] What Are vh and vw Units, and When Should You Use Them?
+
+    # Questions
+
+        1) What does 50vh represent in CSS?
+
+            50 pixels.
+
+            Half the height of the viewport.
+            Correct!
+
+            50% of the element's parent height.
+
+            Half the width of the viewport.
+
+
+        2) Which of the following is a valid use case for vw units?
+
+            Setting a fixed width for a sidebar.
+
+            Defining the maximum width of an image.
+
+            Creating a square element that's always 20% of the viewport width.
+            Correct!
+
+            Setting the line-height of paragraph text.
+
+
+        3) What potential issue might arise from using vh units for critical layout elements on mobile devices?
+
+            They're not supported on older mobile browsers.
+
+            They can cause layout shifts when the mobile browser's address bar appears or disappears.
+            Correct!
+
+            They make the website load slower on mobile devices.
+
+            They don't work with touch screens.
+
+
+
+5] What Is the calc() Function, and How Does It Work?
+
+    # Questions
+
+        1) Which of the following operations can be performed using the calc() function in CSS?
+
+            Addition and subtraction only.
+
+            Multiplication and division only.
+
+            Addition, subtraction, multiplication, and division.
+            Correct!
+
+            Addition only.
+
+
+        2) What types of values can be used as operands within the expression passed to the calc() function?
+
+            Only pixels.
+
+            Only percentages.
+
+            Pixels, percentages, em's, and other supported units.
+            Correct!
+
+            Only integers.
+
+
+        3) How can you use the calc() function to create a responsive design?
+
+            By setting fixed widths for the elements.
+
+            By using media queries exclusively.
+
+            By calculating element dimensions based on the viewport size or other elements.
+            Correct!
+
+            By using HTML to dynamically adjust element sizes.
+
+

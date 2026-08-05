@@ -1,0 +1,239 @@
+1.What is an absolute unit?
+
+    Fixed length units that are not relative to anything else.
+    Correct!
+
+    Units measured in percentages of the viewport.
+
+    Units that depend on the font size of the parent element.
+
+    Units that adjust dynamically based on screen size.
+
+
+2.What does 100vw cover in terms of screen width?
+
+    100% of the screen width.
+
+    100% of the viewport height.
+
+    100% of the parent's width.
+
+    100% of the viewport width.
+    Correct!
+
+
+3.Which of the following is a relative unit?
+
+    cm
+
+    pt
+
+    mm
+
+    em
+    Correct!
+
+
+4.If the root font size is 20px, what is 1rem equal to?
+
+    20px
+    Correct!
+
+    10px
+
+    16px
+
+    18px
+
+
+5.What can the calc() function do in CSS?
+
+    Only work with percentages.
+
+    Set a fixed width.
+
+    Modify colors dynamically.
+
+    Add, subtract, multiply, or divide different units.
+    Correct!
+
+
+6.Which unit is the most commonly used absolute unit in CSS?
+
+    inch
+
+    px
+    Correct!
+
+    %
+
+    rem
+
+
+7.If the viewport height is 800px, what would 50vh be?
+
+    400px
+    Correct!
+
+    50px
+
+    200px
+
+    100px
+
+
+8.What does setting an element's width to 100% mean?
+
+    It takes up the full width of its parent.
+    Correct!
+
+    It takes up the full width of the document.
+
+    It takes up 100px.
+
+    It takes up the full width of the screen.
+
+
+9.What happens with calc(10px + 20%) in CSS?
+
+    It adds 10px to 20% of the screen width.
+
+    It adds 10px to 20% of the parent's width.
+    Correct!
+
+    It adds 10px to 10% of the document width.
+
+    It always equals 30px.
+
+
+10.Which unit is relative to the font size of the root element?
+
+    rem
+    Correct!
+
+    %
+
+    pt
+
+    px
+
+
+11.With a root font size of 16px, how big is 10rem?
+
+    160px
+    Correct!
+
+    140px
+
+    100px
+
+    10px
+
+
+12.Why might you use point instead of pixels in design?
+
+    Points are scalable.
+
+    Points are better for responsive layouts.
+
+    Points are easier to manage on screens.
+
+    Points are for print design.
+    Correct!
+
+
+13.Why are rem units preferred over pixels in typography?
+
+    Because they scale proportionally with the user’s browser settings.
+    Correct!
+
+    Because they are easier to implement in responsive designs.
+
+    Because they provide fixed sizing regardless of screen resolution.
+
+    Because they ensure compatibility with older browsers.
+
+
+14.How much screen space does 80vw take?
+
+    80% of the parent's width.
+
+    80% of the viewport width.
+    Correct!
+
+    100% of the viewport height.
+
+    80px
+
+
+15.Which units should you use if you want to make an element occupy a certain width or height by the percentage of the screen?
+
+    pt and px
+
+    rem and em
+
+    vw and vh
+    Correct!
+
+    pt and pc
+
+
+16.What does vw stand for?
+
+    Viewport Width.
+    Correct!
+
+    Vertical Width.
+
+    Variable Width.
+
+    Virtual Width.
+
+
+17.What's the key difference between rem and em in CSS?
+
+    em is relative to the root element, while rem is relative to the parent element.
+
+    em is relative to the font size of the parent element, while rem is relative to the root element.
+    Correct!
+
+    rem is relative to the user-defined width, while em is relative to the browser width.
+
+    rem is relative to desktop width, while em is relative to mobile width.
+
+
+18.What is a vh unit?
+
+    A unit based on the width of the viewport.
+
+    A unit equal to 1% of the viewport height.
+    Correct!
+
+    A unit that adjusts based on font size.
+
+    A unit based on the height of the element.
+
+
+19.What does setting an element's width to auto do in CSS?
+
+    It sets the width to 0px if no content or padding is present.
+
+    It sets the width to 50% of the viewport unless other styles override it.
+
+    It allows the browser to determine the width based on the content and container.
+    Correct!
+
+    It sets the width to 100% of the parent element by default.
+
+
+20.What’s a key advantage of the calc() function?
+
+    It allows embedding JavaScript expressions directly within CSS rules.
+
+    It enables the use of variables within CSS without any preprocessors.
+
+    It automatically minifies your CSS files for better performance.
+
+    It lets you determine the value of a CSS property dynamically based on different aspects of the application or viewport.
+    Correct!
+
