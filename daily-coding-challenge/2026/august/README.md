@@ -33,3 +33,11 @@
 - [calculate_handicap.py](./py/calculate_handicap.py)
 
 ---
+
+### `#005` &#8195; Spoken Duration
+
+- [getSpokenDuration.js](./js/getSpokenDuration.js)
+
+- [get_spoken_duration.py](./py/get_spoken_duration.py)
+
+---
