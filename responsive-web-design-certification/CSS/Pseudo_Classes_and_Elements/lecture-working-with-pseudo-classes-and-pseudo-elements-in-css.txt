@@ -1,0 +1,286 @@
+1] What Are Pseudo-classes, and How Do They Work?
+
+    # Questions
+
+        1) What does the :hover pseudo-class do in CSS?
+
+            It selects an element when it's clicked.
+
+            It selects an element when it's being hovered over by a mouse.
+            Correct!
+
+            It selects the first child element of a parent.
+
+            It selects a link after it's been visited.
+
+
+        2) What are pseudo-classes?
+
+            They are special CSS keywords that let you select an element based on its state or position.
+            Correct!
+
+            They are used to create new HTML elements.
+
+            They change the content of an element.
+
+            They are replacements for classes in HTML.
+
+
+        3) What does the :disabled pseudo-class do in CSS?
+
+            It styles an element when it's disabled.
+            Correct!
+
+            It styles an element when it's being hovered over.
+
+            It styles the first child of a parent element.
+
+            It styles a link after it's been visited.
+
+
+
+2] What Are Examples of Element User Action Pseudo-classes?
+
+    # Questions
+
+        1) What do user action pseudo-classes allow you to do?
+
+            They enable animations and transitions.
+
+            They allow you to modify the DOM structure dynamically.
+
+            They let you provide feedback to the user without relying on JavaScript.
+            Correct!
+
+            They let you style the last element in a list.
+
+
+        2) What does the :checked pseudo-class do in CSS?
+
+            It selects an element when it is disabled.
+
+            It selects an element when it is being hovered over.
+
+            It styles elements like checkboxes or radio buttons that are checked.
+            Correct!
+
+            It styles an element when it gains focus.
+
+
+        3) What does the :focus pseudo-class do?
+
+            It selects an element when it is hovered over by a mouse.
+
+            It applies styles when an element gains focus, usually through keyboard navigation or a click.
+            Correct!
+
+            It selects an element after a form is submitted.
+
+            It applies styles to an element when it is disabled.
+
+
+
+3] What Are Examples of Input Pseudo-classes?
+
+    # Questions
+
+        1) What does the :focus pseudo-class let you do?
+
+            It enables you to highlight multiple elements simultaneously.
+
+            It allows you to style an input element when it is selected or clicked.
+            Correct!
+
+            It lets you automatically submit a form when an input is clicked.
+
+            It allows you to reorder elements in a form dynamically.
+
+
+        2) What can the :valid and :invalid pseudo-classes be used for in form validation?
+
+            They allow you to reset all input fields automatically.
+
+            They let you provide different styles for inputs based on whether they meet validation criteria.
+            Correct!
+
+            They let you disable form submission if any field is left empty.
+
+            They allow you to change the placeholder text dynamically.
+
+
+        3) Which pseudo-class allows you to style input fields that must be filled out before form submission?
+
+            :optional
+
+            :disabled
+
+            :required
+            Correct!
+
+            :checked
+
+
+
+4] What Are Examples of Location Pseudo-classes?
+
+    # Questions
+
+        1) Which pseudo-class allows you to style an element that matches the current URL fragment identifier, such as #section1?
+
+            :hover
+
+            :focus
+
+            :target
+            Correct!
+
+            :checked
+
+
+        2) When are location pseudo-classes particularly useful?
+
+            When styling elements based on their sibling relationships.
+
+            When applying styles based on whether a link is visited or an element is currently in focus.
+            Correct!
+
+            When styling elements based on their parent element's attributes.
+
+            When adjusting the layout of a webpage dynamically.
+
+
+        3) Which pseudo-class is designed to target links that point to the same document but is not currently supported by any browser?
+
+            :any-link
+
+            :local-link
+            Correct!
+
+            :visited
+
+            :target
+
+
+
+5] What Are Examples of Tree-structural Pseudo-classes?
+
+    # Questions
+
+        1) What is the difference between the :first-of-type and :last-of-type pseudo-classes?
+
+            :first-of-type targets the first element of a specific type within its parent, while :last-of-type targets the last element of a different type.
+
+            :first-of-type and :last-of-type both target the first occurrence of an element but in different sections of the document.
+
+            :first-of-type selects the first occurrence of a specific element type within its parent, while :last-of-type selects the last occurrence of that same element type within its parent.
+            Correct!
+
+            :last-of-type applies styles to the first and last elements within the document, while :last-of-type applies styles to all elements of a specific type.
+
+
+        2) What is the difference between the :first-child and :last-child pseudo-classes?
+
+            :first-child targets the first element within its parent, while :last-child targets the last element within a different parent.
+
+            :first-child targets the first element within its parent, while :last-child targets the last element within the same parent.
+            Correct!
+
+            :first-child targets the first element of a specific type within its parent, while :last-child targets the last element of a different type within its parent.
+
+            :first-child targets the first and last elements within a parent, while :last-child targets all other elements.
+
+
+        3) Which pseudo-class allows you to target elements that have no children, including those that contain only whitespace?
+
+            :empty
+            Correct!
+
+            :first-child
+
+            :last-child
+
+            :only-of-type
+
+
+
+6] What Are Examples of Functional Pseudo-classes?
+
+    # Questions
+
+        1) Which pseudo-class works like :is(), but doesn't add any specificity to your selectors?
+
+            :not()
+
+            :has()
+
+            :where()
+            Correct!
+
+            :empty
+
+
+        2) Which of these is not a functional pseudo-class?
+
+            :is()
+
+            :first-child
+            Correct!
+
+            :has()
+
+            :where()
+
+
+        3) Which pseudo-class is perfect for a situation in which you want to apply styles to a group of elements without one or two exceptions?
+
+            :has()
+
+            :is()
+
+            :not()
+            Correct!
+
+            :where()
+
+
+
+7] What Are Pseudo-elements, and How Do They Work?
+
+    # Questions
+
+        1) Which of these best describes the relationship between pseudo-elements and their originator element?
+
+            Pseudo-elements can exist independently of the originator element.
+
+            Pseudo-elements must always be declared before the originator element.
+
+            Pseudo-elements depend on the originator element and cannot exist independently.
+            Correct!
+
+            Pseudo-elements are used to create new HTML elements.
+
+
+        2) Which of these correctly distinguishes pseudo-elements from pseudo-classes?
+
+            Pseudo-elements use a single colon, while pseudo-classes use a double colon.
+
+            Pseudo-elements use a double colon, while pseudo-classes use a single colon.
+            Correct!
+
+            Both pseudo-elements and pseudo-classes use the same colon notation.
+
+            Pseudo-classes require a double colon, while pseudo-elements do not.
+
+
+        3) Which of these best describes the function of pseudo-elements in CSS?
+
+            They add new HTML elements to the document.
+
+            They style specific parts of an element's content without adding extra HTML tags.
+            Correct!
+
+            They replace the entire content of an element with new content.
+
+            They modify the structure of the HTML document.
+
+
