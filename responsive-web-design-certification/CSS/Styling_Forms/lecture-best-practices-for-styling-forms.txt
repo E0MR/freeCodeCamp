@@ -1,0 +1,122 @@
+1] What Are Some Best Practices for Styling Text Inputs?
+
+    # Questions
+
+        1) When styling text inputs, which of the following is NOT mentioned as a key consideration for accessibility?
+
+            Font size.
+
+            Color contrast with the background.
+
+            Placeholder text readability.
+
+            Animation speed of focus transitions.
+            Correct!
+
+
+        2) What is recommended regarding the resizing ability of a textarea input?
+
+            Remove the ability to resize for a consistent look.
+
+            Allow the user to resize it.
+            Correct!
+
+            Automatically resize based on content length.
+
+            Lock the size after initial page load.
+
+
+        3) How should the error state of an input be styled?
+
+            It should be identical to the focus state.
+
+            It should be subtle to not distract the user.
+
+            It should be noticeable and distinct from the focus indicator.
+            Correct!
+
+            It should only be indicated through text, not visual styling.
+
+
+
+2] When Should You Use appearance: none to Deal with Issues Styling Search Inputs and Checkboxes?
+
+    # Questions
+
+        1) What is the primary purpose of using appearance: none on input elements?
+
+            To improve page load times.
+
+            To hide the input element completely.
+
+            To remove default browser styling and allow custom styling.
+            Correct!
+
+            To make the input element non-interactive.
+
+
+        2) Which of the following is NOT mentioned as a benefit of using appearance: none on input elements?
+
+            Creating consistent cross-platform styling.
+
+            Allowing custom indicators for checkboxes.
+
+            Improving the security of form submissions.
+            Correct!
+
+            Enabling larger tap targets on mobile devices.
+
+
+        3) What potential drawback of using appearance: none is mentioned in the lesson?
+
+            It may cause the input to stop functioning.
+
+            It can significantly slow down the page.
+
+            It might remove important default features like focus indicators.
+            Correct!
+
+            It's not supported in all modern browsers.
+
+
+
+3] What Are Common Issues When Styling Special Input Elements?
+
+    # Questions
+
+        1) What is one of the main challenges in styling special input elements like datetime-local and color?
+
+            These elements are not supported in all browsers.
+
+            They rely on complex pseudo-elements for their functionality.
+            Correct!
+
+            They require additional JavaScript to function properly.
+
+            They cannot be styled using CSS at all.
+
+
+        2) Why might CSS written to style a special input element work differently across browsers?
+
+            Different browsers use different JavaScript engines.
+
+            The default styling is browser-dependent.
+            Correct!
+
+            Some browsers don't support these input types.
+
+            CSS properties work differently in each browser.
+
+
+        3) What approach do many developers take to address the challenges of styling complex input elements?
+
+            They avoid using these input types altogether.
+
+            They use browser-specific CSS prefixes.
+
+            They rely on JavaScript libraries or custom components.
+            Correct!
+
+            They use only inline styles for these elements.
+
+

@@ -1,0 +1,5 @@
+Outline
+    Best Practices for Styling Inputs
+    Using appearance: none for Inputs
+    Commons Issues Styling datetime-local and color Properties
+    Assignment

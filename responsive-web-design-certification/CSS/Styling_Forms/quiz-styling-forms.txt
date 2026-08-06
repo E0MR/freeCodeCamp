@@ -1,0 +1,119 @@
+1.What is a common issue for styling the datetime-local input type?
+
+    The input format is different across browsers.
+    Correct!
+
+    It does not work with rem units.
+
+    It does not work with the float property.
+
+    It is impossible to make it responsive.
+
+
+2.Which of the following is considered best practice for styling text inputs?
+
+    Text input fonts need to be adequately sized, and the color needs to have sufficient contrast with the background.
+    Correct!
+
+    Text input font colors need to be light colors and the size should only be set using the px unit.
+
+    Text input font sizes need to be set with em units and colors should be a light gray.
+
+    Text input sizes should only use dark green borders on focus and the text color should be dark gray.
+
+
+3.How should the error state styling relate to the focus state styling?
+
+    The error state should be animated while the focus state should be static.
+
+    The error state should be less visible to avoid alarming users.
+
+    The error state should be distinct from the focus state.
+    Correct!
+
+    They should be identical for consistency.
+
+
+4.What is a best practice for styling inputs in a focused state?
+
+    It is important to preserve a noticeable indicator.
+    Correct!
+
+    It is important to remove any noticeable indicator.
+
+    It is important to only use dark red borders for focused inputs.
+
+    It is important to use only light gray borders for focused inputs.
+
+
+5.What is a best practice for styling inputs in an error state?
+
+    Increase the font size for the input text to 3rem.
+
+    Set the input to display: none; so it is removed from the page.
+
+    Provide a visual indicator with a message so users know that something is incorrect and needs to be fixed.
+    Correct!
+
+    Set the input to be disabled so users can no longer interact with it.
+
+
+6.Why is it important to use descriptive placeholder text in form inputs?
+
+    It automatically validates the input as the user types.
+
+    It helps to pre-fill the form for the user.
+
+    It hides the input label, reducing visual clutter.
+
+    It provides users with guidance on the expected input format.
+    Correct!
+
+
+7.What is WebKit?
+
+    It is a browser engine that displays webpages.
+    Correct!
+
+    It is a browser engine that ensures that there are no validation errors in your CSS.
+
+    It is a special CSS property used in CSS flexbox.
+
+    It is a special CSS property used in CSS Grid.
+
+
+8.When is it appropriate to use appearance: none; for form elements?
+
+    To remove form elements completely from the DOM and page.
+
+    To remove some of the default styles that are applied to the form elements.
+    Correct!
+
+    To hide form elements from those who use assistive technologies like screen readers.
+
+    To remove only default colors that are applied to the form elements and use your own.
+
+
+9.What are some considerations when working with appearance: none; on form elements?
+
+    It is important to use appearance: none; when you need to completely remove a form element from the page.
+
+    It is important to only use appearance: none; when you want to apply different styles for the Safari browser.
+
+    It is important to preserve hovered and submit indicators on interactive elements.
+
+    It is important to preserve focus and error indicators on interactive elements.
+    Correct!
+
+
+10.Which type of form elements are commonly styled using appearance: none; to remove their default look?
+
+    span elements.
+
+    input elements.
+    Correct!
+
+    label elements.
+
+    div elements.
+
