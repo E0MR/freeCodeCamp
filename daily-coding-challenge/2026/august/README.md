@@ -41,3 +41,11 @@
 - [get_spoken_duration.py](./py/get_spoken_duration.py)
 
 ---
+
+### `#006` &#8195; Spoken Time
+
+- [getSpokenTime.js](./js/getSpokenTime.js)
+
+- [get_spoken_time.py](./py/get_spoken_time.py)
+
+---
