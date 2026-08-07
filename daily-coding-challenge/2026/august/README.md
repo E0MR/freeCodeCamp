@@ -49,3 +49,11 @@
 - [get_spoken_time.py](./py/get_spoken_time.py)
 
 ---
+
+### `#007` &#8195; Nonogram Validator
+
+- [isValidNonogram.js](./js/isValidNonogram.js)
+
+- [is_valid_nonogram.py](./py/is_valid_nonogram.py)
+
+---
