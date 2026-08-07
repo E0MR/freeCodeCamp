@@ -1,0 +1,239 @@
+1.Which of the following is TRUE about the translate() function?
+
+    It is used to move an element from its current position.
+    Correct!
+
+    It is used to change the shape or size of an element.
+
+    It is used to translate the text of an element.
+
+    It is used to scale the size of an element.
+
+
+2.Which of the following is a component of the CSS box model?
+
+    Padding
+    Correct!
+
+    Size
+
+    Width
+
+    Height
+
+
+3.When an element's box-sizing is set to content-box, which part of the box model does the width and height apply to?
+
+    Content, padding, and border
+
+    Content
+    Correct!
+
+    Content and padding
+
+    Content, padding, border, and margin
+
+
+4.When an element's box-sizing is set to border-box, which parts of the CSS box model does the width and height NOT apply to?
+
+    Border
+
+    Margin
+    Correct!
+
+    The content area.
+
+    Padding
+
+
+5.Which value for the brightness() function makes an element completely black?
+
+    0%
+    Correct!
+
+    0px
+
+    100px
+
+    100%
+
+
+6.What kind of values does the hue-rotate() function use?
+
+    Pixels
+
+    Degrees
+    Correct!
+
+    Radians
+
+    Percentages
+
+
+7.What does the CSS property filter: contrast(0%); do to an element?
+
+    It will have no effect on the element.
+
+    It will make the element appear completely black.
+
+    It will make the element appear completely white.
+
+    It will make the element appear completely grey.
+    Correct!
+
+
+8.What is the baseline value of the brightness() CSS function from which increasing brightness starts?
+
+    50%
+
+    100%
+    Correct!
+
+    100px
+
+    50px
+
+
+9.What kind of values does the grayscale() function use?
+
+    Degrees
+
+    Pixels
+
+    Percentages
+    Correct!
+
+    Radians
+
+
+10.What kind of values does the contrast() function use?
+
+    Percentages
+    Correct!
+
+    Pixels
+
+    Degrees
+
+    Radians
+
+
+11.What does the overflow-x property in CSS control?
+
+    It determines the horizontal overflow on the y-axis.
+
+    It determines the vertical overflow on the y-axis.
+
+    It determines the vertical overflow on the x-axis.
+
+    It determines the horizontal overflow on the x-axis.
+    Correct!
+
+
+12.What does the overflow-y property in CSS control?
+
+    It determines the vertical overflow on the x-axis.
+
+    It determines the vertical overflow on the y-axis.
+    Correct!
+
+    It determines the horizontal overflow on the y-axis.
+
+    It determines the horizontal overflow on the x-axis.
+
+
+13.What is an example of a third party option for a CSS reset?
+
+    clean.css
+
+    reset.css
+
+    sanitize.css
+    Correct!
+
+    restore.css
+
+
+14.How many dimensions are there to the overflow property in CSS?
+
+    One
+
+    Two
+    Correct!
+
+    Four
+
+    Three
+
+
+15.If the shorthand property overflow is given two values, which property will use the first value?
+
+    overflow-y
+
+    overflow-z
+
+    overflow-w
+
+    overflow-x
+    Correct!
+
+
+16.What kind of blur effect does the blur() function apply to an element in CSS?
+
+    Gaussian
+    Correct!
+
+    Galileo
+
+    Galilei
+
+    Giliani
+
+
+17.What kind of values does the sepia() function use?
+
+    Pixels
+
+    Degrees
+
+    Radians
+
+    Percentages
+    Correct!
+
+
+18.If the shorthand property overflow is given two values, which property will use the second value?
+
+    overflow-y
+    Correct!
+
+    overflow-w
+
+    overflow-x
+
+    overflow-z
+
+
+19.What does a CSS reset do?
+
+    It forces browsers to use dark mode by default.
+
+    It disables browser extensions that include CSS.
+
+    It removes default browser styling.
+    Correct!
+
+    It removes inline styles from HTML elements.
+
+
+20.What does the CSS property filter: grayscale(100%); do to an element?
+
+    It will make the element appear completely white.
+
+    It removes color saturation while maintaining the element's tonal structure.
+    Correct!
+
+    It will have no effect on the element.
+
+    It will make the element appear completely black.
+

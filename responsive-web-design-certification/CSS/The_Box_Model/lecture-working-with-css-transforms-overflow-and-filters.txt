@@ -1,0 +1,286 @@
+1] What Is Overflow in CSS, and How Does It Work?
+
+    # Questions
+
+        1) What does overflow refer to in CSS?
+
+            When an element is positioned outside its parent container.
+
+            When content exceeds the size of its containing element.
+            Correct!
+
+            When there are too many elements on a page.
+
+            When CSS styles conflict with each other.
+
+
+        2) Which CSS property is used to control vertical overflow specifically?
+
+            overflow
+
+            overflow-x
+
+            overflow-y
+            Correct!
+
+            vertical-overflow
+
+
+        3) According to the lesson, which type of overflow is generally considered more acceptable in web design?
+
+            Horizontal overflow.
+
+            Vertical overflow.
+            Correct!
+
+            Both are equally acceptable.
+
+            Neither is acceptable.
+
+
+
+2] What Is the CSS Transform Property, and How Does It Work?
+
+    # Questions
+
+        1) Which of the following is NOT a concern when using CSS transforms in terms of accessibility?
+
+            Screen readers may not accurately convey the visual order of transformed elements.
+
+            Transformed text might become too small or too large to read comfortably.
+
+            Transforms always improve the accessibility of a website.
+            Correct!
+
+            Excessive use of transform for animations can cause discomfort for some users.
+
+
+        2) What potential issue should you be aware of when using 3D transforms?
+
+            3D transforms always cause websites to load slower.
+
+            Not all users perceive depth in the same way, which may affect comprehension.
+            Correct!
+
+            3D transforms are not supported by most modern browsers.
+
+            3D transforms automatically make text unreadable.
+
+
+        3) When using transform to hide content, what should you ensure for accessibility?
+
+            Always use bright colors to make the transformed content stand out.
+
+            Use only 2D transforms for hiding content.
+
+            Make sure the content is still accessible to screen readers and keyboard navigation.
+            Correct!
+
+            Never hide content using transforms.
+
+
+
+3] What Is the CSS Box Model, and How Does It Work?
+
+    # Questions
+
+        1) Which component of the CSS box model defines the space between the content area and the border?
+
+            margin
+
+            padding
+            Correct!
+
+            content
+
+            border
+
+
+        2) Which component of the CSS box model specifies the space outside the border of an element?
+
+            margin
+            Correct!
+
+            padding
+
+            content
+
+            border
+
+
+        3) Which component of the CSS box model creates a visible outline around an element?
+
+            margin
+
+            padding
+
+            content
+
+            border
+            Correct!
+
+
+
+4] What Is Margin Collapsing, and How Does It Work?
+
+    # Questions
+
+        1) In which direction does margin collapsing occur?
+
+            Horizontal margins only.
+
+            Vertical margins only.
+            Correct!
+
+            Both horizontal and vertical margins.
+
+            Diagonal margins.
+
+
+        2) What happens when two adjacent elements have different margin values?
+
+            The margins add up.
+
+            The smaller margin is used.
+
+            The larger margin is used.
+            Correct!
+
+            The average of the two margins is used.
+
+
+        3) Which of the following will NOT prevent margin collapsing between a parent and its first child?
+
+            Adding a border to the parent.
+
+            Setting padding-top: 1px; on the parent.
+
+            Using display: inline-block; on the child.
+
+            Setting margin-top: 0; on the child.
+            Correct!
+
+
+
+5] What Is the Difference Between content-box and border-box?
+
+    # Questions
+
+        1) Which of the following is the default value for the box-sizing property in most browsers?
+
+            content-box
+            Correct!
+
+            border-box
+
+            padding-box
+
+            margin-box
+
+
+        2) What is the primary advantage of using border-box for creating responsive layouts?
+
+            It makes the calculations more complicated.
+
+            It allows for more precise control over element dimensions.
+
+            It ensures that elements maintain their specified dimensions regardless of changes in padding or border.
+            Correct!
+
+            It improves browser compatibility.
+
+
+        3) In the content-box model, what does the specified width of an element represent?
+
+            The total width of the element, including padding, border, and margin.
+
+            The width of the content area only.
+            Correct!
+
+            The width of the border.
+
+            The width of the padding.
+
+
+
+6] What Is a CSS Reset, and What Are Some Common Examples?
+
+    # Questions
+
+        1) What is the primary purpose of a CSS reset?
+
+            To add default styles to HTML elements.
+
+            To establish a consistent baseline for styling, reducing browser-specific variations.
+            Correct!
+
+            To create responsive designs.
+
+            To enhance website performance.
+
+
+        2) Which of the following is a popular third-party browser reset?
+
+            Normalize.css
+            Correct!
+
+            Reset.css
+
+            Skeleton
+
+            Foundation
+
+
+        3) What is the main advantage of using a custom CSS reset over a third-party CSS reset?
+
+            More flexibility and control over the styles.
+            Correct!
+
+            Improved browser compatibility.
+
+            Simpler implementation.
+
+            Faster loading times.
+
+
+
+7] What Is the CSS Filter Property, and What Are Common Examples?
+
+    # Questions
+
+        1) Which of the following CSS rules would make an image completely grayscale?
+
+            filter: grayscale(100%);
+            Correct!
+
+            filter: gray(100%);
+
+            filter: gray(100);
+
+            filter: black-and-white(true);
+
+
+        2) What would be the effect of applying filter: brightness(0%); to an element?
+
+            It would make the element completely white.
+
+            It would make the element completely black.
+            Correct!
+
+            It would have no effect on the element.
+
+            It would invert the colors of the element.
+
+
+        3) How would you combine a blur effect of 5 pixels with a sepia effect of 50%?
+
+            filter: blur(5px) + sepia(50%);
+
+            filter: blur(5px), sepia(50%);
+
+            filter: blur(5px) sepia(50%);
+            Correct!
+
+            filter: blur(5px) && sepia(50%);
+
+
