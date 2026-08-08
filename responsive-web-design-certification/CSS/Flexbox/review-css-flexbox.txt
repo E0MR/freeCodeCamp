@@ -1,0 +1,7 @@
+Outline
+    Introduction to CSS Flexbox and Flex Model
+    The flex-direction Property
+    The flex-wrap Property
+    The justify-content Property
+    The align-items Property
+    Assignment

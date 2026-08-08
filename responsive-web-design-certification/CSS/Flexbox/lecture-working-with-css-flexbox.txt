@@ -1,0 +1,81 @@
+1] What Is CSS Flexbox, and When Should You Use It?
+
+    # Questions
+
+        1) What is the primary purpose of CSS flexbox?
+
+            To control the font size of text elements.
+
+            To create responsive and dynamic layouts.
+            Correct!
+
+            To define the color of elements.
+
+            To adjust the spacing between elements.
+
+
+        2) Which of the following CSS properties is used to control the direction in which child elements are arranged within a flex container?
+
+            flex-wrap
+
+            align-items
+
+            justify-content
+
+            flex-direction
+            Correct!
+
+
+        3) In the flex model, what is the relationship between the main axis and the cross axis?
+
+            The main axis is always horizontal, while the cross axis is always vertical.
+
+            The main axis is always vertical, while the cross axis is always horizontal.
+
+            The main axis and cross axis are always perpendicular to each other.
+            Correct!
+
+            The main axis and cross axis are always parallel to each other.
+
+
+
+2] What Are Some Common Flex Properties, and How Do They Work?
+
+    # Questions
+
+        1) Which CSS property is used to align child elements horizontally (by default) within a flex container?
+
+            flex-direction
+
+            justify-content
+            Correct!
+
+            align-items
+
+            flex-wrap
+
+
+        2) Which CSS property is used to align child elements vertically (by default) within a flex container?
+
+            flex-direction
+
+            justify-content
+
+            align-items
+            Correct!
+
+            flex-wrap
+
+
+        3) Which of the following properties can be combined into the flex-flow property?
+
+            flex-direction and justify-content
+
+            flex-direction and align-items
+
+            flex-direction and align-content
+
+            flex-direction and flex-wrap
+            Correct!
+
+
