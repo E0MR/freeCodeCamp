@@ -65,3 +65,12 @@
 - [bucket_fill.py](./py/bucket_fill.py)
 
 ---
+
+### `#009` &#8195; Between Two Buckets
+
+- [mixPaint.js](./js/mixPaint.js)
+
+- [mix_paint.py](./py/mix_paint.py)
+
+---
+
