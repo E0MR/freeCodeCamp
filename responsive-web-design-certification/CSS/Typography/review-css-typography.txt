@@ -1,0 +1,8 @@
+Outline
+    Introduction to Typography
+    CSS font-family Property
+    Web Safe Fonts
+    At-rules and the @font-face At-rule
+    Working With External Fonts
+    text-shadow Property
+    Assignment

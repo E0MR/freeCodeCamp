@@ -1,0 +1,286 @@
+1] What Are the Fundamentals of Typography?
+
+    # Questions
+
+        1) Which of the following refers to how the individual characters are designed and arranged?
+
+            Glyph
+
+            Type
+            Correct!
+
+            Beak
+
+            Shoulder
+
+
+        2) What is the difference between a typeface and a font?
+
+            A typeface is a specific style of a font, while a font is the overall design.
+
+            A font is a specific style of a typeface, while a typeface is the overall design.
+            Correct!
+
+            There is no difference between a typeface and a font.
+
+            A typeface is a collection of fonts, while a font is a single character.
+
+
+        3) What is the main difference between serif and sans-serif fonts?
+
+            Serif fonts are handwritten, while sans-serif fonts are printed.
+
+            Serif fonts have small lines at the end of characters, while sans-serif fonts do not.
+            Correct!
+
+            Serif fonts are used for headlines, while sans-serif fonts are used for body text.
+
+            Serif fonts are older than sans-serif fonts.
+
+
+
+2] What Are Some Best Practices for Working with Typography in Your Designs?
+
+    # Questions
+
+        1) Which of the following is a very important factor for ensuring readability in web typography?
+
+            Using a large variety of fonts.
+
+            Maximizing font size for all text elements.
+
+            Achieving optimal contrast between text and background.
+            Correct!
+
+            Aligning text to the left margin.
+
+
+        2) When choosing fonts for a website, it's generally recommended to:
+
+            Use as many different fonts as possible for visual interest.
+
+            Limit the number of font families to improve consistency.
+            Correct!
+
+            Prioritize decorative fonts over readability.
+
+            Use only serif fonts for body text.
+
+
+        3) Which of the following best describes the concept of visual hierarchy in typography?
+
+            Using only one font style throughout a design.
+
+            Prioritizing the most important information through font size and style.
+            Correct!
+
+            Maintaining consistent spacing between letters.
+
+            Ensuring all text is centered on the page.
+
+
+
+3] What Are Font Families and How Do They Work?
+
+    # Questions
+
+        1) What is the primary purpose of the font-family CSS property?
+
+            To set the color of the text.
+
+            To control the font size of the text.
+
+            To define the typeface used for the text.
+            Correct!
+
+            To adjust the line spacing of the text.
+
+
+        2) Which of the following is a common generic font family?
+
+            Helvetica
+
+            Times New Roman
+
+            Sans-Serif
+            Correct!
+
+            Arial
+
+
+        3) How can you specify multiple font families as a fallback in CSS?
+
+            By separating them with commas.
+            Correct!
+
+            By using nested font-family declarations.
+
+            By using the & character.
+
+            By using the | character.
+
+
+
+4] What Are Web Safe Fonts?
+
+    # Questions
+
+        1) Which of the following is a key characteristic of web-safe fonts?
+
+            They are difficult to read.
+
+            They are designed for specific types of content.
+
+            They are widely supported across different platforms and browsers.
+            Correct!
+
+            They are only available in serif styles.
+
+
+        2) Which of the following is not a web-safe font?
+
+            Arial
+
+            Verdana
+
+            Georgia
+
+            Dancing Script
+            Correct!
+
+
+        3) When are web-safe fonts particularly useful?
+
+            For complex and visually demanding web designs.
+
+            When a specific custom font is essential for branding purposes.
+
+            For basic web design and when consistent rendering is a priority.
+            Correct!
+
+            For creating custom fonts.
+
+
+
+5] What Is the @font-face At-Rule, and How Does It Work?
+
+    # Questions
+
+        1) What is the primary purpose of the @font-face at-rule in CSS?
+
+            To define the color of text.
+
+            To control the font size of text.
+
+            To define custom fonts.
+            Correct!
+
+            To adjust the line spacing of text.
+
+
+        2) Which of the following properties is required within the @font-face rule to specify the font file?
+
+            font-name
+
+            src
+            Correct!
+
+            font-weight
+
+            font-style
+
+
+        3) What is the primary advantage of using custom fonts defined with @font-face compared to relying solely on web-safe fonts?
+
+            Increased browser compatibility.
+
+            Enhanced customization and branding options.
+            Correct!
+
+            Faster page loading times.
+
+            Simplified font management.
+
+
+
+6] How Do You Work with External Fonts Like Font Squirrel and Google Fonts?
+
+    # Questions
+
+        1) What is the primary advantage of using external fonts from services like Font Squirrel or Google Fonts?
+
+            Reduced font file size.
+
+            Increased font rendering speed.
+
+            Expanded font selection and variety.
+            Correct!
+
+            Improved browser compatibility.
+
+
+        2) What is a potential drawback of using multiple external fonts?
+
+            Increased website load time.
+            Correct!
+
+            Increased likelihood of bugs.
+
+            Limited customization options.
+
+            Increased browser compatibility.
+
+
+        3) What is the importance of providing fallback fonts when using external fonts?
+
+            To create a more visually appealing design.
+
+            To improve font rendering performance.
+
+            To display the text correctly, even if the external font is not loaded properly.
+            Correct!
+
+            To reduce file size.
+
+
+
+7] What Is the text-shadow Property, and How Does It Work?
+
+    # Questions
+
+        1) What is the primary purpose of the text-shadow CSS property?
+
+            To adjust the font size of text.
+
+            To change the color of text.
+
+            To create a shadow effect for text.
+            Correct!
+
+            To control the spacing between lines of text.
+
+
+        2) How can you create a black text shadow with a horizontal offset to the right and a blur radius of 5 pixels?
+
+            text-shadow: 5px 0px 0px black;
+
+            text-shadow: 5px 0px 5px black;
+            Correct!
+
+            text-shadow: 5px 5px 0px black;
+
+            text-shadow: 0px 5px 0px black;
+
+
+        3) How can you create a multiple-layered text shadow effect?
+
+            By defining multiple shadows in the text-shadow property.
+            Correct!
+
+            By nesting elements within each other.
+
+            By using the filter property.
+
+            By applying a background image.
+
+
