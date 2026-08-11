@@ -1,0 +1,81 @@
+1] What Are Some Tools to Check for Good Color Contrast on Sites?
+
+    # Questions
+
+        1) What is the primary purpose of using color contrast checking tools like WebAIM's Color Contrast Checker?
+
+            To make websites more colorful.
+
+            To ensure text is readable against its background for accessibility.
+            Correct!
+
+            To reduce the number of colors used in a website.
+
+            To increase website loading speed.
+
+
+        2) Which feature does the TPGi Colour Contrast Analyzer offer that most online contrast checkers don't?
+
+            It can check contrast ratios.
+
+            It provides hexadecimal color codes.
+
+            It can analyze entire web pages and simulate color vision deficiencies.
+            Correct!
+
+            It suggests color combinations.
+
+
+        3) What do the WCAG 2.0 level AA and AAA standards refer to in the context of color contrast tools?
+
+            The brightness levels of colors.
+
+            The file size of images.
+
+            The minimum contrast ratios required for accessibility.
+            Correct!
+
+            The number of colors used in a design.
+
+
+
+2] What Are Best Practices for Hiding Content So It Doesn't Become Inaccessible?
+
+    # Questions
+
+        1) What is the main accessibility issue when using the display: none and visibility: hidden style declarations, or the hidden attribute to hide content?
+
+            These methods make it so that only assistive technologies like screen readers can access the hidden content.
+
+            Content is only hidden until users move their mouse over the content.
+
+            These methods remove the content from the accessibility tree, making it impossible for assistive technologies like screen readers to access the hidden content.
+            Correct!
+
+            These methods do not work with some browsers.
+
+
+        2) What is the primary purpose of the "visually hidden" or "screen reader only" CSS technique?
+
+            To hide content from all users.
+
+            To make content visible only on mobile devices.
+
+            To hide content visually while keeping it accessible to screen readers.
+            Correct!
+
+            To create animated transitions for content.
+
+
+        3) When should you hide content on a web page?
+
+            When the content you're hiding is less important than other content on the page.
+
+            When the content you're hiding is incorrect.
+
+            Only when it genuinely enhances the user experience.
+            Correct!
+
+            Whenever you feel like it.
+
+

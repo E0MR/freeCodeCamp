@@ -1,0 +1,8 @@
+Outline
+    Color Contrast Tools
+    Accessibility Tree
+    max() Function
+    Best Practices with CSS and Accessibility
+    Hiding Content with HTML Attributes
+    Accessibility Issue of the placeholder Attribute
+    Assignment
