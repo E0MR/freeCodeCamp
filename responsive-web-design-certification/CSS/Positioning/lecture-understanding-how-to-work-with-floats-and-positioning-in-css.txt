@@ -1,0 +1,204 @@
+1] What Are Common Use Cases for Using Floats, and How Do They Work?
+
+    # Questions
+
+        1) What is a common use case for using floats in CSS?
+
+            Centering an element vertically.
+
+            Wrapping text around images.
+            Correct!
+
+            Creating a fixed header.
+
+            Applying a background color.
+
+
+        2) Which CSS property is often used to clear floats and maintain the layout flow?
+
+            float
+
+            margin
+
+            clear
+            Correct!
+
+            padding
+
+
+        3) How does applying float: left; to an element affect its position in the layout?
+
+            The element is centered on the page.
+
+            The element is pushed to the right side of its container.
+
+            The element is removed from the normal document flow and moves to the left side of its container.
+            Correct!
+
+            The element stays in the normal document flow and aligns with the top of its container.
+
+
+
+2] What Is Relative Positioning, and How Does This Differ from the Default Static Positioning?
+
+    # Questions
+
+        1) Which of the following is the default positioning for all elements?
+
+            absolute
+
+            relative
+
+            fixed
+
+            static
+            Correct!
+
+
+        2) What does relative positioning do to an element?
+
+            It moves it from the normal document flow.
+
+            It moves it relative to its normal position.
+            Correct!
+
+            Fixes it to the viewport.
+
+            It stacks it above other elements.
+
+
+        3) How does relative positioning differ from static positioning?
+
+            Relative positioning removes the element from the document flow.
+
+            Static positioning allows elements to be shifted from their default position.
+
+            Relative positioning allows you to shift an element without disrupting the document flow.
+            Correct!
+
+            Static positioning fixes the element in place like a background image.
+
+
+
+3] What Is Absolute Positioning, and How Does It Work?
+
+    # Questions
+
+        1) What happens when an element is positioned absolutely in CSS?
+
+            The element is placed in its normal document flow.
+
+            The element overlaps other elements and is placed in its own layer.
+            Correct!
+
+            The element is hidden.
+
+            The element is moved to the top of the page.
+
+
+        2) How do you move an absolutely positioned element 30px away from the top and left edges of its containing block?
+
+            Set top: 30px and left: 30px.
+            Correct!
+
+            Set margin-top: 30px and margin-left: 30px.
+
+            Set position: relative.
+
+            Set padding: 30px.
+
+
+        3) If no positioned ancestor is found, where is an absolutely positioned element placed?
+
+            Relative to the body.
+
+            Relative to the closest fixed element.
+
+            Relative to the initial containing block (usually the browser's viewport).
+            Correct!
+
+            It stays in the same place.
+
+
+
+4] What Is Fixed and Sticky Positioning, and How Does It Differ from Absolute Positioning?
+
+    # Questions
+
+        1) What is the main difference between fixed and sticky positioning?
+
+            fixed stays in place relative to the viewport, sticky moves based on scroll position.
+            Correct!
+
+            sticky stays in place relative to the viewport, fixed moves based on scroll position.
+
+            Both fixed and sticky behave the same way.
+
+            Neither works for headers or navigation bars.
+
+
+        2) What property must be defined for sticky positioning to work?
+
+            position: absolute
+
+            position: fixed
+
+            position: sticky
+            Correct!
+
+            z-index
+
+
+        3) How does fixed positioning differ from absolute positioning?
+
+            fixed is relative to the viewport, while absolute is relative to the nearest positioned ancestor.
+            Correct!
+
+            fixed positioning doesn't allow scrolling.
+
+            absolute positioning keeps the element within the normal document flow.
+
+            fixed positioning hides the element when scrolled.
+
+
+
+5] What Is the Z-Index Property, and How Does It Work to Control the Stacking of Positioned Elements?
+
+    # Questions
+
+        1) What does the z-index property control in CSS?
+
+            The color of an element.
+
+            The vertical stacking order of positioned elements.
+            Correct!
+
+            The size of an element.
+
+            The horizontal alignment of text.
+
+
+        2) In order for the z-index property to work, what must be true about the element?
+
+            It must have a fixed width.
+
+            It must have a position value other than static.
+            Correct!
+
+            It must have a display value of block.
+
+            It must have a background color set.
+
+
+        3) Which z-index value places an element on top of all others?
+
+            z-index: 0;
+
+            z-index: 5;
+            Correct!
+
+            z-index: auto;
+
+            z-index: -1;
+
+

@@ -1,0 +1,6 @@
+Outline
+    Working With Floats
+    Static, Relative and Absolute Positioning
+    Fixed and Sticky Positioning
+    Working With the z-index Property
+    Assignment

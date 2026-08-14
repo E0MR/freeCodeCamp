@@ -1,0 +1,344 @@
+1.Which position value lets you adjust an element's position with top and left while keeping it within the normal document flow?
+
+    position: absolute;
+
+    position: relative;
+    Correct!
+
+    position: fixed;
+
+    position: static;
+
+
+2.How does an element with position: sticky; initially behave?
+
+    It behaves like a relative element until a specified scroll position is met.
+    Correct!
+
+    It behaves like an absolute element within its parent.
+
+    It behaves like a fixed element until a scroll position is reached.
+
+    It is always removed from the normal document flow.
+
+
+3.Which of the following demonstrates a valid and effective use of the z-index property to make .box-two appear on top of .box-one?
+
+    .box-one {
+        position: absolute;
+        stack-order: 1;
+    }
+    .box-two {
+        position: absolute;
+        stack-order: 2;
+    }
+
+    .box-one {
+        float: left;
+        z-index: 1;
+    }
+    .box-two {
+        float: left;
+        z-index: 2;
+    }
+
+    .box-one {
+        position: absolute;
+        z-index: 1;
+    }
+    .box-two {
+        position: absolute;
+        z-index: 2;
+    }
+    Correct!
+
+    .box-one {
+        position: static;
+        z-index: 2;
+    }
+    .box-two {
+        position: static;
+        z-index: 1;
+    }
+
+
+4.What is the z-index property used for in CSS?
+
+    It controls the horizontal alignment of elements within a flex container.
+
+    It defines the spacing between an element's content and its border.
+
+    It sets the zoom level of the page.
+
+    It controls the vertical stacking order of positioned elements that overlap.
+    Correct!
+
+
+5.When you apply top: 10%; to an element with position: fixed;, what is the 10% calculated in relation to?
+
+    The height of the viewport.
+    Correct!
+
+    The width of the viewport.
+
+    The height of the element itself.
+
+    The height of its parent container.
+
+
+6.Which of the code examples is a correct use of the z-index property to place an overlay above other content?
+
+    .overlay {
+        float: left;
+        z-index: 2;
+        background-color: black;
+    }
+
+    .overlay {
+        z-index: 5;
+        background-color: black;
+    }
+
+    .overlay {
+        position: absolute;
+        z-index: 10;
+        background-color: black;
+    }
+    Correct!
+
+    .overlay {
+        display: block;
+        z-layer: 1;
+        background-color: black;
+    }
+
+
+7.Which CSS property is used to control whether an element should be moved below floated elements?
+
+    clear
+    Correct!
+
+    display
+
+    float
+
+    overflow
+
+
+8.How will an element with position: relative; and bottom: 25px; be moved?
+
+    It will move 25px up from its normal position.
+    Correct!
+
+    It will move 25px down from its normal position.
+
+    It will move 25px to the right of its normal position.
+
+    It will be positioned 25px from the bottom of the viewport.
+
+
+9.The z-index property will only affect elements that have what CSS property applied?
+
+    A float value other than none.
+
+    A display value of inline-block.
+
+    A background-color set.
+
+    A position value other than static.
+    Correct!
+
+
+10.What would be the effect of applying float: right; to a logo in a header?
+
+    The logo would be removed from its normal flow and placed on the right side of its container, with other content wrapping around it.
+    Correct!
+
+    The logo would become a block-level element that takes up the full width of the header, pushing other elements below it.
+
+    The logo would be aligned to the right, but would remain in the normal document flow, preventing other content from wrapping.
+
+    The logo would be taken out of the flow and positioned on the right side of the entire browser viewport, not its container.
+
+
+11.Which CSS snippet will keep an element fixed to the top of the viewport once it is scrolled to?
+
+    .header {
+        position: fixed;
+        top: 0;
+    }
+
+    .header {
+        position: absolute;
+        top: 0;
+    }
+
+    .header {
+        position: sticky;
+        top: 0;
+    }
+    Correct!
+
+    .header {
+        position: relative;
+        top: 0;
+    }
+
+
+12.What is the specific purpose of clear: both; in CSS?
+
+    It removes any clear properties that were inherited from a parent element, restoring the default floating behavior.
+
+    It only clears floated elements that are on the right side, allowing left-floated elements to remain as they are.
+
+    It ensures the element is moved below any floated elements that appear before it on both the left and right sides.
+    Correct!
+
+    It cancels out the float property on the element itself, returning it to the normal document flow.
+
+
+13.Given the following code, how will .child be positioned?
+    .parent {
+        /* No position property set */
+    height: 200px;
+    }
+    .child {
+        position: absolute;
+        top: 10px;
+    }
+
+    It will be positioned 10px from the top of the initial containing block, such as the <body>, because its parent is not positioned.
+    Correct!
+
+    It will be positioned 10px from the top of the .parent element, as absolute positioning is always relative to the direct parent.
+
+    It will remain in its default static position because the absolute value is invalid without a z-index property.
+
+    It will be positioned 10px from the top of the browser window, remaining fixed in place even when the user scrolls the page.
+
+
+14.What effect will the following CSS have on the .box element?
+    .box {
+        position: absolute;
+        top: 50px;
+        left: 50px;
+    }
+
+    The element will be taken out of the normal flow and placed 50px from the top and 50px from the left of its nearest positioned ancestor.
+    Correct!
+
+    The element will be positioned relative to its own starting point, moving 50px down and 50px to the right without leaving the document flow.
+
+    The element will be fixed to the viewport and will stay 50px from the top and 50px from the left, even when the page is scrolled.
+
+    The element will remain in its normal flow but will be indented by 50px from the top and left, pushing other elements away.
+
+
+15.Which of the following position values removes an element entirely from the document's normal flow?
+
+    position: relative;
+
+    position: static;
+
+    position: absolute;
+    Correct!
+
+    position: inherit;
+
+
+16.Given a .parent and a .child element, which CSS snippet will correctly position the .child 20px from the top left corner of the .parent element?
+
+    .parent {
+        /* position: static; by default */
+    }
+    .child {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+
+    .parent {
+        position: relative;
+    }
+    .child {
+        position: relative;
+        top: 20px;
+        left: 20px;
+    }
+
+    .parent {
+        position: relative;
+    }
+    .child {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+    Correct!
+
+    .parent {
+        position: relative;
+    }
+    .child {
+        float: left;
+        top: 20px;
+        left: 20px;
+    }
+
+
+17.What is the difference between static and relative positioning?
+
+    Both keep an element in the normal document flow, but relative allows the element to be offset from its original position.
+    Correct!
+
+    static positioning removes an element from the document flow, while relative positioning keeps it in the flow.
+
+    An element with position: static; can be offset with the top and left properties, while position: relative; cannot.
+
+    static positioning is for block-level elements, while relative positioning is only intended for inline elements.
+
+
+18.Which CSS snippet correctly floats an image to the left, allowing other content to wrap around it?
+
+    .image {
+        display: inline-block;
+    }
+
+    .image {
+        float: left;
+    }
+    Correct!
+
+    .image {
+        position: absolute;
+        left: 0;
+    }
+
+    .image {
+        text-align: left;
+    }
+
+
+19.What is the difference between absolute and fixed positioning?
+
+    absolute positioning is relative to the nearest positioned ancestor, while fixed positioning is relative to the browser viewport.
+    Correct!
+
+    absolute positioning is relative to the viewport, while fixed positioning is relative to the nearest positioned ancestor.
+
+    Both are positioned relative to the viewport, but fixed elements will scroll with the page while absolute elements will not.
+
+    absolute positioning keeps the element in the normal document flow, while fixed positioning removes it from the flow.
+
+
+20.Which position value places an element in the normal document flow and prevents offset properties like top and left from having any effect?
+
+    position: fixed;
+
+    position: relative;
+
+    position: static;
+    Correct!
+
+    position: absolute;
+
