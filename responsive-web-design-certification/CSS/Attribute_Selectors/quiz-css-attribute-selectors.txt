@@ -1,0 +1,122 @@
+1.What are CSS attribute selectors used for?
+
+    To apply styles to elements based on their parent element.
+
+    To apply styles to elements based on their class name.
+
+    To apply styles to elements based on their attributes.
+    Correct!
+
+    To apply styles to elements based on their tag name.
+
+
+2.Which of the following will NOT be selected by this CSS selector?
+    [title~="flower"] {
+        border: 5px solid yellow;
+    }
+    
+    <img src="img2.jpg" title="flower" width="150" height="113">
+
+    <img src="img1.jpg" title="clematis flower" width="150" height="113">
+
+    <img src="img2.jpg" title="flowers" width="150" height="113">
+    Correct!
+
+    <img src="img2.jpg" title="FLOWERS of flower" width="150" height="113">
+
+
+3.Which CSS selector matches all p elements with a lang attribute set to "fr"?
+
+    p[lang~="fr"] { color: blue; }
+
+    p[lang-="fr"] { color: blue; }
+
+    p[lang="fr"] { color: blue; }
+    Correct!
+
+    p[lang=="fr"] { color: blue; }
+
+
+4.Which CSS selector matches all a elements with an href attribute?
+
+    a(href) { color: green; }
+
+    a[href] { color: blue; }
+    Correct!
+
+    a { color: green; }
+
+    a[href~=""] { color: green; }
+
+
+5.Which CSS selector matches all ordered lists with uppercase Roman numerals?
+
+    ol[type="i"] { border-color: black; }
+
+    ol[type="a"] { border-color: black; }
+
+    ol[type="A"] { border-color: black; }
+
+    ol[type="I"] { border-color: black; }
+    Correct!
+
+
+6.What is the data-lang attribute commonly used for?
+
+    To define the character encoding of the document.
+
+    To store custom data on an HTML element that CSS or JavaScript can then use.
+    Correct!
+
+    To specify the language of the document.
+
+    To set the language of an element based on its parent element.
+
+
+7.Which CSS selector should you use to style img elements only if their alt attribute is equal to "code"?
+
+    img[alt~="code"] { border: 1px solid red; }
+
+    img[alt*="code"] { border: 1px solid red; }
+
+    img[alt="code"] { border: 1px solid red; }
+    Correct!
+
+    img[alt=="code"] { border: 1px solid red; }
+
+
+8.Which CSS selector matches ordered lists with a numerical numbering type?
+
+    ol[type="I"] { color: purple; }
+
+    ol[type="1"] { color: purple; }
+    Correct!
+
+    ol[type="i"] { color: purple; }
+
+    ol[type="a"] { color: purple; }
+
+
+9.Which of the following CSS selectors would you use to style a elements with both href and title attributes?
+
+    a[href]a[title] { text-decoration: underline dotted; }
+
+    a[href] a[title] { text-decoration: underline dotted; }
+
+    a[href].[title] { text-decoration: underline dotted; }
+
+    a[href][title] { text-decoration: underline dotted; }
+    Correct!
+
+
+10.Which CSS selector would you use if you are developing a website for a restaurant and want to style all elements with the menu-item class that have a data-special attribute?
+
+    menu-item[data-special] { background-color: blue; }
+
+    #menu-item[data-special] { background-color: blue; }
+
+    .menu-item[data-special] { background-color: blue; }
+    Correct!
+
+    [data-special="menu-item"] { background-color: blue; }
+
