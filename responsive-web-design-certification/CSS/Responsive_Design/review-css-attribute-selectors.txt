@@ -1,0 +1,6 @@
+Outline
+    Responsive Web Design
+    Media Queries
+    Common Media Breakpoints
+    Mobile first approach
+    Assignment

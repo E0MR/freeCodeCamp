@@ -1,0 +1,273 @@
+1.What are breakpoints in responsive web design?
+
+    Specific points in a design where the layout and content adjust to accommodate different screen sizes.
+    Correct!
+
+    Specific points used to determine how a tabular layout will behave on the page.
+
+    Specific points in a design where floats overlap with other elements on the page.
+
+    Specific points used to set the columns and rows for a grid or flex layout.
+
+
+2.Which of the following is NOT a breakpoint used for smaller devices?
+
+    480px
+
+    600px
+
+    960px
+    Correct!
+
+    320px
+
+
+3.What is the main purpose of using media queries in responsive web design?
+
+    To create animations for table layouts.
+
+    To change the color scheme of the page for Safari browsers.
+
+    To adjust margins and padding for layouts using CSS flexbox.
+
+    To apply different styles based on the screen size or device type.
+    Correct!
+
+
+4.Which media feature in a media query checks the width of the browser window?
+
+    allow-width
+
+    set-width
+
+    min-width
+    Correct!
+
+    accept-width
+
+
+5.What will the following code do?
+    @media screen and (min-width: 768px) {
+        /* Styles go here */
+    }
+
+    This will apply styles for screens that are 768px and wider.
+    Correct!
+
+    This will apply styles for screens that are smaller than 768px.
+
+    This will apply styles for screens that are only 768px wide.
+
+    This will ignore styles for screens that are 768px wide.
+
+
+6.What does mobile-first design emphasize?
+
+    Designing for smaller Android screens first and ignoring Apple devices.
+
+    Designing for smaller screens first and scaling up for larger devices.
+    Correct!
+
+    Designing for smaller devices only and ignoring the others.
+
+    Designing for mobile devices built by Apple only.
+
+
+7.Which media query will apply styles when the device's width is between 600px and 1200px?
+
+    @media screen and (width: 800px)
+
+    @media screen and (min-width: 600px)
+
+    @media screen and (max-width: 1200px)
+
+    @media screen and (min-width: 600px) and (max-width: 1200px)
+    Correct!
+
+
+8.Which of the following is NOT a valid media type?
+
+    poster
+    Correct!
+
+    screen
+
+    all
+
+    print
+
+
+9.Which of the following media types is intended for paged material and documents viewed on a screen in print preview mode?
+
+    flex
+
+    aspect-ratio
+
+    screen
+
+    print
+    Correct!
+
+
+10.What does the aspect-ratio do in media queries?
+
+    It describes the ratio between the x and y axis for grid containers.
+
+    It describes the ratio between rows and columns for table layouts.
+
+    It describes the ratio between the width and height of the viewport.
+    Correct!
+
+    It describes the ratio between flex properties in a flex layout.
+
+
+11.Which of the following is used to indicate whether the device is in landscape or portrait orientation?
+
+    oriente
+
+    orientation
+    Correct!
+
+    apply-orientation
+
+    set-orientation
+
+
+12.Which of the following is commonly used to target desktop screens and larger?
+
+    @media screen and (min-width: 140px) {
+        /* Styles go here */
+    }
+
+    @media screen and (min-width: 14000px) {
+        /* Styles go here */
+    }
+
+    @media screen and (min-width: 1400px) {
+        /* Styles go here */
+    }
+    Correct!
+
+    @media screen and (min-width: 140000px) {
+        /* Styles go here */
+    }
+
+
+13.Which of the following is used to detect if the user has requested a light or dark color theme?
+
+    prefers-color-scheme
+    Correct!
+
+    apply-color-scheme
+
+    set-colors-scheme
+
+    allow-colors-scheme
+
+
+14.Which of the following is used to test whether the primary input mechanism can hover over elements?
+
+    @media (set: hover) {
+        /* Styles for devices that support hover */
+    }
+
+    @media (hover: apply) {
+        /* Styles for devices that support hover */
+    }
+
+    @media (apply: hover) {
+        /* Styles for devices that support hover */
+    }
+
+    @media (hover: hover) {
+        /* Styles for devices that support hover */
+    }
+    Correct!
+
+15.Which of the following is NOT a type of logical operator you can use with media queries?
+
+    accept
+    Correct!
+
+    not
+
+    and
+
+    only
+
+
+16.Which of the following breakpoints is commonly used for tablets in responsive web design?
+
+    768px
+    Correct!
+
+    1920px
+
+    2560px
+
+    480px
+
+
+17.Which of the following is the correct way to apply the aspect-ratio in a media query?
+
+    @media screen and (aspect-ratio: 16:9) {
+        /* Styles for screens with a 16:9 aspect ratio */
+    }
+
+    @media screen and (aspect-ratio: 16-9) {
+        /* Styles for screens with a 16:9 aspect ratio */
+    }
+
+    @media screen and (aspect-ratio: 16/9) {
+        /* Styles for screens with a 16:9 aspect ratio */
+    }
+    Correct!
+
+    @media screen and (aspect-ratio: 16=9) {
+        /* Styles for screens with a 16:9 aspect ratio */
+    }
+
+
+18.Which CSS property is used to create a layout that adjusts based on screen size without media queries?
+
+    float
+
+    display: block;
+
+    width: 100%;
+
+    flex
+    Correct!
+
+
+19.Which of the following can be used to target landscape screens 768px and larger?
+
+    @media screen and (max-width: 768px) and (orientation: landscape) {
+        /* Styles go here */
+    }
+
+    @media screen and (min-width: 768px) and (landscape: set) {
+        /* Styles go here */
+    }
+
+    @media screen and (min-width: 768px) and (orientation: landscape) {
+        /* Styles go here */
+    }
+    Correct!
+
+    @media screen and (min-width: 768px) and (landscape: orientation) {
+        /* Styles go here */
+    }
+
+
+20.What is the default media type if no media type is specified?
+
+    all
+    Correct!
+
+    mobile
+
+    print
+
+    screen
+
