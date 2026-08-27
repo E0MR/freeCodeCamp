@@ -81,3 +81,35 @@
 - [squares_with_three.py](./py/squares_with_three.py)
 
 ---
+
+### `#011` &#8195; Mile Pace
+
+- [milePace.js](./js/milePace.js)
+
+- [mile_pace.py](./py/mile_pace.py)
+
+---
+
+### `#012` &#8195; Message Decoder
+
+- [decode.js](./js/decode.js)
+
+- [decode.py](./py/decode.py)
+
+---
+
+### `#013` &#8195; Unnatural Prime
+
+- [isUnnaturalPrime.js](./js/isUnnaturalPrime.js)
+
+- [is_unnatural_prime.py](./py/is_unnatural_prime.py)
+
+---
+
+### `#014` &#8195; Character Battle
+
+- [battle.js](./js/battle.js)
+
+- [battle.py](./py/battle.py)
+
+---
